@@ -1,75 +1,75 @@
-File	BK	BKID	Title	Chap	HN	vs PCE	Completed
-0	A0	FRT	Front Matter		00	1	0
-1	1	GEN	Genesis	50	01	1	50
-2	2	EXO	Exodus	40	02		0
-3	3	LEV	Leviticus	27	03		0
-4	4	NUM	Numbers	36	04		0
-5	5	DEU	Deuteronomy	34	05		0
-6	6	JOS	Joshua	24	06		0
-7	7	JDG	Judges	21	07		0
-8	8	RUT	Ruth	4	08	1	4
-9	9	1SA	1 Samuel	31	09		0
-10	10	2SA	2 Samuel	24	10		0
-11	11	1KI	1 Kings	22	11		0
-12	12	2KI	2 Kings	25	12		0
-13	13	1CH	1 Chronicles	29	13		0
-14	14	2CH	2 Chronicles	36	14		0
-15	15	EZR	Ezra	10	15		0
-16	16	NEH	Nehemiah	13	16		0
-17	17	EST	Esther (Hebrew)	10	17		0
-18	18	JOB	Job	42	18		0
-19	19	PSA	Psalms	150	19		0
-20	20	PRO	Proverbs	31	20		0
-21	21	ECC	Ecclesiastes	12	21		0
-22	22	SNG	Song of Songs	8	22		0
-23	23	ISA	Isaiah	66	23		0
-24	24	JER	Jeremiah	52	24		0
-25	25	LAM	Lamentations	5	25		0
-26	26	EZK	Ezekiel	48	26		0
-27	27	DAN	Daniel (Hebrew)	12	27		0
-28	28	HOS	Hosea	14	28		0
-29	29	JOL	Joel	3	29		0
-30	30	AMO	Amos	9	30		0
-31	31	OBA	Obadiah	1	31	1	1
-32	32	JON	Jonah	4	32	1	4
-33	33	MIC	Micah	7	33	1	7
-34	34	NAM	Nahum	3	34	1	3
-35	35	HAB	Habakkuk	3	35		0
-36	36	ZEP	Zephaniah	3	36		0
-37	37	HAG	Haggai	2	37		0
-38	38	ZEC	Zechariah	14	38		0
-39	39	MAL	Malachi	4	39		0
-	A7	INT	Introduction Matter		40		0
-40	41	MAT	Matthew	28	41		0
-41	42	MRK	Mark	16	42	1	16
-42	43	LUK	Luke	24	43		0
-43	44	JHN	John	21	44	1	21
-44	45	ACT	Acts	28	45	0.25	7
-45	46	ROM	Romans	16	46	1	16
-46	47	1CO	1 Corinthians	16	47	1	16
-47	48	2CO	2 Corinthians	13	48	1	13
-48	49	GAL	Galatians	6	49	1	6
-49	50	EPH	Ephesians	6	50	1	6
-50	51	PHP	Philippians	4	51	1	4
-51	52	COL	Colossians	4	52	1	4
-52	53	1TH	1 Thessalonians	5	53	1	5
-53	54	2TH	2 Thessalonians	3	54	1	3
-54	55	1TI	1 Timothy	6	55	1	6
-55	56	2TI	2 Timothy	4	56	1	4
-56	57	TIT	Titus	3	57	1	3
-57	58	PHM	Philemon	1	58	1	1
-58	59	HEB	Hebrews	13	59	1	13
-59	60	JAS	James	5	60	1	5
-60	61	1PE	1 Peter	5	61	1	5
-61	62	2PE	2 Peter	3	62	1	3
-62	63	1JN	1 John	5	63	1	5
-63	64	2JN	2 John	1	64	1	1
-64	65	3JN	3 John	1	65	1	1
-65	66	JUD	Jude	1	66	1	1
-66	67	REV	Revelation	22	67	1	22
-67	A1	BAK	Back Matter		6A		0
-	A2	OTH	Other Matter		6F		0
-	A8	CNC	Concordance		6B		0
-	A9	GLO	Glossary / Wordlist		6C		0
-	B0	TDX	Topical Index		6D		0
-	B1	NDX	Names Index		6E		0
+File,BK,BKID,HN,Ch,vs PCE,Chk,Title
+0,A0,FRT,00,,1,0,Front Matter
+1,1,GEN,01,50,1,50,Genesis
+2,2,EXO,02,40,,0,Exodus
+3,3,LEV,03,27,,0,Leviticus
+4,4,NUM,04,36,,0,Numbers
+5,5,DEU,05,34,,0,Deuteronomy
+6,6,JOS,06,24,,0,Joshua
+7,7,JDG,07,21,,0,Judges
+8,8,RUT,08,4,1,4,Ruth
+9,9,1SA,09,31,,0,1 Samuel
+10,10,2SA,10,24,,0,2 Samuel
+11,11,1KI,11,22,,0,1 Kings
+12,12,2KI,12,25,,0,2 Kings
+13,13,1CH,13,29,,0,1 Chronicles
+14,14,2CH,14,36,,0,2 Chronicles
+15,15,EZR,15,10,,0,Ezra
+16,16,NEH,16,13,,0,Nehemiah
+17,17,EST,17,10,,0,Esther (Hebrew)
+18,18,JOB,18,42,,0,Job
+19,19,PSA,19,150,,0,Psalms
+20,20,PRO,20,31,,0,Proverbs
+21,21,ECC,21,12,,0,Ecclesiastes
+22,22,SNG,22,8,,0,Song of Songs
+23,23,ISA,23,66,,0,Isaiah
+24,24,JER,24,52,,0,Jeremiah
+25,25,LAM,25,5,,0,Lamentations
+26,26,EZK,26,48,,0,Ezekiel
+27,27,DAN,27,12,,0,Daniel (Hebrew)
+28,28,HOS,28,14,,0,Hosea
+29,29,JOL,29,3,,0,Joel
+30,30,AMO,30,9,,0,Amos
+31,31,OBA,31,1,1,1,Obadiah
+32,32,JON,32,4,1,4,Jonah
+33,33,MIC,33,7,1,7,Micah
+34,34,NAM,34,3,1,3,Nahum
+35,35,HAB,35,3,,0,Habakkuk
+36,36,ZEP,36,3,,0,Zephaniah
+37,37,HAG,37,2,,0,Haggai
+38,38,ZEC,38,14,,0,Zechariah
+39,39,MAL,39,4,,0,Malachi
+,A7,INT,40,,,0,Introduction Matter
+40,41,MAT,41,28,1,28,Matthew
+41,42,MRK,42,16,1,16,Mark
+42,43,LUK,43,24,,0,Luke
+43,44,JHN,44,21,1,21,John
+44,45,ACT,45,28,1,28,Acts
+45,46,ROM,46,16,1,16,Romans
+46,47,1CO,47,16,1,16,1 Corinthians
+47,48,2CO,48,13,1,13,2 Corinthians
+48,49,GAL,49,6,1,6,Galatians
+49,50,EPH,50,6,1,6,Ephesians
+50,51,PHP,51,4,1,4,Philippians
+51,52,COL,52,4,1,4,Colossians
+52,53,1TH,53,5,1,5,1 Thessalonians
+53,54,2TH,54,3,1,3,2 Thessalonians
+54,55,1TI,55,6,1,6,1 Timothy
+55,56,2TI,56,4,1,4,2 Timothy
+56,57,TIT,57,3,1,3,Titus
+57,58,PHM,58,1,1,1,Philemon
+58,59,HEB,59,13,1,13,Hebrews
+59,60,JAS,60,5,1,5,James
+60,61,1PE,61,5,1,5,1 Peter
+61,62,2PE,62,3,1,3,2 Peter
+62,63,1JN,63,5,1,5,1 John
+63,64,2JN,64,1,1,1,2 John
+64,65,3JN,65,1,1,1,3 John
+65,66,JUD,66,1,1,1,Jude
+66,67,REV,67,22,1,22,Revelation
+67,A1,BAK,6A,,,0,Back Matter
+,A2,OTH,6F,,,0,Other Matter
+,A8,CNC,6B,,,0,Concordance
+,A9,GLO,6C,,,0,Glossary / Wordlist
+,B0,TDX,6D,,,0,Topical Index
+,B1,NDX,6E,,,0,Names Index
