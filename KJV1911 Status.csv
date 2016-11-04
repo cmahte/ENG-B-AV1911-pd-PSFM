@@ -42,7 +42,7 @@ File,BK,BKID,HN,Ch,vs PCE,Chk,Title
 ,A7,INT,40,,,0,Introduction Matter
 40,41,MAT,41,28,1,28,Matthew
 41,42,MRK,42,16,1,16,Mark
-42,43,LUK,43,24,,0,Luke
+42,43,LUK,43,24,1,24,Luke
 43,44,JHN,44,21,1,21,John
 44,45,ACT,45,28,1,28,Acts
 45,46,ROM,46,16,1,16,Romans
