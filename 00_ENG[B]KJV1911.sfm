@@ -1,14 +1,31 @@
-\id FRT
+\id FRT  ENG - The 1911 Bible, Oxford University Press
+\ide UTF-8
 \periph Sources
-\b4
+\h Source Info
+\h0 Source Info
+\toc1 Source Info
+\toc2 Sources
+\toc3 Sources
 \pc LIBRARY OF PRINCETON THEOLOGICAL SEMINARY]
 \b2
 \pc BS185.1911.N5C.2
 \pc 1911 Bible
 \periph Half Title Page
+\h Title
+\h0 
+\h1 Title Page
+\toc1 Title Page
+\toc2 Title
+\toc3 Title
 \mt1 The Holy Bible
 \mt2 1611 — 1911
 \periph Title Page
+\h Title Page
+\h0 
+\h1 Title Page
+\toc1 Title Page
+\toc2 Title
+\toc3 Title
 \pc \bd The 1911 Bible\bd*
 \b2
 \mt4 The
@@ -30,12 +47,18 @@
 \pc London, Toronto, and Melbourne
 \pc 1911
 \periph Publication Data
+\h Publication Data
+\h0 The 1911 Bible
+\h1 Publication Data
+\toc1 Copyright Info
+\toc2 Copyright
+\toc3 Rights
 \b9
 \pc COPYRIGHT 1911 BY
 \pc OXFORD UNIVERSITY PRESS
 \pc AMERICAN BRANCH
 \periph Preface to the 1911 Edition
-\h0 Preface
+\h0 The 1911 Bible
 \h1 Preface
 \toc1 Preface to the 1911 Edition
 \ms1 PREFACE
@@ -53,8 +76,12 @@
 \li1 II. A new collected-reference system, the plan of which is to concentrate at the passage where a word is used in its most characteristic sense the more important occurrences of that word elsewhere in the Bible. At all other places where the word occurs there are references to the central passage. No other reference plan so facilitates the illustration of Scripture by Scripture.
 \li1 III. A new method of paragraphing. All readers of the Bible know the impor- tance of observing the paragraphs. These, obscured in part by the division of the text into verses, are in the present edition brought into great distinctness by simply leaving narrow blank spaces between the paragraphs, so that the verses that make up any paragraph are slightly separated from the group of verses composing the preceding and the following paragraphs. It is surprising to how great a degree the interest of the reader is aroused and held by this simple expedient.
 \periph Contents
+\h Contents
 \h0 Contents
 \h1 Contents
+\toc1 Table of Contents
+\toc2 Contents
+\toc3 Contents
 \ms1 THE NAMES AND ORDER
 \ms3 OF ALL THE BOOKS OF THE OLD AND NEW TESTAMENT
 \pc WITH THE NUMBER OF THEIR CHAPTERS
@@ -63,10 +90,14 @@
 \ms4 THE BOOKS OF THE NEW TESTAMENT
 \rem MATTHEW . 881 . . . 28 Mark . 916 . . . 16 Luke .... . 938 . . . 24 John .... . 975 . . . 21 The Acts . . . . . 1002 . . 28 To the Romans . . 1037 . . 16 I Corinthians . . 1051 . . 16 II Corinthians . . 1065 . . 13 Galatians . . . 1074 . . 6 Epbesians . . . 1079 . . 6 Philippians . . . . 1084 . . . 4 Colossians . . . 1088 . . 4 I Thessalonians . 1092 . . . 5 n Thessalonians . . 1095 . . 3 PAGE I Timothy .... 1097 II Timothy .... 1101 Titus 1104 Philemon 1106 To the Hebrews . . 1107 Epistle of James . . 1118 I Peter 1122 II Peter 1126 I John 1129 II John 1133 III John 1134 Jude 1135 Revelation .... 1136 I V
 \periph Foreword
-\h The Translators 
+\h The Translators to the Reader
+\h0 The Translators 
 \h1 To the Reader
+\toc1 Translators Foreword
+\toc2 Foreword
+\toc3 Foreword
+\pc  \bd Preface to the King James Version of 1611\bd*
 \ms1 THE TRANSLATORS TO THE READER
-\s Preface to the King James Version of 1611
 \s THE BEST THINGS HAVE BEEN CALUMNIATED
 \p Zeal to promote the common good, whether it be by devising anything ourselves, or revising that which hath been laboured by others, deserveth certainly much respect and esteem, but yet findeth but cold entertainment in the world. It is welcomed with suspicion instead of love, and with emulation instead of thanks: and if there be any hole left for cavil to enter, (and cavil, if it do not find a hole, will make one) it is sure to be misconstrued, and in danger to be condemned. This will easily be granted by as many as know story, or have any experience. For, was there ever any-projected, that savoured any way of newness or renewing, but the same endured many a storm of gainsaying, or opposition? A man would think that Civility, wholesome Laws, learning and eloquence, Synods, and Church-maintenance, (that we speak of no more things of this kind) should be as safe as a Sanctuary, and out of shot, as they say, that no man would lift up the heel, no, nor dog move his tongue against the motioners of them. For by the first, we are distinguished from brute beasts lead with sensuality; By the second, we are bridled and restrained from outrageous behaviour, and from doing of injuries, whether by fraud or by violence; By the third, we are enabled to inform and reform others, by the light and feeling that we have attained unto ourselves; Briefly, by the fourth being brought together to a parley face to face, we sooner compose our differences than by writings which are endless; And lastly, that the Church be sufficiently provided for, is so agreeable to good reason and conscience, that those mothers are holden to be less cruel, that kill their children as soon as they are born, than those nursing fathers and mothers (wheresoever they be) that withdraw from them who hang upon their breasts (and upon whose breasts again themselves do hang to receive the Spiritual and sincere milk of the word) livelihood and support fit for their estates. Thus it is apparent, that these things which we speak of, are of most necessary use, and therefore, that none, either without absurdity can speak against them, or without note of wickedness can spurn against them.
 \p Yet for all that, the learned know that certain worthy men [Anacharsis with others] have been brought to untimely death for none other fault, but for seeking to reduce their Countrymen to god order and discipline; and that in some Commonwealths [e.g. Locri] it was made a capital crime, once to motion the making of a new Law for the abrogating of an old, though the same were most pernicious; And that certain [Cato the elder], which would be counted pillars of the State, and patterns of Virtue and Prudence, could not be brought for a long time to give way to good Letters and refined speech, but bare themselves as averse from them, as from rocks or boxes of poison; And fourthly, that he was no babe, but a great clerk [Gregory the Divine], that gave forth (and in writing to remain to posterity) in passion peradventure, but yet he gave forth, that he had not seen any profit to come by any Synod, or meeting of the Clergy, but rather the contrary; And lastly, against Church-maintenance and allowance, in such sort, as the Ambassadors and messengers of the great King of Kings should be furnished, it is not unknown what a fiction or fable (so it is esteemed, and for no better by the reporter himself [Nauclerus], though superstitious) was devised; Namely, that at such a time as the professors and teachers of Christianity in the Church of Rome, then a true Church, were liberally endowed, a voice forsooth was heard from heaven, saying: Now is poison poured down into the Church, etc. Thus not only as oft as we speak, as one saith, but also as oft as we do anything of note or consequence, we subject ourselves to everyone’s censure, and happy is he that is least tossed upon tongues; for utterly to escape the snatch of them it is impossible. If any man conceit, that this is the lot and portion of the meaner sort only, and that Princes are privileged by their high estate, he is deceived. “As the sword devoureth as well one as the other,” as it is in Samuel [2 Sam 11:25], nay as the great Commander charged his soldiers in a certain battle, to strike at no part of the enemy, but at the face; And as the King of Syria commanded his chief Captains to “fight neither with small nor great, save only against the King of Israel:” [1 Kings 22:31] so it is too true, that Envy striketh most spitefully at the fairest, and at the chiefest. David was a worthy Prince, and no man to be compared to him for his first deeds, and yet for as worthy as act as ever he did (even for bringing back the Ark of God in solemnity) he was scorned and scoffed at by his own wife [2 Sam 6:16]. Solomon was greater than David, though not in virtue, yet in power: and by his power and wisdom he built a Temple to the Lord, such a one as was the glory of the land of Israel, and the wonder of the whole world. But was that his magnificence liked of by all? We doubt it. Otherwise, why do they lay it in his son’s dish, and call unto him for easing the burden, “Make”, say they, “the grievous servitude of thy father, and his sore yoke, lighter?” [1 Kings 12:4] Belike he had charged them with some levies, and troubled them with some carriages; Hereupon they raise up a tragedy, and wish in their heart the Temple had never been built. So hard a thing it is to please all, even when we please God best, and do seek to approve ourselves to every ones conscience.
@@ -101,6 +132,9 @@
 \p Many other things we might give thee warning of (gentle Reader) if we had not exceeded the measure of a Preface already. It remaineth, that we commend thee to God, and to the Spirit of his grace, which is able to build further than we can ask or think. He removeth the scales from our eyes, the vail from our hearts, opening our wits that we may understand his word, enlarging our hearts, yea correcting our affections, that we may love it to the end. Ye are brought unto fountains of living water which ye digged not; do not cast earth into them with the Philistines, neither prefer broken pits before them with the wicked Jews. [Gen 26:15. Jer 2:13.] Others have laboured, and you may enter into their labours; O receive not so great things in vain, O despise not so great salvation! Be not like swine to tread under foot so precious things, neither yet like dogs to tear and abuse holy things. Say not to our Saviour with the Gergesites, Depart out of our coast [Matt 8:34]; neither yet with Esau sell your birthright for a mess of pottage [Heb 12:16]. If light be come into the world, love not darkness more than light; if food, if clothing be offered, go not naked, starve not yourselves. Remember the advice of Nazianzene, “It is a grievous thing” (or dangerous) “to neglect a great fair, and to seek to make markets afterwards: also the encouragement of S. Chrysostom, “It is altogether impossible, that he that is sober” (and watchful) “should at any time be neglected:” [S. Chrysost. in epist. ad Rom. cap. 14. oral. 26.] Lastly, the admonition and menacing of S. Augustine, “They that despise God’s will inviting them, shall feel God’s will taking vengeance of them.” [S. August. ad artic. sibi falso object. Artic. 16.] It is a fearful thing to fall into the hands of the living God; [Heb 10:31] but a blessed thing it is, and will bring us to everlasting blessedness in the end, when God speaketh unto us, to hearken; when he setteth his word before us, to read it; when he stretcheth out his hand and calleth, to answer, Here am I, here we are to do thy will, O God. The Lord work a care and conscience in us to know him and serve him, that we may be acknowledged of him at the appearing of our Lord Jesus Christ, to whom with the holy Ghost, be all praise and thanksgiving.
 \p Amen.
 \periph NT Title page
+\h New Testament
+\h0 The 1911 Bible
+\h1 The New Testament
 \pc \bd The 1911 Bible\bd*
 \b3
 \mt5 The
