@@ -1,31 +1,16 @@
 \id FRT  ENG - The 1911 Bible, Oxford University Press
 \ide UTF-8
-\periph Sources
-\h Source Info
-\h0 Source Info
-\toc1 Source Info
-\toc2 Sources
-\toc3 Sources
-\pc LIBRARY OF PRINCETON THEOLOGICAL SEMINARY]
-\b2
-\pc BS185.1911.N5C.2
-\pc 1911 Bible
+\toc4 \bd Introductory Pages\bd*
 \periph Half Title Page
 \h Title
 \h0 
 \h1 Title Page
-\toc1 Title Page
-\toc2 Title
-\toc3 Title
 \mt1 The Holy Bible
 \mt2 1611 — 1911
 \periph Title Page
 \h Title Page
 \h0 
 \h1 Title Page
-\toc1 Title Page
-\toc2 Title
-\toc3 Title
 \pc \bd The 1911 Bible\bd*
 \b2
 \mt4 The
@@ -40,23 +25,48 @@
 \b2
 \pc With a New System of References
 \b4
-\pc Oxford University Press
-\pc American Branch
-\pc New York: 35 West 32nd Street
-\pc Henry Frowde
-\pc London, Toronto, and Melbourne
-\pc 1911
 \periph Publication Data
 \h Publication Data
 \h0 The 1911 Bible
 \h1 Publication Data
 \toc1 Copyright Info
-\toc2 Copyright
-\toc3 Rights
 \b9
 \pc COPYRIGHT 1911 BY
 \pc OXFORD UNIVERSITY PRESS
 \pc AMERICAN BRANCH
+\periph Sources
+\h1 Text Source
+\toc1 Text Sources
+\ms3 Text Sources
+\p The following resources made this edition possible: 
+\b2
+\m Source Text: The 1911 Bible : the Holy Bible
+\m Contributor: Princeton Theological Seminary Library
+\m Contributor Identifier: BS185.1911.N5C.2
+\m Digitizing sponsor: Internet Archive
+\m Internet Archive Identifier: 1911bibleholybib00nyox
+\m Scanner:  scribe8.nyc.archive.org
+\m Scanning center: New York City
+\m Uploaded by: nicole.deyo on 11/19/2008
+\b2
+\m Source Text: The Student's Bible : containing the 1911 Bible
+\m Contributor Accession No. 244
+\m Contributor Catalog No. A833.3/B1911
+\m Digitizing sponsor: Boston Library Consortium Member Libraries
+\m Contributor: School of Theology, Boston University
+\m Library of: Massachusetts Bible Society
+\m Internet Archive Identifier: studentsbiblecon00oxfo
+\m Scanner: scribe7.boston.archive.org
+\m Scanningcenter: Boston
+\m Uploaded by: LisaEgge on 8/13/2009
+\b2
+\m Original Source Text published by: 
+\mi Oxford University Press
+\mi American Branch
+\mi New York: 35 West 32nd Street
+\mi Henry Frowde, Humphrey Milford
+\mi London, Toronto, and Melbourne, and Bombay
+\mi Original publication date: 1911
 \periph Preface to the 1911 Edition
 \h0 The 1911 Bible
 \h1 Preface
@@ -84,13 +94,12 @@
 \toc3 Contents
 \ms1 THE NAMES AND ORDER
 \ms3 OF ALL THE BOOKS OF THE OLD AND NEW TESTAMENT
-\pc WITH THE NUMBER OF THEIR CHAPTERS
-\ms 4THE BOOKS OF THE OLD TESTAMENT
+\rem WITH THE NUMBER OF THEIR CHAPTERS
+\rem THE BOOKS OF THE OLD TESTAMENT
 \rem PAGE GENESIS 3 Exodus 57 Leviticus 103 Numbers 136 Deuteronomy .... 183 Joshua 222 Judges 249 Ruth 276 I Samuel ..... 280 II Samuel 315 I Kings 344 n Kings 378 I Chronicles .... 410 II Chronicles .... 441 Ezra 478 Nehemiah 489 Esther 505 Job 513 Psalms 540 Proverbs 607 50 40 27 36 34 24 21 4 31 24 22 25 29 36 10 13 10 42 150 31 PAGE Ecclesiastes .... 630 Song of Solomon . . 638 Isaiah 642 Jeremiah 694 Lamentations . . . 753 Ezekiel 758 Daniel 812 Hosea 829 Joel 837 Amos 840 Obadiah 846 Jonah 847 Micah 849 Nahum 854 Habakkuk . . . . 856 Zephaniah . , . . 859 Haggai 862 Zechariah .... 864 Malachi 873 VI'
-\ms4 THE BOOKS OF THE NEW TESTAMENT
+\rem THE BOOKS OF THE NEW TESTAMENT
 \rem MATTHEW . 881 . . . 28 Mark . 916 . . . 16 Luke .... . 938 . . . 24 John .... . 975 . . . 21 The Acts . . . . . 1002 . . 28 To the Romans . . 1037 . . 16 I Corinthians . . 1051 . . 16 II Corinthians . . 1065 . . 13 Galatians . . . 1074 . . 6 Epbesians . . . 1079 . . 6 Philippians . . . . 1084 . . . 4 Colossians . . . 1088 . . 4 I Thessalonians . 1092 . . . 5 n Thessalonians . . 1095 . . 3 PAGE I Timothy .... 1097 II Timothy .... 1101 Titus 1104 Philemon 1106 To the Hebrews . . 1107 Epistle of James . . 1118 I Peter 1122 II Peter 1126 I John 1129 II John 1133 III John 1134 Jude 1135 Revelation .... 1136 I V
 \periph Foreword
-\h The Translators to the Reader
 \h0 The Translators 
 \h1 To the Reader
 \toc1 Translators Foreword
