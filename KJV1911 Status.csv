@@ -19,7 +19,7 @@ File,BK,BKID,HN,Ch,vs PCE,Chk,Title
 17,17,EST,17,10,,0,Esther (Hebrew)
 18,18,JOB,18,42,,0,Job
 19,19,PSA,19,150,1,150,Psalms
-20,20,PRO,20,31,,0,Proverbs
+20,20,PRO,20,31,0.4838709677,15,Proverbs
 21,21,ECC,21,12,,0,Ecclesiastes
 22,22,SNG,22,8,,0,Song of Songs
 23,23,ISA,23,66,,0,Isaiah
