@@ -6,7 +6,7 @@ File,BK,BKID,HN,Ch,vs PCE,Chk,Title
 4,4,NUM,04,36,,0,Numbers
 5,5,DEU,05,34,,0,Deuteronomy
 6,6,JOS,06,24,,0,Joshua
-7,7,JDG,07,21,,0,Judges
+7,7,JDG,07,5,,0,Judges
 8,8,RUT,08,4,1,4,Ruth
 9,9,1SA,09,31,,0,1 Samuel
 10,10,2SA,10,24,,0,2 Samuel
@@ -18,7 +18,7 @@ File,BK,BKID,HN,Ch,vs PCE,Chk,Title
 16,16,NEH,16,13,,0,Nehemiah
 17,17,EST,17,10,,0,Esther (Hebrew)
 18,18,JOB,18,42,,0,Job
-19,19,PSA,19,150,,0,Psalms
+19,19,PSA,19,150,1,150,Psalms
 20,20,PRO,20,31,,0,Proverbs
 21,21,ECC,21,12,,0,Ecclesiastes
 22,22,SNG,22,8,,0,Song of Songs
@@ -41,9 +41,9 @@ File,BK,BKID,HN,Ch,vs PCE,Chk,Title
 39,39,MAL,39,4,,0,Malachi
 ,A7,INT,40,,,0,Introduction Matter
 40,41,MAT,41,28,1,28,Matthew
-41,42,MRK,42,16,1,16,Mark
+41,42,MRK,42,7,1,7,Mark
 42,43,LUK,43,24,1,24,Luke
-43,44,JHN,44,21,1,21,John
+43,44,JHN,44,52,1,52,John
 44,45,ACT,45,28,1,28,Acts
 45,46,ROM,46,16,1,16,Romans
 46,47,1CO,47,16,1,16,1 Corinthians
