@@ -1,75 +1,86 @@
-File,BK,BKID,HN,Ch,vs PCE,Pars,Chk,Title
-0,A0,FRT,00,,1,,0,Front Matter
-1,1,GEN,01,50,1,,50,Genesis
-2,2,EXO,02,40,,,0,Exodus
-3,3,LEV,03,27,,,0,Leviticus
-4,4,NUM,04,36,,,0,Numbers
-5,5,DEU,05,34,,,0,Deuteronomy
-6,6,JOS,06,24,,,0,Joshua
-7,7,JDG,07,21,,,0,Judges
-8,8,RUT,08,4,1,,4,Ruth
-9,9,1SA,09,31,,,0,1 Samuel
-10,10,2SA,10,24,,,0,2 Samuel
-11,11,1KI,11,22,,,0,1 Kings
-12,12,2KI,12,25,,,0,2 Kings
-13,13,1CH,13,29,,,0,1 Chronicles
-14,14,2CH,14,36,,,0,2 Chronicles
-15,15,EZR,15,10,1,,10,Ezra
-16,16,NEH,16,13,,,0,Nehemiah
-17,17,EST,17,10,,,0,Esther (Hebrew)
-18,18,JOB,18,42,,,0,Job
-19,19,PSA,19,150,1,,150,Psalms
-20,20,PRO,20,31,1,,31,Proverbs
-21,21,ECC,21,12,1,,12,Ecclesiastes
-22,22,SNG,22,8,1,,8,Song of Songs
-23,23,ISA,23,66,,,0,Isaiah
-24,24,JER,24,52,,,0,Jeremiah
-25,25,LAM,25,5,1,,5,Lamentations
-26,26,EZK,26,48,,,0,Ezekiel
-27,27,DAN,27,12,,,0,Daniel (Hebrew)
-28,28,HOS,28,14,,,0,Hosea
-29,29,JOL,29,3,,,0,Joel
-30,30,AMO,30,9,,,0,Amos
-31,31,OBA,31,1,1,,1,Obadiah
-32,32,JON,32,4,1,,4,Jonah
-33,33,MIC,33,7,1,,7,Micah
-34,34,NAM,34,3,1,,3,Nahum
-35,35,HAB,35,3,,,0,Habakkuk
-36,36,ZEP,36,3,,,0,Zephaniah
-37,37,HAG,37,2,,,0,Haggai
-38,38,ZEC,38,14,,,0,Zechariah
-39,39,MAL,39,4,,,0,Malachi
-,A7,INT,40,,,,0,Introduction Matter
-40,41,MAT,41,28,1,,28,Matthew
-41,42,MRK,42,16,1,,16,Mark
-42,43,LUK,43,24,1,,24,Luke
-43,44,JHN,44,21,1,,21,John
-44,45,ACT,45,28,1,,28,Acts
-45,46,ROM,46,16,1,,16,Romans
-46,47,1CO,47,16,1,,16,1 Corinthians
-47,48,2CO,48,13,1,,13,2 Corinthians
-48,49,GAL,49,6,1,,6,Galatians
-49,50,EPH,50,6,1,,6,Ephesians
-50,51,PHP,51,4,1,,4,Philippians
-51,52,COL,52,4,1,,4,Colossians
-52,53,1TH,53,5,1,,5,1 Thessalonians
-53,54,2TH,54,3,1,,3,2 Thessalonians
-54,55,1TI,55,6,1,,6,1 Timothy
-55,56,2TI,56,4,1,,4,2 Timothy
-56,57,TIT,57,3,1,,3,Titus
-57,58,PHM,58,1,1,,1,Philemon
-58,59,HEB,59,13,1,,13,Hebrews
-59,60,JAS,60,5,1,,5,James
-60,61,1PE,61,5,1,1911,5,1 Peter
-61,62,2PE,62,3,1,1911,3,2 Peter
-62,63,1JN,63,5,1,1911,5,1 John
-63,64,2JN,64,1,1,1911,1,2 John
-64,65,3JN,65,1,1,1911,1,3 John
-65,66,JUD,66,1,1,1911,1,Jude
-66,67,REV,67,22,1,1911,22,Revelation
-67,A1,BAK,6A,,,,0,Back Matter
-,A2,OTH,6F,,,,0,Other Matter
-,A8,CNC,6B,,,,0,Concordance
-,A9,GLO,6C,,,,0,Glossary / Wordlist
-,B0,TDX,6D,,,,0,Topical Index
-,B1,NDX,6E,,,,0,Names Index
+File,BK,BKID,HN,Ch,vs PCE,Pars,Chk,Title,Canon,Hist
+1,1,GEN,01,50,1,,50,Genesis,B102,B202
+2,2,EXO,02,40,,,0,Exodus,B103,B203
+3,3,LEV,03,27,,,0,Leviticus,B104,B204
+4,4,NUM,04,36,,,0,Numbers,B105,B205
+5,5,DEU,05,34,,,0,Deuteronomy,B106,B206
+6,6,JOS,06,24,,,0,Joshua,B110,B210
+7,7,JDG,07,21,,,0,Judges,B111,B211
+8,8,RUT,08,4,1,,4,Ruth,B112,B239
+9,9,1SA,09,31,,,0,1 Samuel,B113,B212
+10,10,2SA,10,24,,,0,2 Samuel,B114,B213
+11,11,1KI,11,22,,,0,1 Kings,B115,B214
+12,12,2KI,12,25,,,0,2 Kings,B116,B215
+13,13,1CH,13,29,,,0,1 Chronicles,B117,B246
+14,14,2CH,14,36,,,0,2 Chronicles,B118,B247
+15,15,EZR,15,10,1,,10,Ezra,B119,B244
+16,16,NEH,16,13,1,,13,Nehemiah,B120,B245
+17,17,EST,17,10,,,0,Esther (Hebrew),B121,B242
+18,18,JOB,18,42,,,0,Job,B125,B237
+19,19,PSA,19,150,1,,150,Psalms,B126,B235
+20,20,PRO,20,31,1,,31,Zechariah,B127,B236
+21,21,ECC,21,12,1,,12,Ecclesiastes,B128,B241
+22,22,SNG,22,8,1,,8,Song of Songs,B129,B238
+23,23,ISA,23,66,,,0,Isaiah,B132,B216
+24,24,JER,24,52,,,0,Jeremiah,B133,B217
+25,25,LAM,25,5,1,,5,Lamentations,B134,B240
+26,26,EZK,26,48,,,0,Ezekiel,B135,B218
+27,27,DAN,27,12,,,0,Daniel (Hebrew),B136,B243
+28,28,HOS,28,14,,,0,Hosea,B137,B219
+29,29,JOL,29,3,,,0,Joel,B138,B220
+30,30,AMO,30,9,,,0,Amos,B139,B221
+31,31,OBA,31,1,1,,1,Obadiah,B140,B222
+32,32,JON,32,4,1,,4,Jonah,B141,B223
+33,33,MIC,33,7,1,,7,Micah,B142,B224
+34,34,NAM,34,3,1,,3,Nahum,B143,B225
+35,35,HAB,35,3,,,0,Habakkuk,B144,B226
+36,36,ZEP,36,3,,,0,Zephaniah,B145,B227
+37,37,HAG,37,2,,,0,Haggai,B146,B228
+38,38,ZEC,38,14,,,0,Zechariah,B147,B229
+39,39,MAL,39,4,,,0,Malachi,B148,B230
+40,41,MAT,41,28,1,,28,Matthew,B151,B253
+41,42,MRK,42,16,1,,16,Mark,B152,B254
+42,43,LUK,43,24,1,,24,Luke,B153,B255
+43,44,JHN,44,21,1,,21,John,B154,B251
+44,45,ACT,45,28,1,,28,Acts,B155,B256
+45,46,ROM,46,16,1,,16,Romans,B156,B257
+46,47,1CO,47,16,1,,16,1 Corinthians,B157,B258
+47,48,2CO,48,13,1,,13,2 Corinthians,B158,B259
+48,49,GAL,49,6,1,,6,Galatians,B159,B261
+49,50,EPH,50,6,1,,6,Ephesians,B160,B262
+50,51,PHP,51,4,1,,4,Philippians,B161,B263
+51,52,COL,52,4,1,,4,Colossians,B162,B264
+52,53,1TH,53,5,1,,5,1 Thessalonians,B163,B265
+53,54,2TH,54,3,1,,3,2 Thessalonians,B164,B266
+54,55,1TI,55,6,1,,6,1 Timothy,B165,B267
+55,56,2TI,56,4,1,,4,2 Timothy,B166,B268
+56,57,TIT,57,3,1,,3,Titus,B167,B269
+57,58,PHM,58,1,1,,1,Philemon,B168,B270
+58,59,HEB,59,13,1,,13,Hebrews,B169,B260
+59,60,JAS,60,5,1,,5,James,B170,B273
+60,61,1PE,61,5,1,1911,5,1 Peter,B171,B271
+61,62,2PE,62,3,1,1911,3,2 Peter,B172,B272
+62,63,1JN,63,5,1,1911,5,1 John,B173,B252
+63,64,2JN,64,1,1,1911,1,2 John,B174,B274
+64,65,3JN,65,1,1,1911,1,3 John,B175,B275
+65,66,JUD,66,1,1,1911,1,Jude,B176,B276
+66,67,REV,67,22,1,1911,22,Revelation,B177,B277
+0,A0,FRT,00,,1,,0,Front Matter,B100,B200
+67,A1,BAK,6A,,,,0,Back Matter,B184,B286
+,A2,OTH,6F,,,,0,Other Matter,B183,B284
+,A7,INT,40,,,,0,NT Intro,B150,B250
+,A8,CNC,6B,,,,0,Concordance,B182,B282
+,A9,GLO,6C,,,,0,Glossary / Wordlist,B179,B283
+,B0,TDX,6D,,,,0,Topical Index,B180,B281
+,B1,NDX,6E,,,,0,Names Index,B181,B285
+,,INT,,,,,,Law Front Matter,B101,B201
+,,,,,,,,Law Back Matter,B107,B207
+,,INT,,,,,,History A Front,B108,B208
+,,INT,,,,,,History B Front,B109,B234
+,,,,,,,,History A Back,B122,B231
+,,,,,,,,History B Back,B123,B249
+,,INT,,,,,,Writings Intro,B124,B233
+,,,,,,,,Writings Back,B130,B248
+,,INT,,,,,,Prophets Intro,B131,B209
+,,,,,,,,Prophets Back,B149,B232
+,,,,,,,,NT Back Matter,B178,B280
