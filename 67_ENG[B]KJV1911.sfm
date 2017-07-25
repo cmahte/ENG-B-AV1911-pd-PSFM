@@ -3,12 +3,102 @@
 \h
 \h0 The 1911 Bible
 \toc4 Appendices
+\ms1 Appendices
+\m Table of Weights and Measures
+\m Indexed Atlas to the Holy Bible
+\periph Weights and Measures
+\ms1 Tables of Measures, Weights, and Time
+\ms3 A table of time
+\tr \th NIGHT (OLD TESTAMENT).
+\tr \tc1 First Watch \tc2 from Sunset \tc3 to 10 p.m.
+\tr \tc1 Middle Watch \tc2 from 10 p.m. \tc3 to 2 a.m.
+\tr \tc1 Morning Watch \tc2 from 2 a.m. \tc3 till Sunrise
+\tr \th NIGHT (NEW TESTAMENT).
+\tr \tc1 First Watch \tc2 from 6 p.m. \tc3 to 9 p.m.
+\tr \tc1 Second Watch \tc2 from 9 p.m. \tc3 to 12 p.m.
+\tr \tc1 Third Watch \tc2 from 12 a.m. \tc3 to 3 a.m.
+\tr \tc1 Fourth Watch \tc2 from 3 am \tc3 to 6 a. m.
+\tr \th DAY (OLD TESTAMENT).
+\m Morning -till about 10 a. m.
+\m Heat ol the Day— till about 3 p. M.
+\m Cool of the Day —till sunset.
+\tr \th DAY (NEW TESTAMENT).
+\m First Hour —from 6 to 7 a. m.
+\m Third Hour — from 8 to 9 a. m.
+\m Sixth Hour —from 11 to 12 a. m.
+\m Ninth Hour —from 2 to 3 p. M.
+\m Eleventh Hour—from 4 to 6 P M.
+\ms3 A Table of Weights
+\tr \th1 WEIGHT.\th2 Pounds \th3 Ounces \th4 Drams \th5 Grains
+\tr \tc1 1 Gerah \tc2 0 \tc3 0 \tc4 0 \tc5 12.62
+\tr \tc1 1 Bekah = 10 Gerahs \tc2 0 \tc3 0 \tc4 4 \tc5 17
+\tr \tc1 1 Shekel = 2 Bekahs \tc2 0 \tc3 0 \tc4 9 \tc5 7
+\tr \tc1 1 Maneh = 60 Shekels \tc2 2 \tc3 2 \tc4 10 \tc5 
+\tr \tc1 1 Talent = 60 Manehs \tc2 129 \tc3 15 \tc4 \tc5
+\ms3 A Table of Money
+\s3 MONEY (OLD TESTAMENT)
+\tr \th1 GOLD.\th2 1900 Dollars ($)
+\tr \tc1 1 Gerah \tc2 0.54
+\tr \tc1 1 Bekah = 10 Gerahs \tc2 5.45
+\tr \tc1 1 Shekel = 2 Bekahs \tc2 10.90
+\tr \tc1 1 Maneh = 60 Shekels \tc2 658.78
+\tr \tc1 1 Talent = 50 Manehs \tc2 32689
+\tr \tc1 1 Dram (Persian coin) \tc2 5.31
+\s3 MONEY (OLD TESTAMENT).
+\tr \th1 SILVER.\th2 1900 Dollars ($)
+\tr \tc1 1 Gerah \tc2 .026
+\tr \tc1 1 Bekah = 10 Gerahs \tc2 .26
+\tr \tc1 1 Shekel = 2 Bekahs \tc2 .52
+\tr \tc1 1 Maneh = 60 Shekels \tc2 31.27
+\tr \tc1 1 Talent = 50 Manehs \tc2 1563.37
+\s3 MONEY (NEW TESTAMENT)
+\tr \th1 Coin (metal) \th2 1900 Dollars ($)
+\tr\tc1 Argurion (A Piece of Silver) \tc2 .56
+\tr \tc1 1 Drachma (A Piece of Silver) \tc2 .14
+\tr \tc1 1 Denarius (A Silver Penny) \tc2 .14
+\tr \tc1 1 Assarion (A Copper Farthing) \tc2 .015
+\tr \tc1 1 Quadrans (A Copper Farthing) \tc2 .004
+\tr \tc1 1 Lepton (A Copper Mite) \tc2 .002
+\s3 Table of Distances 
+\tr \th1 Long measure \th2 Feet \th3 Inches
+\tr \tc1 1 Finger breadth \tc2 0 \tc3 .79
+\tr \tc1 1 Digit = 1 Finger breadth \tc2 0 \tc3 .79 
+\tr \tc1 1 Hand breadth = 4 Digits \tc2 0 \tc3 3.17
+\tr \tc1 1 Palm = 4 Digits \tc2 0 \tc3 3.17
+\tr \tc1 1 Span = 3 Palms \tc2 0 \tc3 9.52
+\tr \tc1 1 Cubit = 2 Spans \tc2 1 \tc3 7
+\tr \tc1 1 Reed = 6 Cubits \tc2 9 \tc3 6
+\tr \tc1 1 Staduim = 500 Cubits \tc2 606 \tc3
+\tr \tc1 1 Furlong = 1 Stadium \tc2 606 \tc3
+\tr \tc1 1 Mile = 8 Stadium \tc2 4850 \tc3
+\tr \tc1 1 Sabbath Day's Journey = 2000 paces \tc2 4000
+\tr \tc1 1 Day's Journey = 22 miles. \tc2 \tc3
+\ms3 A Table of Measures 
+\s3 Dry Measures
+\tr \th1 Dry Measure \th2 Bushel \th3 Pecks \th4 Quarts \th5 Pints
+\tr \tc1 1 Cab \tc2 0 \tc3 0 \tc4 1 \tc5 0.37
+\tr \tc1 1 Omer (1.8 Cabs) \tc2 0 \tc3 0 \tc4 2 \tc5 0.27
+\tr \tc1 1 Measure (6 Cabs) \tc2 0 \tc3 0 \tc4 7 \tc5 
+\tr \tc1 1 Seah (1 Measure) \tc2 0 \tc3 0 \tc4 7 \tc5
+\tr \tc1 1 Ephah (10 Omers) \tc2 0 \tc3 2 \tc4 5 \tc5 
+\tr \tc1 1 Homer (10 Ephahs) \tc2 6 \tc3 2 \tc4 4 \tc5
+\tr \tc1 1 Cor (1 Homer)  \tc2 6 \tc3 2 \tc4 4 \tc5
+\tr \tc1 1 Choenix (Rev. 6.6) \tc2 0 \tc3 0 \tc4 1 \tc5
+\tr \tc1 1 Modius Bushel \tc2 0 \tc3 1 \tc4 \tc5
+\s3 Liquid Measures
+\tr \th1 Liquid Measure \th2 Gallons \th3 Quarts \th3 Cups
+\tr \tc1 1 Log \tc2 0 \tc3 0 \tc4 2 \tc5 2.37
+\tr \tc1 1 Hin = 12 Logs \tc2 0 \tc3 3 \tc4 1 \tc5 1
+\tr \tc1 1 Bath = 6 Hins \tc2 5 \tc3 1 \tc4 1 \tc5
+\tr \tc1 1 Ephah = 1 Bath \tc2 5 \tc3 1 \tc4 1 \tc5
+\tr \tc1 1 Metretes Firkin \tc2 8 \tc3 2 \tc4 1 \tc5 1
+\m 
 \periph Map Index
 \h1 Map Index
 \toc1 Map Index
 \toc2 Maps
 \toc3 Maps
-\mt3 The Indexed Atlas to the Holy Bible
+\ms3 The Indexed Atlas to the Holy Bible
 \m MAP
 \li1 1. — The Distribution of the Posterity of Noah (Gen. 10.)
 \li1 2. — The Land of Canaan
