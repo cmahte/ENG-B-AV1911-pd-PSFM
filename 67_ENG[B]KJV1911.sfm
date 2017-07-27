@@ -7,33 +7,34 @@
 \m Table of Weights and Measures
 \m Indexed Atlas to the Holy Bible
 \periph Weights and Measures
-\ms1 Tables of Measures, Weights, and Time
+\ms1 Tables of Weights, Measures, and Time
+\h1 Weights, Measures, and Time
 \ms3 A table of time
-\tr \th NIGHT (OLD TESTAMENT).
+\tr \th NIGHT (OLD TESTAMENT)
 \tr \tc1 First Watch \tc2 from Sunset \tc3 to 10 p.m.
 \tr \tc1 Middle Watch \tc2 from 10 p.m. \tc3 to 2 a.m.
 \tr \tc1 Morning Watch \tc2 from 2 a.m. \tc3 till Sunrise
-\tr \th NIGHT (NEW TESTAMENT).
+\tr \th NIGHT (NEW TESTAMENT)
 \tr \tc1 First Watch \tc2 from 6 p.m. \tc3 to 9 p.m.
 \tr \tc1 Second Watch \tc2 from 9 p.m. \tc3 to 12 p.m.
 \tr \tc1 Third Watch \tc2 from 12 a.m. \tc3 to 3 a.m.
 \tr \tc1 Fourth Watch \tc2 from 3 am \tc3 to 6 a. m.
-\tr \th DAY (OLD TESTAMENT).
-\m Morning -till about 10 a. m.
-\m Heat ol the Day— till about 3 p. M.
-\m Cool of the Day —till sunset.
-\tr \th DAY (NEW TESTAMENT).
-\m First Hour —from 6 to 7 a. m.
+\tr \th DAY (OLD TESTAMENT)
+\m Morning — till about 10 a. m.
+\m Heat ol the Day — till about 3 p. M.
+\m Cool of the Day — till sunset.
+\tr \th DAY (NEW TESTAMENT)
+\m First Hour — from 6 to 7 a. m.
 \m Third Hour — from 8 to 9 a. m.
-\m Sixth Hour —from 11 to 12 a. m.
-\m Ninth Hour —from 2 to 3 p. M.
+\m Sixth Hour — from 11 to 12 a. m.
+\m Ninth Hour — from 2 to 3 p. M.
 \m Eleventh Hour—from 4 to 6 P M.
 \ms3 A Table of Weights
 \tr \th1 WEIGHT.\th2 Pounds \th3 Ounces \th4 Drams \th5 Grains
 \tr \tc1 1 Gerah \tc2 0 \tc3 0 \tc4 0 \tc5 12.62
 \tr \tc1 1 Bekah = 10 Gerahs \tc2 0 \tc3 0 \tc4 4 \tc5 17
 \tr \tc1 1 Shekel = 2 Bekahs \tc2 0 \tc3 0 \tc4 9 \tc5 7
-\tr \tc1 1 Maneh = 60 Shekels \tc2 2 \tc3 2 \tc4 10 \tc5 
+\tr \tc1 1 Maneh = 60 Shekels \tc2 2 \tc3 2 \tc4 10 \tc5
 \tr \tc1 1 Talent = 60 Manehs \tc2 129 \tc3 15 \tc4 \tc5
 \ms3 A Table of Money
 \s3 MONEY (OLD TESTAMENT)
@@ -44,25 +45,25 @@
 \tr \tc1 1 Maneh = 60 Shekels \tc2 658.78
 \tr \tc1 1 Talent = 50 Manehs \tc2 32689
 \tr \tc1 1 Dram (Persian coin) \tc2 5.31
-\s3 MONEY (OLD TESTAMENT).
+\s3 MONEY (OLD TESTAMENT)
 \tr \th1 SILVER.\th2 1900 Dollars ($)
-\tr \tc1 1 Gerah \tc2 .026
-\tr \tc1 1 Bekah = 10 Gerahs \tc2 .26
-\tr \tc1 1 Shekel = 2 Bekahs \tc2 .52
+\tr \tc1 1 Gerah \tc2 0.026
+\tr \tc1 1 Bekah = 10 Gerahs \tc2 0.26
+\tr \tc1 1 Shekel = 2 Bekahs \tc2 0.52
 \tr \tc1 1 Maneh = 60 Shekels \tc2 31.27
 \tr \tc1 1 Talent = 50 Manehs \tc2 1563.37
 \s3 MONEY (NEW TESTAMENT)
 \tr \th1 Coin (metal) \th2 1900 Dollars ($)
-\tr\tc1 Argurion (A Piece of Silver) \tc2 .56
-\tr \tc1 1 Drachma (A Piece of Silver) \tc2 .14
-\tr \tc1 1 Denarius (A Silver Penny) \tc2 .14
-\tr \tc1 1 Assarion (A Copper Farthing) \tc2 .015
-\tr \tc1 1 Quadrans (A Copper Farthing) \tc2 .004
-\tr \tc1 1 Lepton (A Copper Mite) \tc2 .002
-\s3 Table of Distances 
+\tr \tc1 Argurion (A Piece of Silver) \tc2 0.56
+\tr \tc1 1 Drachma (A Piece of Silver) \tc2 0.14
+\tr \tc1 1 Denarius (A Silver Penny) \tc2 0.14
+\tr \tc1 1 Assarion (A Copper Farthing) \tc2 0.015
+\tr \tc1 1 Quadrans (A Copper Farthing) \tc2 0.004
+\tr \tc1 1 Lepton (A Copper Mite) \tc2 0.002
+\s3 Table of Distances
 \tr \th1 Long measure \th2 Feet \th3 Inches
-\tr \tc1 1 Finger breadth \tc2 0 \tc3 .79
-\tr \tc1 1 Digit = 1 Finger breadth \tc2 0 \tc3 .79 
+\tr \tc1 1 Finger breadth \tc2 0 \tc3 0.79
+\tr \tc1 1 Digit = 1 Finger breadth \tc2 0 \tc3 0.79
 \tr \tc1 1 Hand breadth = 4 Digits \tc2 0 \tc3 3.17
 \tr \tc1 1 Palm = 4 Digits \tc2 0 \tc3 3.17
 \tr \tc1 1 Span = 3 Palms \tc2 0 \tc3 9.52
@@ -73,16 +74,16 @@
 \tr \tc1 1 Mile = 8 Stadium \tc2 4850 \tc3
 \tr \tc1 1 Sabbath Day's Journey = 2000 paces \tc2 4000
 \tr \tc1 1 Day's Journey = 22 miles. \tc2 \tc3
-\ms3 A Table of Measures 
+\ms3 A Table of Measures
 \s3 Dry Measures
 \tr \th1 Dry Measure \th2 Bushel \th3 Pecks \th4 Quarts \th5 Pints
 \tr \tc1 1 Cab \tc2 0 \tc3 0 \tc4 1 \tc5 0.37
 \tr \tc1 1 Omer (1.8 Cabs) \tc2 0 \tc3 0 \tc4 2 \tc5 0.27
-\tr \tc1 1 Measure (6 Cabs) \tc2 0 \tc3 0 \tc4 7 \tc5 
+\tr \tc1 1 Measure (6 Cabs) \tc2 0 \tc3 0 \tc4 7 \tc5
 \tr \tc1 1 Seah (1 Measure) \tc2 0 \tc3 0 \tc4 7 \tc5
-\tr \tc1 1 Ephah (10 Omers) \tc2 0 \tc3 2 \tc4 5 \tc5 
+\tr \tc1 1 Ephah (10 Omers) \tc2 0 \tc3 2 \tc4 5 \tc5
 \tr \tc1 1 Homer (10 Ephahs) \tc2 6 \tc3 2 \tc4 4 \tc5
-\tr \tc1 1 Cor (1 Homer)  \tc2 6 \tc3 2 \tc4 4 \tc5
+\tr \tc1 1 Cor (1 Homer) \tc2 6 \tc3 2 \tc4 4 \tc5
 \tr \tc1 1 Choenix (Rev. 6.6) \tc2 0 \tc3 0 \tc4 1 \tc5
 \tr \tc1 1 Modius Bushel \tc2 0 \tc3 1 \tc4 \tc5
 \s3 Liquid Measures
@@ -92,14 +93,15 @@
 \tr \tc1 1 Bath = 6 Hins \tc2 5 \tc3 1 \tc4 1 \tc5
 \tr \tc1 1 Ephah = 1 Bath \tc2 5 \tc3 1 \tc4 1 \tc5
 \tr \tc1 1 Metretes Firkin \tc2 8 \tc3 2 \tc4 1 \tc5 1
-\m 
+\m
 \periph Map Index
 \h1 Map Index
 \toc1 Map Index
 \toc2 Maps
 \toc3 Maps
-\ms3 The Indexed Atlas to the Holy Bible
-\m MAP
+\ms1 Indexed Atlas to the Holy Bible
+\h1 Index to Maps
+\ms5 List of Maps
 \li1 1. — The Distribution of the Posterity of Noah (Gen. 10.)
 \li1 2. — The Land of Canaan
 \li1 3. — The Peninsula of Sinai, with part of Egypt
@@ -113,1735 +115,1757 @@
 \li1 11. — Roman Empire
 \li1 12. — The Environs of Jerusalem
 \li1 13. — The Holy Land in the Time of our Saviour
-\li1 14. — The Missionary Journeys ofthe Apostle Pail
+\li1 14. — The Missionary Journeys of the Apostle Paul
 \li1 15. — The Temple, Rebuilt by Herod
-\m Index of Biblical Names
-\m with figures and letters indicating the situation of the places on the maps
-\m Note. — Figures preceding a hyphen denote the numbers of the Maps; the figure or figures and letter following the same hyphen indicate the space on such Maps; thus, Arad (3-7 G; 4, 6-19 O) appear t on map no. 3 in the space 1G,and on maps nos. 4 and 6 in the space 19 0
-\m The names of places at present unidentified, also classical and modern nai iv, are uinittedfrorn. the Index
-\tr \th1 Name \th2 Type \th3 Reference \th4 Maps \th5 Box \th6 Coords
-\tr \tc1 Abana \tc2 river \tc3 6 \tc4 21 I \tc6
-\tr \tc1 Abanah \tc1 see \tc3 Abana
-\tr \tc1 Abarim \tc2 mountains \tc3 \tc4 4 \tc5 20 N \tc6
-\tr \tc1 Abdon \tc2 \tc3 \tc4 4,6 \tc5 19 K \tc6
-\tr \tc1 Abel \tc2 see \tc3 Abel-beth-maachah
-\tr \tc1 Abel-maim \tc2 see \tc3 Abel-beth-maachah
-\tr \tc1 Abel of Beth maacah \tc2 see \tc3 Abel-beth-maachah
-\tr \tc1 Abel-beth-maacah \tc2 see \tc3 Abel-beth-maachah
-\tr \tc1 Abel-beth-maachah \tc2 \tc3 \tc4 4, 6 \tc5 20 K \tc6
-\tr \tc1 Abel-meholah \tc2 \tc3 \tc4 4, 6 \tc5 20 M \tc6
-\tr \tc1 Abel-shittim \tc2 \tc3 \tc4 3 \tc5 7 G \tc6
-\tr \tc1 Abel-shittim \tc2 \tc3 \tc4 4 \tc5 20 N \tc6
-\tr \tc1 Abez \tc2 \tc3 \tc4 4 \tc5 19 M \tc6
-\tr \tc1 Abilene \tc2 \tc3 \tc4 14 \tc5 11 E \tc6
-\tr \tc1 Abimael \tc2 \tc3 \tc4 1 \tc5 9 F \tc6
-\tr \tc1 Accad \tc2 \tc3 \tc4 1 \tc5 8 D \tc6
-\tr \tc1 Accad \tc2 \tc3 \tc4 7 \tc5 12 E \tc6
-\tr \tc1 Accaron \tc2 \tc3 \tc4 13 \tc5 18 N \tc6
-\tr \tc1 Accho \tc2 \tc3 \tc4 4,6 \tc5 19 I \tc6
-\tr \tc1 Acco \tc2 see \tc3 Accho
-\tr \tc1 Aceldama \tc2 \tc3 \tc4 13 \tc5 20 O \tc6
-\tr \tc1 Akeldama \tc2 see \tc3 Aceldama
-\tr \tc1 Achaia \tc2 \tc3 \tc4 11, 14 \tc5 8 D \tc6
-\tr \tc1 Achmetha \tc2 \tc3 \tc4 7, 9 \tc5 13 E \tc6
-\tr \tc1 Achmetha \tc2 see \tc3 Ecbatana
-\tr \tc1 Achor \tc2 the valley of \tc3 \tc4 4, 6 \tc5 19 N \tc6
-\tr \tc1 Achshaph \tc2 \tc3 \tc4 4 \tc5 19 L \tc6
-\tr \tc1 Achzib \tc2 \tc3 (Judah) \tc4 4 \tc5 18 N \tc6
-\tr \tc1 Achzib \tc2 \tc3 (Judah) \tc4 12 \tc5 3 D \tc6
-\tr \tc1 Achzib \tc2 \tc3 (Asher) \tc4 4, 6 \ tc5 19 K \tc6
-\tr \tc1 Adadah \tc2 \tc3 \tc4 4 \tc5 19 O \tc6
-\tr \tc1 Adamah \tc2 \tc3 \tc4 4 \tc5 20 L \tc6
-\tr \tc1 Adami-nekeb \tc2 \tc3 \tc4 4 \tc5 19 L \tc6
-\tr \tc1 Adasa \tc2 \tc3 \tc4 12 \tc5 6 B \tc6
-\tr \tc1 Adida \tc2 \tc3 \tc4 4, 6 \tc5 18 N \tc6
-\tr \tc1 Adida \tc2 see \tc3 Hadid
-\tr \tc1 Adithaim \tc2 \tc3 \tc4 4, 6 \tc5 18 N \tc6
-\tr \tc1 Adithaim \tc2 see \tc3 Hadid
-\tr \tc1 Adora \tc2 \tc3 \tc4 4, 6 \tc5 19 N \tc6
-\tr \tc1 Adora \tc2 \tc3 \tc4 12 \tc5 4 F \tc6
-\tr \tc1 Adoraim \tc2 see \tc3 Adora
-\tr \tc1 Adramyttium \tc2 \tc3 \tc4 14 \tc5 9 D \tc6
-\tr \tc1 Adria \tc2 \tc3 \tc4 14 \tc5 9 D \tc6
-\tr \tc1 Adullam \tc2 \tc3 \tc4 2 \tc5 6 G \tc5 \tc6
-\tr \tc1 Adullam \tc2 \tc3 \tc4 4, 6 \tc5 18 N \tc6
-\tr \tc1 Adullam \tc2 \tc3 \tc4 12 \tc5 3 E \tc6
-\tr \tc1 Adummim \tc2 \tc3 \tc4 4 \tc5 19 N \tc6
-\tr \tc1 Ænon \tc2 \tc3 \tc4 13 \tc5 19 M \tc6
-\tr \tc1 Ahava \tc2 \tc3 \tc4 7 \tc5 12 E \tc6
-\tr \tc1 Ahlab \tc2 \tc3 (?) \tc4 6 \tc5 19 K \tc6
-\tr \tc1 Ai \tc2 \tc3 (Benjamin) \tc4 2 \tc5 7 G
-\tr \tc1 Ai \tc2 \tc3 (Benjamin) \tc4 4 \tc5 19 N \tc6
-\tr \tc1 Ai \tc2 \tc3 (Benjamin) \tc4 12 \tc5 4 B \tc6
-\tr \tc1 Aija \tc2 see \tc3 Ai
-\tr \tc1 Aijalon \tc2 \tc3 (Dan) \tc4 4, 6 \tc5 19 N
-\tr \tc1 Aijalon \tc2 \tc3 (Dan) \tc4 12 \tc5 4 B
-\tr \tc1 Ajalon \tc2 see \tc3 Aijalon
-\tr \tc1 Aijalon \tc2 \tc3 (Zebulun) \tc4 6 \tc5 19 L \tc6
-\tr \tc1 Aijalon \tc2 valley \tc3 \tc4 12 \tc5 4 B \tc6
-\tr \tc1 Ain \tc2 \tc3 Numbers 34:11 \tc4 6 \tc5 7 E \tc6
-\tr \tc1 Akeldama \tc2 \tc3 \tc4 13 \tc5 20 O \tc6
-\tr \tc1 Akrabbim \tc2 ascent of \tc3 \tc4 6 \tc5 19 P \tc6
-\tr \tc1 Alammelech \tc2 \tc3 (?) \tc4 4 \tc5 19 L \tc6
-\tr \tc1 Alath \tc2 see \tc3 Ai
-\tr \tc1 Alema \tc2 \tc3 \tc4 4, 6 \tc5 20 L \tc6
-\tr \tc1 Alemeth \tc2 \tc3 \tc4 12 \tc5 7 C
-\tr \tc1 Alexandria \tc2 \tc3 \tc4 10, 14 \tc5 9 E \tc6
-\tr \tc1 Allemeth \tc2 see \tc3 Alemeth
-\tr \tc1 Allon-bachuth \tc2 \tc3 \tc4 12 \tc5 6 B \tc6
-\tr \tc1 Allon-bacuth \tc2 see \tc3 Allon-bachuth
-\tr \tc1 Almodad \tc2 \tc3 \tc4 1 \tc5 8 F \tc6
-\tr \tc1 Almon \tc2 \tc3 \tc4 4 \tc5 19 N \tc6
-\tr \tc1 Almon \tc2 \tc3 \tc4 12 \tc5 7 C \tc6
-\tr \tc1 Almon-diblathaim \tc2 \tc3 \tc4 4 \tc5 20 N \tc6
-\tr \tc1 Altar repaired by Elijah \tc2 altar \tc3 1 Kings 18:30 \tc4 4 \tc5 19 L \tc6
-\tr \tc1 Alush \tc2 \tc3 \tc4 3 \tc5 5 K \tc6
-\tr \tc1 Amad \tc2 \tc3 \tc4 4 \tc5 19 K \tc6
-\tr \tc1 Amalekites \tc2 \tc3 \tc4 2 \tc5 7 G \tc6
-\tr \tc1 Amalekites \tc2 \tc3 \tc4 3 \tc5 5 K \tc6
-\tr \tc1 Amathis \tc2 \tc3 \tc4 5 \tc5 8 C \tc6
-\tr \tc1 Ammon \tc2 \tc3 \tc4 2, 5 \tc5 8 G \tc6
-\tr \tc1 Ammon \tc2 \tc3 \tc4 6 \tc5 21 N \tc6
-\tr \tc1 Amon of No \tc2 \tc3 \tc4 1 \tc5 7 E \tc6
-\tr \tc1 Amorites \tc2 \tc3 \tc4 2 \tc5 7 G \tc6
-\tr \tc1 Amorites \tc2 \tc3 \tc4 6 \tc5 20 N \tc6
-\tr \tc1 Amphipolls \tc2 \tc3 \tc4 14 \tc5 8 C \tc6
-\tr \tc1 Anab \tc2 \tc3 \tc4 4 \tc5 18 O \tc6
-\tr \tc1 Anaharath \tc2 \tc3 \tc4 4 \tc5 19 L \tc6
-\tr \tc1 Anamim \tc2 \tc3 \tc4 1 \tc5 6 D \tc6
-\tr \tc1 Ananiah \tc2 \tc3 \tc4 12 \tc5 6 C \tc6
-\tr \tc1 Anathoth \tc2 \tc3 \tc4 4, 6 \tc5 19 N \tc6
-\tr \tc1 Anathoth \tc2 \tc3 \tc4 12 \tc5 7 C \tc6
-\tr \tc1 Anem \tc2 \tc3 \tc4 4, 6 \tc5 19 M \tc6
-\tr \tc1 Aner \tc2 \tc3 \tc4 4, 6 \tc5 19 L \tc6
-\tr \tc1 Aner \tc2 see \tc3 Tanaach
-\tr \tc1 Anim \tc2 \tc3 \tc4 4 \tc5 19 O \tc6
-\tr \tc1 Anti-Libanus \tc2 \tc3 \tc4 6 \tc5 20 I \tc6
-\tr \tc1 Antioch \tc2 \tc3 in Syria \tc4 7, 10, 14 \tc5 11 D \tc6
-\tr \tc1 Antioch \tc2 \tc3 in Pisidia \tc4 14 \tc5 10 D \tc6
-\tr \tc1 Antiochia \tc2 see \tc3 Antioch
-\tr \tc1 Antipatris \tc2 \tc3 \tc4 13 \tc5 18 M \tc6
-\tr \tc1 Antipatris \tc2 \tc3 \tc4 14 \tc5 10 E \tc6
-\tr \tc1 Aphek \tc2 \tc3 1 Samuel 4:1 \tc4 12 \tc5 5 G \tc6
-\tr \tc1 Aphek \tc2 see \tc3 Kustul
-\tr \tc1 Aphek \tc2 \tc3 1 Samuel 29:1 \tc4 4 \tc5 19 L \tc6
-\tr \tc1 Aphek \tc2 \tc3 E. of Sea of Cliinnereth \tc4 4, 6 \tc5 20 L \tc6
-\tr \tc1 Apollonia \tc2 \tc3 \tc4 14 \tc5 8 C \tc6
-\tr \tc1 Appii Forum \tc2 \tc3 \tc4 14 \tc5 6 C \tc6
-\tr \tc1 Ar \tc2 \tc3 of Moab \tc4 3 \tc5 7 G \tc6
-\tr \tc1 Arab \tc2 \tc3 \tc4 4, 6 \tc5 19 O \tc6
-\tr \tc1 Arabah \tc2 valley \tc3 N and S of the Salt Sea \tc4 4, 6 \tc5 20 N \tc6
-\tr \tc1 Arabah \tc2 Sea of the \tc3 \tc4 4 \tc5 19 O \tc6
-\tr \tc1 Arabia \tc2 \tc3 \tc4 9, 10, 11 \tc5 11 F \tc6
-\tr \tc1 Arabia \tc2 \tc3 \tc4 14 \tc5 10 F \tc6
-\tr \tc1 Arad \tc2 \tc3 \tc4 3 \tc5 7 G \tc6
-\tr \tc1 Arad \tc2 \tc3 \tc4 4, 6 \tc5 19 O \tc6
-\tr \tc1 Aradus \tc2 \tc3 \tc4 7, 14 \tc5 11 E \tc6
-\tr \tc1 Aram \tc2 \tc3 \tc4 1 \tc5 7 D \tc6
-\tr \tc1 Aram \tc2 \tc3 \tc4 5 \tc5 8 E \tc6
-\tr \tc1 Aram \tc2 \tc3 \tc4 6 \tc5 21 K \tc6
-\tr \tc1 Aram \tc2 \tc3 \tc4 7 \tc5 11 E \tc6
-\tr \tc1 Aram \tc2 see \tc3 Syria
-\tr \tc1 Aram-naharaim \tc2 \tc3 \tc4 5 \tc5 10 B \tc6
-\tr \tc1 Aram-naharaim \tc2 \tc3 \tc4 7 \tc5 12 D \tc6
-\tr \tc1 Aram-naharaim \tc2 see \tc3 Mesopotamia
-\tr \tc1 Ararat \tc2 land of \tc3 \tc4 7 \tc5 12 D \tc6
-\tr \tc1 Ararat \tc2 see \tc3 Armenia
-\tr \tc1 Ararat \tc2 Mount \tc3 \tc4 1 \tc5 8 D \tc6
-\tr \tc1 Ararat \tc2 Mount \tc3 \tc4 7 \tc5 12 D \tc6
-\tr \tc1 Ararath \tc2 see \tc3 Ararat
-\tr \tc1 Arba \tc2 \tc3 \tc4 4 \tc5 19 N \tc6
-\tr \tc1 Arba \tc2 see \tc3 Hebron
-\tr \tc1 Arbah \tc2 see \tc3 Arba
-\tr \tc1 Arbela \tc2 \tc3 \tc4 6 \tc5 19 L \tc6
-\tr \tc1 Arbela \tc2 see \tc3 Beth-arbel
-\tr \tc1 Arbite \tc2 \tc3 native of Arab \tc4 6 \tc5 19 O \tc6
-\tr \tc1 Arbite \tc2 see \tc3 Arab
-\tr \tc1 Archevites \tc2 \tc3 inhabitants of Erech \tc4 7 \tc5 13 E \tc6
-\tr \tc1 Archevites \tc2 see \tc3 Erech
-\tr \tc1 Argob \tc2 \tc3 \tc4 5 \tc5 8 E \tc6
-\tr \tc1 Argob \tc2 \tc3 \tc4 6 \tc5 21 L \tc6
-\tr \tc1 Ariel \tc2 Mount \tc3 \tc4 13 \tc5 20 O \tc6
-\tr \tc1 Ariel \tc2 see \tc3 Zion
-\tr \tc1 Arimathea \tc2 \tc3 (?) \tc4 12 \tc5 6 B \tc6
-\tr \tc1 Arimathea \tc2 \tc3 \tc4 13 \tc5 19 N \tc6
-\tr \tc1 Arimathea \tc2 see \tc3 Ramah
-\tr \tc1 Arkites \tc2 \tc3 \tc4 2 \tc5 8 D \tc6
-\tr \tc1 Armageddon \tc2 \tc3 \tc4 13 \tc5 19 L \tc6
-\tr \tc1 Armageddon \tc2 see \tc3 Har-Magedon
-\tr \tc1 Armenia \tc2 \tc3 \tc4 7, 8, 9, 10, 11 \tc5 12 D \tc6
-\tr \tc1 Armenia \tc2 see \tc3 Ararat
-\tr \tc1 Arnon \tc2 river \tc3 \tc4 4, 6 \tc5 20 O \tc6
-\tr \tc1 Arnon \tc2 valley of \tc3 \tc4 4, 6 \tc5 20 O \tc6
-\tr \tc1 Aroer \tc2 \tc3 Gad \tc4 6 \tc5 20 N \tc6
-\tr \tc1 Aroer \tc2 \tc3 Reuben \tc4 3 \tc5 7 G \tc6
-\tr \tc1 Aroer \tc2 \tc3 Reuben \tc4 6 \tc5 20 O \tc6
-\tr \tc1 Aroer \tc2 \tc3 1 Samuel 30:28 \tc4 6 \tc5 18 O \tc6
-\tr \tc1 Arpachshad \tc2 \tc3 (?) \tc4 1 \tc5 8 D \tc6
-\tr \tc1 Arpad \tc2 \tc3 \tc4 5 \tc5 9 B \tc6
-\tr \tc1 Arphaxad \tc2 see \tc3 Arpachshad
-\tr \tc1 Arumah \tc2 \tc3 \tc4 4, 6 \tc5 19 M \tc6
-\tr \tc1 Arvad \tc2 \tc3 \tc4 5 \tc5 7 D \tc6
-\tr \tc1 Arvad \tc2 \tc3 \tc4 7 \tc5 11 E \tc6
-\tr \tc1 Ascalon \tc2 \tc3 \tc4 13 \tc5 18 N \tc6
-\tr \tc1 Aser \tc2 \tc3 Naphtali \tc4 4, 6 \tc5 19 K \tc6
-\tr \tc1 Aser \tc2 see \tc3 Hazor
-\tr \tc1 Aser \tc2 see \tc3 Asher
-\tr \tc1 Ashan \tc2 \tc3 \tc4 6 \tc5 18 O \tc6
-\tr \tc1 Ashan \tc2 see \tc3 Chor-Ashan
-\tr \tc1 Ashchenaz \tc2 \tc3 \tc4 1 \tc5 7 C \tc6
-\tr \tc1 Ashchenaz \tc2 see \tc3 Ashkenaz
-\tr \tc1 Ashdod \tc2 \tc3 \tc4 4, 6 \tc5 18 N \tc6
-\tr \tc1 Ashdodites \tc2 see \tc3 Ashdod
-\tr \tc1 Ashdothites \tc2 see \tc3 Ashdod
-\tr \tc1 Ashdoth-pisgah \tc2 the slopes \tc3 \tc4 4 \tc5 20 N \tc6
-\tr \tc1 Ashdoth-pisgah \tc2 see \tc3 Pisgah
-\tr \tc1 Asher \tc2 allotment of \tc3 Asher \tc4 4 \tc5 19 K \tc6
-\tr \tc1 Asher \tc2 see \tc3 Aser
-\tr \tc1 Ashkelon \tc2 \tc3 \tc4 5 \tc5 6 G \tc6
-\tr \tc1 Ashkenaz \tc2 \tc3 \tc4 1 \tc5 7 C \tc6
-\tr \tc1 Ashnah \tc2 \tc3 \tc4 12 \tc5 4 D \tc6
-\tr \tc1 Ashtaroth \tc2 \tc3 \tc4 6 \tc5 21 L \tc6
-\tr \tc1 Ashteroth-karnaim \tc2 \tc3 \tc4 2 \tc5 8 F \tc6
-\tr \tc1 Asia \tc2 Roman Province \tc3 \tc4 11, 14 \tc5 9 D \tc6
-\tr \tc1 Askelon \tc2 \tc3 \tc4 6 \tc5 18 N \tc6
-\tr \tc1 Asshur \tc2 \tc3 \tc4 1 \tc5 8 D \tc6
-\tr \tc1 Asshur \tc2 \tc3 \tc4 8 \tc5 12 D \tc6
-\tr \tc1 Asshur \tc2 see \tc3 Assyria
-\tr \tc1 Assos \tc2 \tc3 \tc4 14 \tc5 9 D \tc6
-\tr \tc1 Assur \tc2  \tc3 \tc4 7 \tc5 12 D \tc6
-\tr \tc1 Assur \tc2 see \tc3 Assyria
-\tr \tc1 Assyria \tc2 \tc3 \tc4 1 \tc5 8 D \tc6
-\tr \tc1 Assyria \tc2 \tc3 \tc4 7, 8 \tc5 12 D \tc6
-\tr \tc1 Assyrian Empire \tc2 \tc3 \tc4 8 \tc5 12 D \tc6
-\tr \tc1 Astaroth \tc2 see \tc3 Ashtaroth
-\tr \tc1 Ataroth \tc2 \tc3 (?) \tc4 12 \tc5 6 B \tc6
-\tr \tc1 Ataroth \tc2 see \tc3 Allon-bachuth
-\tr \tc1 Ataroth \tc2 \tc3 Reuben \tc4 4 \tc5 20 N \tc6
-\tr \tc1 Ataroth-adar \tc2 \tc3 \tc4 4 \tc5 19 N \tc6
-\tr \tc1 Ataroth-adar \tc2 \tc3 \tc4 12 \tc5 4 B \tc6
-\tr \tc1 Ataroth-addar \tc2 see \tc3 Ataroth-adar
-\tr \tc1 Athens \tc2 \tc3 \tc4 14 \tc5 8 D \tc6
-\tr \tc1 Attalia \tc2 \tc3 \tc4 14 \tc5 10 D \tc6
-\tr \tc1 Ava \tc2 \tc3 Joshua 13:3, 2 Kings 17:31 \tc4 7 \tc5 12 E \tc6
-\tr \tc1 Avva \tc2 see \tc3 Ava
-\tr \tc1 Aven \tc2  \tc3 \tc4 12 \tc5 6 A \tc6
-\tr \tc1 Aven \tc2 see \tc3 Bethel
-\tr \tc1 Aven \tc2 \tc3 Egypt \tc4 3 \tc5 8 H \tc6
-\tr \tc1 Aven \tc2 plain of \tc3 \tc4 6 \tc5 20 I \tc6
-\tr \tc1 Aven \tc2 see \tc3 Lebanon (valley)
-\tr \tc1 Avim \tc2 see \tc3 Ava
-\tr \tc1 Avims \tc2 see \tc3 Ava
-\tr \tc1 Avites \tc2 see \tc3 Ava
-\tr \tc1 Avvites \tc2 see \tc3 Ava
-\tr \tc1 Azekah \tc2 \tc3 \tc4 4 \tc5 19 N \tc6
-\tr \tc1 Azekah \tc2 \tc3 \tc4 12 \tc5 4 D \tc6
-\tr \tc1 Azmaveth \tc2 \tc3 \tc4 12 \tc5 7 B \tc6
-\tr \tc1 Aznoth-tabor \tc2  \tc3 \tc4 4 \tc5 19 L \tc6
-\tr \tc1 Aznoth-tabor \tc2 see \tc3 Tabor
-\tr \tc1 Azotus \tc2 \tc3 \tc4 13 \tc5 18 N \tc6
-\tr \tc1 Azzah \tc2 \tc3 \tc4 6 \tc5 17 N \tc6
-\tr \tc1 Azzah \tc2 see \tc3 Gaza (Philistia)
-\tr \tc1 Baalah \tc2 see \tc3 Mt. Baalah
-\tr \tc1 Baalah \tc2 see \tc3 Baale of Judah
-\tr \tc1 Baalah \tc2 see \tc3 Mt. Baalah
-\tr \tc1 Baalah \tc2 see \tc3 Kirjath-jeaiim
-\tr \tc1 Baalah  12
-\tr \tc1 Baalah  \tc2 see \tc3 Bilhah
-\tr \tc1 Baalah (Simeon)  5
-\tr \tc1 Baalath 6
-\tr \tc1 Baal-gad (?) 4
-\tr \tc1 Baal-hazor
-\tr \tc1 Baal-hermon — Mt. Hermon
-\tr \tc1 Baal-meon
-\tr \tc1 Baal-shalisha \tc2 see \tc3  Baal-ahalishah
-\tr \tc1 Baal-shalisha 
-\tr \tc1 Baal-taraar
-\tr \tc1 Baal-zephon (?)
-\tr \tc1 Babel (Babylon)
-\tr \tc1 Babylon
-\tr \tc1 Babylonian Empire
-\tr \tc1 Bahurim
-\tr \tc1 Balah  \tc2 see \tc3 Bilhah
-\tr \tc1 Balah
-\tr \tc1 Bamoth \tc2 see \tc3 Bamoth-baal
-\tr \tc1 Bamoth
-\tr \tc1 Bashan
-\tr \tc1 Bashan-havoth-jair \tc2 see \tc3  Hari’oth-jair
-\tr \tc1 Bashan-havoth-jair  (the towns of Jair) 
-\tr \tc1 Bathzacharias 12
-\tr \tc1 Beeroth (Benjamin) 4,6 19 N; 12
-\tr \tc1 Beer-lahai-roi \tc2 see \tc3 el Ain
-\tr \tc1 Beer-lahai-roi 
-\tr \tc1 Beer-sheba 2, 3, 5 - 6 G; 4, 6
-\tr \tc1 Beesh-terah \tc2 see \tc3  Be-eshterah
-\tr \tc1 Beesh-terah \tc2 see \tc3 Ashtoroth
-\tr \tc1 Beesh-terah  6
-\tr \tc1 Bela \tc2 see \tc3 Zoar
-\tr \tc1 Bela  2 - G; 4
-\tr \tc1 Bene-berak 4
-\tr \tc1 Benjamin, allotment of 4
-\tr \tc1 Beon \tc2 see \tc3 Baal-meon
-\tr \tc1 Beon  4
-\tr \tc1 Berachah \tc2 see \tc3  Beracah
-\tr \tc1 Berachah  12
-\tr \tc1 Berea \tc2 see \tc3 Beroth
-\tr \tc1 Berea \tc2 see  \tc3 Beeroth
-\tr \tc1 Berea  .12
-\tr \tc1 Berea (Aleppo) 5 - 9 B; 1 1
-\tr \tc1 Berea \tc2 see \tc3  Beroea 
-\tr \tc1 Berea (Macedonia) .1
-\tr \tc1 Berea  4
-\tr \tc1 Bered 2
-\tr \tc1 Beroth \tc2 see \tc3 Beeroth
-\tr \tc1 Beroth  1
-\tr \tc1 Beroth  2
-\tr \tc1 Berothah \tc2 see \tc3 Berothai
-\tr \tc1 Berothah (?) 5
-\tr \tc1 Besor, the brook 4, 6
-\tr \tc1 Beten 4
-\tr \tc1 Bethabara \tc2 see \tc3  Bethany
-\tr \tc1 Bethabara  .1
-\tr \tc1 Bethabara  3
-\tr \tc1 Beth-anath 4, 6
-\tr \tc1 Beth-anoth 4 - 19 N; 12 - 5 F
-\tr \tc1 Bethany 12-6 C;13-19 N
-\tr \tc1 Beth-arabah 12 - 5 F
-\tr \tc1 Beth-aram \tc2 see \tc3 Beth-haran
-\tr \tc1 Beth-aram   .  4 - 20 N
-\tr \tc1 Beth-arbel 4, tj 19 L
-\tr \tc1 Beth-arbel \tc2 see \tc3 Arbela
-\tr \tc1 Beth-aven \tc2 see \tc3 Beth-el
-\tr \tc1 Beth-aven  2 - ti A
-\tr \tc1 Beth-azmaveth \tc2 see \tc3 Azmaveth
-\tr \tc1 Beth-azmaveth  12 - B
-\tr \tc1 Beth-baal-meon - Baal meou 4 - 20 N
-\tr \tc1 Beth-barah ? ti 20 M
-\tr \tc1 Beth-birei \tc2 see \tc3  Beth-biri
-\tr \tc1 Beth-birei  18 O
-\tr \tc1 Beth-car 4, 6 iw N; 12 - 6 C
-\tr \tc1 Beth-dagon (Asher) 4 - 19 L
-\tr \tc1 Beth-dagon, at Azotus 13 - 18 N
-\tr \tc1 Beth-diblathaim \tc2 see \tc3 Almon-diblathaim
-\tr \tc1 Beth-diblathaim  4 - 20 N
-\tr \tc1 Beth-el (Ephraim) 2 - G; 4. 6, 13 - 19 N; 12 - 6 A
-\tr \tc1 Bethel \tc2 see \tc3 Aven
-\tr \tc1 Bethel  \tc2 see \tc3 Bethul
-\tr \tc1 Bethel (Simeon)  12 - 4 E
-\tr \tc1 Beth-emek * 19 L
-\tr \tc1 Bether 4 - 19 N; 12 - 5 D
-\tr \tc1 Beth-gader \tc2 see \tc3 Gedor
-\tr \tc1 Beth-gader  12 - 6 E
-\tr \tc1 Beth-gamul 4, 6 - 20 N
-\tr \tc1 Beth-gilgal \tc2 see \tc3 Gilgal
-\tr \tc1 Beth-gilgal  6 - 19 N
-\tr \tc1 Beth-haccerem \tc2 see \tc3  Beth-haccherem
-\tr \tc1 Beth-haccerem  12 - 6 E
-\tr \tc1 Beth-haram \tc2 see \tc3 Beth-haran
-\tr \tc1 Beth-haram  4 - 20 N
-\tr \tc1 Beth-hogla \tc2 see \tc3 Eeth-hoglah
-\tr \tc1 Beth-hogla  4 - 19 N
-\tr \tc1 Beth-boron, the upper 4, 6 - 19 N; 12 - 5 B
-\tr \tc1 Beth-horon, the nether 4 - 19 N; 12 - 4 B
-\tr \tc1 Beth-jeshimoth 4, 6 - 20 N
-\tr \tc1 Beth-jesimoth \tc2 see \tc3  Beth-jeshimoth
-\tr \tc1 Beth-jesimoth  3 - Q
-\tr \tc1 Beth-lebaoth 4 - 18 O
-\tr \tc1 Beth-lehem (Judab) 2 - G; 4, 6, 13 - 19 N; 12 - 6 D
-\tr \tc1 Beth-lehem (Zebulun) 4, 6 - 19 L
-\tr \tc1 Beth-lehem Ephrathah \tc2 see \tc3 Beth-lehem
-\tr \tc1 Beth-lehem Ephrathah  12 - 6 D
-\tr \tc1 Beth-lomon \tc2 see \tc3 Beth-lehem
-\tr \tc1 Beth-lomon  12 - 6 D
-\tr \tc1 Beth-maacah \tc2 see \tc3  Beth-maachah
-\tr \tc1 Beth-maacah \tc2 see \tc3 Maacah
-\tr \tc1 Beth-maacah  5 - 8 E
-\tr \tc1 Beth-marcal3oth 6 - 18 O
-\tr \tc1 Beth-meon \tc2 see \tc3 Baal-meon
-\tr \tc1 Beth-meon  4, 6 - 20 N
-\tr \tc1 Beth-nimrah 4 - 20 N
-\tr \tc1 Bethoron \tc2 see \tc3 Beth-horon
-\tr \tc1 Bethoron  12 - .5 B
-\tr \tc1 Beth-peor 4 - 20 N
-\tr \tc1 Bethphage(?) 12 - 6 C; IS 19 N
-\tr \tc1 Beth-rehob (Judg. 18. 28) 6 - 20 K
-\tr \tc1 Bethsaida 13 - 20 L
-\tr \tc1 Beth-samos \tc2 see \tc3 Azmaveth
-\tr \tc1 Beth-samos  12 - B
-\tr \tc1 Bethsan \tc2 see \tc3 Beth-shan
-\tr \tc1 Bethsan  6 - 19 M
-\tr \tc1 Beth-shan 6 - 19 M
-\tr \tc1 Beth-shean 4 - 19 M
-\tr \tc1 Beth-shemesh (Judah) 4,6 - 18 N; 12 - 3 D
-\tr \tc1 Beth-shemesh (Naphtali) 4 - 19 L
-\tr \tc1 Beth-shemesh (Issachar) 4 - 20 M
-\tr \tc1 Beth-shemesh (Egypt) 3 - 3 H
-\tr \tc1 Beth-shittah 4, 6 - 19 L
-\tr \tc1 Bethsura \tc2 see \tc3 Beth-zur
-\tr \tc1 Bethsura  4 - 19 N; 12 - 5 E
-\tr \tc1 Beth-tappuah 4 - 19 N; 12 - 4 F
-\tr \tc1 Bethuel \tc2 see \tc3 Bethul
-\tr \tc1 Bethuel  12 - 4 E
-\tr \tc1 Bethulia 4 - 19 M
-\tr \tc1 Beth-zur 4 - 19 N; 12 - 5 E
-\tr \tc1 Betoliua \tc2 see \tc3 Beth-el
-\tr \tc1 Betoliua  12 - 6 A
-\tr \tc1 Betomestham 4 - 19 M
-\tr \tc1 Betonim 4 - 20 M
-\tr \tc1 Bezek (Judg. 1. 4, 5) 4, 6 - 18 N
-\tr \tc1 Bezek (1 Sam. 11. 8) 6 - 19 M
-\tr \tc1 Bezer 4, 6 - 20 O
-\tr \tc1 Bileam \tc2 see \tc3 Ibleam
-\tr \tc1 Bileam  6 - 19 M
-\tr \tc1 Bilhah 6-6 G
-\tr \tc1 Bithynia 9, 10, 11, 14 - 10 C
-\tr \tc1 Boscath \tc2 see \tc3  Bozkath
-\tr \tc1 Boscath  4, 6 - 18 N
-\tr \tc1 Bosora 11 E
-\tr \tc1 Bozez (1 Sam. 14. 4) 12 - B
-\tr \tc1 Bozkath 4, 6 - 18 N
-\tr \tc1 Bozrah(Edom) 11 E
-\tr \tc1 Bozrah  \tc2 see \tc3 Bezer
-\tr \tc1 Bozrah (Moab)  6 - 20 O
-\tr \tc1 Cabbon (?) 4 - 18 N
-\tr \tc1 Cabul (Asher) 4,6 19 L; 5- F
-\tr \tc1 Cades \tc2 see \tc3 Kedesh
-\tr \tc1 Cades  6 - 20 K
-\tr \tc1 Cades-barne \tc2 see \tc3 Kadesh-barnea
-\tr \tc1 Cades-barne  3 - H
-\tr \tc1 Caesarea 13 - 18 L
-\tr \tc1 Caesarea Philippi 13 - 20 K
-\tr \tc1 Cain \tc2 see \tc3  Kain
-\tr \tc1 Cain  4 - 19 O
-\tr \tc1 Calaii 1 - 8 D
-\tr \tc1 Caleb-ephratah \tc2 see \tc3  Caleb-ephrathah
-\tr \tc1 Caleb-ephratah \tc2 see \tc3 Beth-lehem
-\tr \tc1 Caleb-ephratah  6 - 19 N
-\tr \tc1 Calneh 1 - 8 D
-\tr \tc1 Calno \tc2 see \tc3 Calneh
-\tr \tc1 Calno  1-8 D
-\tr \tc1 Calvary \tc2 see \tc3  The Skull
-\tr \tc1 Cana
-\tr \tc1 Canaan, the land of 2
-\tr \tc1 Canaanites
-\tr \tc1 Canneh \tc2 see \tc3 Calneh
-\tr \tc1 Canneh
-\tr \tc1 Capernaum (?)
-\tr \tc1 Caphira \tc2 see \tc3 Chephirah
-\tr \tc1 Caphira
-\tr \tc1 Caphtor (Jer. 47. 4)
-\tr \tc1 Caphtorim(?)
-\tr \tc1 Cappadocia
-\tr \tc1 Carchemish 5 - 10 B; 7, 8
-\tr \tc1 Caria 9, 10, 14
-\tr \tc1 Carmel, Mount 4, 6
-\tr \tc1 Carmel (Judah) 4, 6
-\tr \tc1 Camaim \tc2 see \tc3 Carnion
-\tr \tc1 Camaim \tc2 see \tc3 Ashteroth Karnalin
-\tr \tc1 Camaim  2
-\tr \tc1 Casluhlm 1
-\tr \tc1 Cauda \tc2 see \tc3  Clauda
-\tr \tc1 Cedron \tc2 see \tc3 Gederoth
-\tr \tc1 Cedron  6
-\tr \tc1 Cedron \tc2 see \tc3  Kidron
-\tr \tc1 Cedron , the brook 12
-\tr \tc1 Celosyria (Coele-SjTia) 10
-\tr \tc1 Cenchrea \tc2 see \tc3  Cenchreae
-\tr \tc1 Cenchrea  14
-\tr \tc1 Cesarea 13 - 18 L; 14
-\tr \tc1 Cesarea Philippi 13
-\tr \tc1 Chaldea 7
-\tr \tc1 Champaign \tc2 see \tc3 the Arabah
-\tr \tc1 Champaign  4
-\tr \tc1 Chanaan \tc2 see \tc3 Canaan
-\tr \tc1 Chanaan  3
-\tr \tc1 Charashim \tc2 see \tc3  Ge-harashira
-\tr \tc1 Charashim, valley of  12
-\tr \tc1 Charchamis \tc2 see \tc3 Charchemish
-\tr \tc1 Charchamis \tc2 see \tc3 Carchemish
-\tr \tc1 Charchamis  5
-\tr \tc1 Charran \tc2 see \tc3  Haran
-\tr \tc1 Charran  14
-\tr \tc1 Chephirah 12
-\tr \tc1 Cherethims \tc2 see \tc3 Cherethites
-\tr \tc1 Cherethims  6
-\tr \tc1 Chesil \tc2 see \tc3 Bethul
-\tr \tc1 Chesil 12 - 4 E
-\tr \tc1 Chesulloth \tc2 see \tc3 Chisloth-tabor
-\tr \tc1 Chesulloth 4 - 19 L
-\tr \tc1 Chettiim \tc2 see \tc3 Macedonia
-\tr \tc1 Chettiim (Apoc.) 14 - 8 D
-\tr \tc1 Chezib \tc2 see \tc3 Achzib
-\tr \tc1 Chezib 4 - 18 N; 12 - 3 D
-\tr \tc1 Chinnereth \tc2 see \tc3 Chinneroth
-\tr \tc1 Chinnereth 4, 6 - 20 L
-\tr \tc1 Chios 14 - 9 D 
-\tr \tc1 Chisloth-tabor 4 - 19 L
-\tr \tc1 Chittim \tc2 see \tc3  Kittim
-\tr \tc1 Chittim \tc2 see \tc3 Cyprus
-\tr \tc1 Chittim 5 - 5 C
-\tr \tc1 Choba 4 - 19 M
-\tr \tc1 Chor-ashan \tc2 see \tc3  Cor-ashan
-\tr \tc1 Chor-ashan \tc2 see \tc3 Ashan
-\tr \tc1 Chor-ashan 6 -18 O
-\tr \tc1 Chorazin 13- 20 L
-\tr \tc1 Chozeba \tc2 see \tc3  Cozeba
-\tr \tc1 Chozeba 4 - 19 N; 12-  3 D
-\tr \tc1 Chun \tc2 see \tc3  Cun
-\tr \tc1 Chun 5 - 8 D
-\tr \tc1 Chusi 4 - 19 M
-\tr \tc1 Cilicia 9, 10, 11, 14 - 10 D
-\tr \tc1 Cinneroth \tc2 see \tc3  Chinneroth
-\tr \tc1 Cinneroth \tc2 plain \tc3 (W of the sea of Chinnereth) (1 Kings 15:20) 4, 6 - 20 L
-\tr \tc1 Cirama \tc2 see \tc3 Ramah
-\tr \tc1 Cirama 12 - 6 E
-\tr \tc1 City of David \tc2 see \tc3 Zion
-\tr \tc1 City of David (1 Kings 9:24) (2 Chronicles 8:11) 13 - 20 L
-\tr \tc1 City of Palm trees \tc2 see \tc3 Jericho
-\tr \tc1 City of Palm trees 6 - 19 N
-\tr \tc1 Clauda \tc2 see \tc3  Cauda
-\tr \tc1 Clauda 14 - 8 E
-\tr \tc1 Cnidus 14 - 9 D
-\tr \tc1 Colosse \tc2 see \tc3  Colossse
-\tr \tc1 Colosse 14 - 9 D
-\tr \tc1 Coos \tc2 see \tc3  Cos
-\tr \tc1 Coos 14 - 9 D
-\tr \tc1 Cor-ashan \tc2 see \tc3  Chor-ashan
-\tr \tc1 Cor-ashan 6 - 18 O
-\tr \tc1 Corinth 14 - 8 D
-\tr \tc1 Cos \tc2 see \tc3 Coos
-\tr \tc1 Cos 14 - 9 D
-\tr \tc1 Cozeba \tc2 see \tc3  Chozeba
-\tr \tc1 Cozeba 4 - 19 N; 12 - 5 E
-\tr \tc1 Crete 14 - 8 D
-\tr \tc1 Cush \tc2 see \tc3  Ethiopia
-\tr \tc1 Cush 1 - 7 F; 1 - 8 C
-\tr \tc1 Cyamon \tc2 see \tc3 Jokneam
-\tr \tc1 Cyamon 4 - 19 L
-\tr \tc1 Cyprus 8, 11, 14 - 10 D
-\tr \tc1 Cyrene 14 - 8 E
-\tr \tc1 Dabareh \tc2 see \tc3  Daberath
-\tr \tc1 Dabareh 4, 6 - 19 L
-\tr \tc1 Dabbasheth \tc2 see \tc3  Dabbesheth
-\tr \tc1 Dabbasheth 4 - 19 L 
-\tr \tc1 Daberath 6 - 19 L
-\tr \tc1 Dalmatia 14 - 7 C
-\tr \tc1 Damascus  2, 5 - 8 E; 6 - 21 E; 14 - 11 E
-\tr \tc1 Dan, city 2, 5 - 7 E; 4, 6, 13 - 20 K
-\tr \tc1 Dan, districts of 4 - 18 N; 4 - 20 K
-\tr \tc1 Dan-jaan \tc2 see \tc3 Dan 
-\tr \tc1 Dan-jaan 6 - 20 K
-\tr \tc1 Dannah 12 - 3 F
-\tr \tc1 Daphne 13 - 20 O
-\tr \tc1 David, city of \tc2 see \tc3 Zion 
-\tr \tc1 City of David \tc2 see \tc3 Zion
-\tr \tc1 David, city of 13 - 20 O
-\tr \tc1 Debir (Judah) 4, 6 - 18 O
-\tr \tc1 Debir (Josh. 15. 7) 4 - 19 N
-\tr \tc1 Decapolis  13 - 20 M
-\tr \tc1 Dedan (Cushite) 1 - 9 E
-\tr \tc1 Dedan (Keturhite) 1 - T D; 8 - 11 E
-\tr \tc1 Delus 14 - 9 D
-\tr \tc1 Derbe 14 - 10 D
-\tr \tc1 Diblath \tc2 see \tc3  Diblah
-\tr \tc1 Diblath  4, 19 K
-\tr \tc1 Diblathaim \tc2 see \tc3 Almon-diblathaim
-\tr \tc1 Diblathaim  4 - 20 N
-\tr \tc1 Dibon, E. of Jordan 4 - 20 O
-\tr \tc1 Dibon (Judah) 6 - 19 O
-\tr \tc1 Dibon-gad \tc2 see \tc3 Dibon E. of Jordan
-\tr \tc1 Dibon-gad  4 - 20 O
-\tr \tc1 Diklah 1 - 8 F
-\tr \tc1 Dimnah 4 - 19 L
-\tr \tc1 Dimon \tc2 see \tc3 Dibon (?)
-\tr \tc1 Dimon  4 - 20 O
-\tr \tc1 Dimonah \tc2 see \tc3 Dibon of Judah
-\tr \tc1 Dimonah  6-19
-\tr \tc1 Dizahab \tc2 see \tc3  Di-zahab
-\tr \tc1 Dizahab  3 - 6 K
-\tr \tc1 Docus 4 - 19 N
-\tr \tc1 Dodanim 1 - 6 D
-\tr \tc1 Dophkah 3 - 5 K
-\tr \tc1 Dor 4, 6 - 18 L
-\tr \tc1 Dora 4, 13-18 L
-\tr \tc1 Dothaira 13 - 19 M
-\tr \tc1 Dothan 2-7 F: 4, 6 l9xM
-\tr \tc1 Dumah (Judah) 4 - 18 O
-\tr \tc1 Dura, plain of 13 E
-\tr \tc1 East Sea \tc2 see \tc3  Eastern Sea
-\tr \tc1 East Sea \tc2 see \tc3 the Salt Sea
-\tr \tc1 East Sea  6 - 19 O
-\tr \tc1 Ebal, Mount 4, 6-19 M
-\tr \tc1 Eben-ezer 12 - 6 C
-\tr \tc1 Ebez \tc2 see \tc3 Abez
-\tr \tc1 Ebron \tc2 see \tc3  Hebron
-\tr \tc1 Ebron \tc2 see \tc3 Ahdon
-\tr \tc1 Ebron  4 - 19 K
-\tr \tc1 Ecbatana (northern) 1 - 3 D
-\tr \tc1 Ecbatana (southerni 7, 9 - 13 E
-\tr \tc1 Ecbatana \tc2 see \tc3 Achmetha
-\tr \tc1 Edar \tc2 see \tc3  Eder
-\tr \tc1 Edar \tc2 see \tc3 Gedor
-\tr \tc1 Edar  4 - 19 N; 12 - 5 E
-\tr \tc1 Edom .3,5-7 H; 11 E
-\tr \tc1 Edrei (Bashan) « 21 L
-\tr \tc1 Eglaim (?) 6 - 20 O
-\tr \tc1 Eglon 4 - 18 N
-\tr \tc1 Egypt  1 - E; 3-.3 I; 8, 9, 10, 14 - 10 E
-\tr \tc1 Ekrebel 4 - 19 M
-\tr \tc1 Ekron 3, 5-6 G; 4, 6 - 18 N
-\tr \tc1 Elah, vale or valley of .  4, 6 - 18 N; 12 - 3 D
-\tr \tc1 Elam 1-8 D; 7, 8 - 13 E
-\tr \tc1 Elath 3-71
-\tr \tc1 El-beth-el \tc2 see \tc3  Bethel
-\tr \tc1 El-beth-el  2-7 G;12-6 A
-\tr \tc1 Elealeh 4, 6 - 20 N
-\tr \tc1 Eleasa 12 - 5 B
-\tr \tc1 Eleph 4 - 19 N
-\tr \tc1 Elijah’s Altar 4 - 19 L
-\tr \tc1 Elim (?) 3-41
-\tr \tc1 Elisha, spring healed hY,see ovnfarn near  Jericho 6 - 19 N
-\tr \tc1 Elishah 1-6 D
-\tr \tc1 Ellasar 13 E
-\tr \tc1 Elon-beth-hanati 12 - .5 B
-\tr \tc1 Eloth 5-71
-\tr \tc1 Elteke \tc2 see \tc3  Eltekeh
-\tr \tc1 Elteke  4 - 19 N; 12 - 4 B
-\tr \tc1 Elymais 13 E
-\tr \tc1 Emims \tc2 see \tc3  Emim
-\tr \tc1 Emims  2 - G
-\tr \tc1 Emmaus {Khamaseh) 12 - 5 D
-\tr \tc1 Emmaus {El Kubeibeh) 12 - 5 B; 13 - 19 N
-\tr \tc1 En-dor 4, 6 - 19 L; 5 - F
-\tr \tc1 En-eglaim \tc2 see \tc3 Eglaim
-\tr \tc1 En-eglaim  6 - 20 O
-\tr \tc1 En-gaddi \tc2 see \tc3 En-gedi
-\tr \tc1 En-gaddi  4, 6 - 19 O
-\tr \tc1 En-ganuim (Issachar) 4, 6 - 19 M
-\tr \tc1 En-gannim \tc2 see \tc4 Anem
-\tr \tc1 En-gedi 4, 6 - 19 O
-\tr \tc1 En-haddah (?)  4 - 19 M
-\tr \tc1 En-hazor 4 - 19 L
-\tr \tc1 En-mishpat \tc2 see \tc3 Kadesh-barnea
-\tr \tc1 En-mishpat  3 - F
-\tr \tc1 En-rimmon, see Rimmon 4, 6 18
-\tr \tc1 En-rogel 13 - 20 O
-\tr \tc1 En-shemesh 4 - 19 N; 12 - C
-\tr \tc1 Ephes-dammim \tc2 see \tc3 Pas-dammim
-\tr \tc1 Ephes-dammim  4 - 18 N
-\tr \tc1 Ephesus 14-9 D
-\tr \tc1 Ephraim, allotment of 4 - 19 M
-\tr \tc1 Ephraim, citv . 12-7 A; 13 - 19 N
-\tr \tc1 Ephraim, Mount  12 - 6 A; 4, 6 - 19 M
-\tr \tc1 Ephrain \tc2 see \tc3  Ephron
-\tr \tc1 Ephrain \tc2 see \tc3 Ophrah C)
-\tr \tc1 Ephrain  6 19 N j 12 - A
-\tr \tc1 Ephratah \tc2 see \tc3  Ephrathah
-\tr \tc1 Ephratah \tc2 see \tc3 Beth-lehem
-\tr \tc1 Ephratah  6 - 19 N
-\tr \tc1 Ephrath \tc2 see \tc3 Beth-lehem
-\tr \tc1 Ephrath  2 - G
-\tr \tc1 Ephron \tc2 see \tc3 Ophrah
-\tr \tc1 Ephron  6 - 19 N; 12 - A
-\tr \tc1 Erech \tc2 \tc3 \tc4 1 \tc5 8 D \tc6
-\tr \tc1 Erech \tc2 \tc3 \tc4 7 \tc5 13 E \tc6
-\tr \tc1 Erech \tc2 see \tc3 Archevites
-\tr \tc1 Esau \tc2 see \tc3 Mount Seir
-\tr \tc1 Esau, the Mount of  3 - H
-\tr \tc1 Esdraelom \tc2 see \tc3 Esdraelon
-\tr \tc1 Esdraelom  12 19 It
-\tr \tc1 Esdrelom \tc2 see \tc3 Esdraelon
-\tr \tc1 Esdrelom  13 - 19 L
-\tr \tc1 Esebon \tc2 see \tc3 Heshbon
-\tr \tc1 Esebon  13 - 20 N
-\tr \tc1 Eschol, valley of 3-7 G; 4 - 19 N
-\tr \tc1 Eshean \tc2 see \tc3  Eshan
-\tr \tc1 Eshean  4 - 19 O
-\tr \tc1 Eshtaol 4, 6 - 19 N; 12 - 4 C
-\tr \tc1 Eshteraoa 4, 6 - 19 O
-\tr \tc1 Eshtemoh \tc2 see \tc3 Ef litcmoa
-\tr \tc1 Eshtemoh  4 - 19 O
-\tr \tc1 Etam (Simeon) 4, 6 - 18 O
-\tr \tc1 Etam (Judah) 4, 6 - 19 N; 12 - 6 D
-\tr \tc1 Etam, the rock 4, 6 - 19 N; 12 - 4 D
-\tr \tc1 Etham, wilderness of (Numbers 53:8) 3 - 4 H
-\tr \tc1 Etham \tc2 see \tc3 Wilderness of Shur
-\tr \tc1 Etham (?) 3 - 4 H
-\tr \tc1 Ether 4 - 18 N
-\tr \tc1 Ethiopia \tc2 see \tc3  Cush
-\tr \tc1 Ethiopia  1 - F
-\tr \tc1 Ethiopia  \tc2 see \tc3  Cush
-\tr \tc1 Ethiopia (Gen. 2. 13)(Gen. 2. IX)  1-80
-\tr \tc1 Eth-kazin 4 - 19 L
-\tr \tc1 Euphrates, river 1 - D; .5 10 (J; 8, 9 - 12 E
-\tr \tc1 Ezion-gaber \tc2 see \tc3 Ezion geber
-\tr \tc1 Ezion-gaber  3, 5 - 6 I
-\tr \tc1 Fair Havens 14 - 8 E
-\tr \tc1 Gaash,hilIof 4 - 19 M
-\tr \tc1 Gaba \tc2 see \tc3 Geba
-\tr \tc1 Gaba  12 - B
-\tr \tc1 Gabdes \tc2 see \tc3 Geba
-\tr \tc1 Gabdes  12 - B
-\tr \tc1 Gad, allotment of  . 4 20 31
-\tr \tc1 Gadara 13 - 20 L
-\tr \tc1 Galaad \tc2 see \tc3 Gilead
-\tr \tc1 Galaad  6 - 20 M
-\tr \tc1 Galatia 14 - 10 D
-\tr \tc1 Galeed (?) 2 - F
-\tr \tc1 Galgala \tc2 see \tc3 Gilgal
-\tr \tc1 Galgala  6 - 19 M
-\tr \tc1 Galilee 6-7 F; 13 II) L; 7, 14 - 11 E
-\tr \tc1 Galilee, Sea of 13 - 20 L
-\tr \tc1 Gallim(?) 2 - 6 B
-\tr \tc1 Garden-house \tc2 see \tc3 En-gannim
-\tr \tc1 Garden-house  19 M
-\tr \tc1 Garizim — Gerizim 6 - 19 M
-\tr \tc1 Gath 4, (5 18 N; 6 - 6 G
-\tr \tc1 Gath-hepher 4, 6 - 19 L
-\tr \tc1 Gath-rimmon  \tc2 see \tc3 Ibleam
-\tr \tc1 Gath-rimmon (Manasseh)  4 - 19 M
-\tr \tc1 Gaza 2, 8, 5 - 6 G; 6 - 17 N; 14 - 10 E
-\tr \tc1 Gaza \tc2 see \tc3 Azzah
-\tr \tc1 Gazara \tc2 see \tc3 Gezer
-\tr \tc1 Gazara  6 - 18 N
-\tr \tc1 Gazer \tc2 see \tc3 Gazera
-\tr \tc1 Gazer \tc2 see \tc3 Gezer
-\tr \tc1 Gazer  6 - 18 N
-\tr \tc1 Geba (Benjamin) 4, 6 - 19 N; 12 - B
-\tr \tc1 Gebo (Judith 3. 10) 13-19 M
-\tr \tc1 Gebal 2,5-7 D;7-llE
-\tr \tc1 Gebal (Ps. 83. 7) 5 - H; 11 E
-\tr \tc1 Geder \tc2 see \tc3 Gedor (Judah)
-\tr \tc1 Geder  4 - 19 N; 12 - 5 E
-\tr \tc1 Gederah (Benjamin) 12 - 6 B
-\tr \tc1 Gederoth 4, 6 - 18 N
-\tr \tc1 Ge-harashim \tc2 see \tc3  the valley of Charashim
-\tr \tc1 Ge-harashim  12 - 4 B
-\tr \tc1 Geliloth \tc2 see \tc3 Gilgal
-\tr \tc1 Geliloth  4 - 19 N
-\tr \tc1 Gennesar \tc2 see \tc3 Gennesaret, lake of
-\tr \tc1 Gennesar, water of  13 - 20 L
-\tr \tc1 Geon \tc2 see \tc3 Gihon
-\tr \tc1 Geon  1 - 8 D
-\tr \tc1 Gerar(?) 2-6 G
-\tr \tc1 Gerizim, Mount 4, 6 - 19 M
-\tr \tc1 Gesem \tc2 see \tc3 Goshen
-\tr \tc1 Gesem  3 - 3 H
-\tr \tc1 Geshur 5 - 8 E; 6 - 21 K
-\tr \tc1 Geshurites 2 - 8 E
-\tr \tc1 Gether 1-7 D;2-8 E
-\tr \tc1 Gethsemane 13 - 20 O
-\tr \tc1 Gezer (?) 4, 6 - 18 N
-\tr \tc1 Gibbar \tc2 see \tc3 Gibeon
-\tr \tc1 Gibbar  6 - 19 N; 12 - 6 B
-\tr \tc1 Gibbethon(?) . 4 - 18 M
-\tr \tc1 Gibeah (Benjamin) 6 - 19 N; 12 - G C
-\tr \tc1 Gibeah (2 Sam. 6. 8, 4) 6 - 19 N; 12 - 5 C
-\tr \tc1 Gibeath (Josh. 18-28) 12 - 5 C
-\tr \tc1 Gileon (Benjamin) 2, 5 - G; 4, 6 - 19 N; 12 - 6 B
-\tr \tc1 Giblites \tc2 see \tc3  Gebalites, of Gebal
-\tr \tc1 Giblites  5 - D
-\tr \tc1 Gihon, river (?) 1-81)
-\tr \tc1 Gilboa, Mount 4, 6 - 19 M
-\tr \tc1 Gilead \tc2 see \tc3  Mount Gilead
-\tr \tc1 Gilead, the land of  2 - F; 4, 6 - 20 M; 11 E
-\tr \tc1 Gilead \tc2 see \tc3 Mount Gilboa
-\tr \tc1 Gilead, Mount (Judg. 7. 3)  6 - 19 M
-\tr \tc1 Gilgal (Benjamin) 4, 6 - 19 N
-\tr \tc1 Gilgal (Ephraim) 4, 6 - 19 M
-\tr \tc1 Gilgal (near River Kanah) 4, 6 - 18 M
-\tr \tc1 Giloh 4, 6 19 N  5 - c;; 12 - 4 E
-\tr \tc1 Gimzo 4, 6 - 18 N
-\tr \tc1 Girgashites 2 - F
-\tr \tc1 Gittah-hepher \tc2 see \tc3  Gath-hepher
-\tr \tc1 Gittah-hepher  4 - 19 L
-\tr \tc1 Gittite \tc2 see \tc3 -- native of Gath
-\tr \tc1 Gittite  6 - 18 N
-\tr \tc1 Gob \tc2 see \tc3 Gezer
-\tr \tc1 Gob  6 - 18 N
-\tr \tc1 Golan 4, 6 - 20 L
-\tr \tc1 Golgotha \tc2 see \tc3 Calvary
-\tr \tc1 Golgotha  13-20
-\tr \tc1 Gomer 1-7 C
-\tr \tc1 Gortyna . .ll-SD
-\tr \tc1 Goshen (Egypt) 3 - 3 H
-\tr \tc1 Goshen (Judah) 4 - 18 O
-\tr \tc1 Gozan 12 1
-\tr \tc1 Great Sea 3 - CJ; 4, 6 1 - 8 M; 1 4 - E
-\tr \tc1 Grecia \tc2 see \tc3  Greece
-\tr \tc1 Grecia  9, 10, 14 - 8 D
-\tr \tc1 Gudgodah(?) 3-7 H
-\tr \tc1 Habor (?) l2 D
-\tr \tc1 Hachilali, hill of 4, 6 - 19 O
-\tr \tc1 Hadad-rimmon 4 - 19 L
-\tr \tc1 Hadashah \tc2 see \tc3 Adasa
-\tr \tc1 Hadashah  12 - 6 B
-\tr \tc1 Hadid 4, 6 - 18 N
-\tr \tc1 Hadoram I - 8 F
-\tr \tc1 Hal \tc2 see \tc3  Ai
-\tr \tc1 Hal  2 - G; 12 - B
-\tr \tc1 Halah (?) 12 D
-\tr \tc1 Halalf, mount (?) 6 - H
-\tr \tc1 Halhul 4 - 19 N; 12 - 6 F
-\tr \tc1 Hall 4 - 19 K
-\tr \tc1 Ham, city 2 - G
-\tr \tc1 Ham \tc2 see \tc3 f:gypt
-\tr \tc1 Ham, the land of (Ps. 105. 23)  3 - 3 H
-\tr \tc1 Hamath \tc2 see \tc3 Hamath the Great
-\tr \tc1 Hamath \tc2 see \tc3 Amathis
-\tr \tc1 Hamath 5 - 8 C; 11 D
-\tr \tc1 Hamath, the land of 5 - 8 D
-\tr \tc1 Hamath, the entering in of (= the pass on 6 8 D the watershed of the Leontes and Orontes)
-\tr \tc1 Hamathites . 2-81)
-\tr \tc1 Hammath 4 - 20 L
-\tr \tc1 Hammon (Aslier) 4 - 19 K
-\tr \tc1 Hammon (Naphtali) 6 - 20 E
-\tr \tc1 Hammoth-dor \tc2 see \tc3 Hammath
-\tr \tc1 Hammoth-dor  4 - 20 L
-\tr \tc1 Hanes 3-4 H
-\tr \tc1 Hannathon 4 19 li
-\tr \tc1 Haphraim or Hapharaim 4 -]9 I
-\tr \tc1 Hara 11 I
-\tr \tc1 Haran 1 - D; 7, 14 - 11 D
-\tr \tc1 Hareth \tc2 see \tc3  Hereth !
-\tr \tc1 Hareth  6 - 19 N; 12 - 4 E
-\tr \tc1 Har-Magedon \tc2 \tc3 \tc4 13 \tc5 19 L \tc6
-\tr \tc1 Har-Magedon \tc2 see \tc3 Armageddon
-\tr \tc1 Harod, well or spring of 4, 6 - 19 L
-\tr \tc1 Harosheth 4, 6 - 19 L
-\tr \tc1 Hauran 6 21 li
-\tr \tc1 Havilah (Armenia) 1-80
-\tr \tc1 Havilah (Arabia) 1 - 8 F
-\tr \tc1 Havilah (Gush) 1 - 8 F
-\tr \tc1 Havilah E. of Shur 5 - 6 H
-\tr \tc1 Havoth-jair \tc2 see \tc3  Hawoth-jair
-\tr \tc1 Havoth-jair  5 - 8 F; 6 - 21 L
-\tr \tc1 Hazarmaveth 1 - 8 F
-\tr \tc1 Hazar-shual (?) G 18 N
-\tr \tc1 Hazar-susah, a?so catof. Hazarsusim G 17 O
-\tr \tc1 Hazazon-tamar \tc2 see \tc3 En-gedi
-\tr \tc1 Hazazon-tamar  2 - G
-\tr \tc1 Hazeroth 3 - G K
-\tr \tc1 Hazezon-tamar \tc2 see \tc3  Hazazon-tamar
-\tr \tc1 Hazezon-tamar  2 - G
-\tr \tc1 Hazor (Benjamin) 12 - 6
-\tr \tc1 Hazor (Neh. 11. 33) 12 - 6 O
-\tr \tc1 Hazor (Naphtali) 4, 6 - 19 K
-\tr \tc1 Hazor \tc2 see \tc3 Aser
-\tr \tc1 Hebron (Judah) 2, 3, 5 - G; 4, 6, 13 - 19 N; 12 - 5 F
-\tr \tc1 Hebron \tc2 see \tc3 Arba
-\tr \tc1 Hebron \tc2 see \tc3  Ebron (Asher)
-\tr \tc1 Hebron \tc2 see \tc3 Abdon
-\tr \tc1 Hebron  4, 6 - 19 K
-\tr \tc1 Helbon 5-8 E
-\tr \tc1 Heleph 4 - 19 L
-\tr \tc1 Helkath 4 19 li
-\tr \tc1 Hemath \tc2 see \tc3  Hamath, the entering in of
-\tr \tc1 Hemath  5 - 8 D
-\tr \tc1 Hena 12 E
-\tr \tc1 Hepher 12 - 4 E
-\tr \tc1 Heres \tc2 see \tc3 Timnath-heres
-\tr \tc1 Heres  6 - 19 M
-\tr \tc1 Hereth \tc2 see \tc3 Hareth
-\tr \tc1 Hereth  12 - 4 E
-\tr \tc1 Hermon, Mount 5 - E; 6 - 20 K
-\tr \tc1 Hermonites \tc2 see \tc3  Hermons -- tlie range of
-\tr \tc1 Hermon 6 - 20 K
-\tr \tc1 Heshbon 4, 6 - 20 N
-\tr \tc1 Heth, the children of - Hittitcs 2 - G
-\tr \tc1 Hiddekel, river 1 - 8 D
-\tr \tc1 Hierapolis 14 - 9 D
-\tr \tc1 Hilen (?) 6 - 18 N
-\tr \tc1 Hinnom, valley of 13-20
-\tr \tc1 Hittites 2 - 7 (i; 2 - 8 D
-\tr \tc1 Hivites 2 - E G
-\tr \tc1 Hobah 6 - 21 I
-\tr \tc1 Holon  \tc2 see \tc3 Hilen
-\tr \tc1 Holon (Judah)  6 - 18 N
-\tr \tc1 Holy City  \tc2 see \tc3 Jerusalem
-\tr \tc1 Holy City (Nehemiah 11:1)  13 - 20 O
-\tr \tc1 Holy Land \tc2 see \tc3 Palestine
-\tr \tc1 Holy Land (Zechariah. 2:12) 
-\tr \tc1 Hor, Mount (near Petra)  8, 6 - T H
-\tr \tc1 Hor, Mount (Numbers 34:7) 5 - T D
-\tr \tc1 Horeb 3-5 K
-\tr \tc1 Horem  4 - 19 K
-\tr \tc1 Hor-hagidgad \tc2 see \tc3  Hor-haggidgad
-\tr \tc1 Hor-hagidgad \tc2 see \tc3 Gudgodah
-\tr \tc1 Hor-hagidgad  3 - H
-\tr \tc1 Hori \tc2 see \tc3 Horims
-\tr \tc1 Hori \tc2 see \tc3 Horite
-\tr \tc1 Hori \tc2 see \tc3 Horites
-\tr \tc1 Hori  2 - G
-\tr \tc1 Hormah (Simeon) .4-180
-\tr \tc1 Hosah 4 - 19 K
-\tr \tc1 Hukkok 4 - 19 L
-\tr \tc1 Hiikok 6 - 19 L
-\tr \tc1 Hul 1 - 7 D;2 - 7 E
-\tr \tc1 Huzzab . 12 D
-\tr \tc1 Ibleam (?) 4, 6 - 19 M
-\tr \tc1 Iconium 14 - 10 D
-\tr \tc1 Idalah 4 - 19 L
-\tr \tc1 Idumtea 14 - 11 E
-\tr \tc1 Idumea — Edoni 11 E
-\tr \tc1 Ije-abarim \tc2 see \tc3  Iye-abarim
-\tr \tc1 Ije-abarim \tc2 see \tc3  Iim
-\tr \tc1 Ije-abarim \tc2 see \tc3  lyim
-\tr \tc1 Ije-abarim (?) 3 - H
-\tr \tc1 Ijon 6 - 20 K
-\tr \tc1 Illyrieum 11, 14 - C
-\tr \tc1 India 9, 10 - 17 F
-\tr \tc1 Iron 4 - 19 K
-\tr \tc1 Irpeel 12 - 6 B
-\tr \tc1 Ir-shemesh \tc2 see \tc3 Beth-shemesh
-\tr \tc1 Ir-shemesh  4 - 18 N; 12 - 3 D
-\tr \tc1 Ish-tob \tc2 see \tc3  men of Tob, see Tob
-\tr \tc1 Ish-tob  6 - 20 L
-\tr \tc1 Israel, kingdom of 6 - 19 M
-\tr \tc1 Israel \tc2 see \tc3 Mount Ephraim
-\tr \tc1 Israel, mountain or mountains of  6 - 19 M
-\tr \tc1 Issachar, allotment of 4 - 19 M
-\tr \tc1 Italy 14 - 6 C
-\tr \tc1 Ithlah \tc2 see \tc3 Jethlah
-\tr \tc1 Ithlah  12 - 4 C
-\tr \tc1 Ittah-kazin \tc2 see \tc3  Eth-kazin
-\tr \tc1 Ittah-kazin  4 - 19 L
-\tr \tc1 Ivah \tc2 see \tc3  Ivvah
-\tr \tc1 Ivah  12 E
-\tr \tc1 lyim \tc2 see \tc3  lim
-\tr \tc1 lyim \tc2 see \tc3 lye-abarim ?. - H
-\tr \tc1 Jaazer \tc2 see \tc3  Jazer
-\tr \tc1 Jaazer  4, 6 - 20 N; 6 - G
-\tr \tc1 Jabbok, river 2, 5 - F: 4, 6 - 20 M
-\tr \tc1 Jabesh \tc2 see \tc3 Jabesh-Gilead
-\tr \tc1 Jabesh  4, 6 - 20 M; 5 - F
-\tr \tc1 Jabneel (Judah) 4 - 18 N
-\tr \tc1 Jabneel (Naphtali) 4 - 20 L
-\tr \tc1 Jabneh 6 - 18 N
-\tr \tc1 Jacob’s Well 13 - 19 M
-\tr \tc1 Jahaz (?) 4, 6 - 20 O
-\tr \tc1 Jahaza \tc2 see \tc3 Jahazah
-\tr \tc1 Jahaza \tc2 see \tc3 Jahzah
-\tr \tc1 Jahaza \tc2 see \tc3 Jahaz
-\tr \tc1 Jahaza  4, 6 - 20 O
-\tr \tc1 Jair \tc2 see \tc3 Havvoth-jair
-\tr \tc1 Jair, towns of  6 - 21 L
-\tr \tc1 Jarania 13 - 18 N
-\tr \tc1 Janoah (2 Kin. 15. 29) 6 - 19 K
-\tr \tc1 Janohah \tc2 see \tc3  Janoah (Ephraim)
-\tr \tc1 Janohah  4 - 19 M
-\tr \tc1 Janum \tc2 see \tc3  Janim
-\tr \tc1 Janum  4 - 19 N; 12 - 5 F
-\tr \tc1 Japhia 4 - 19 L
-\tr \tc1 Japho \tc2 see \tc3  Joppa
-\tr \tc1 Japho  4 - 18 M
-\tr \tc1 Jarmuth (Judah) 4 - 18 N; 12 - 3 D
-\tr \tc1 Jarmuth (Issachar) 4 - 19 L
-\tr \tc1 Jattir 4, 6 - 19 O
-\tr \tc1 Javan 1-6 D
-\tr \tc1 Jazar \tc2 see \tc3 Jazer
-\tr \tc1 Jazar  4, 6 - 20 N
-\tr \tc1 Jearim \tc2 see \tc3 Chesalon
-\tr \tc1 Jearim, Mount  12 - 4 C
-\tr \tc1 Jebus \tc2 see \tc3 Jebusi
-\tr \tc1 Jebus \tc2 see \tc3  Jebusite
-\tr \tc1 Jebus \tc2 see \tc3 Jerusalem \tc4
-\tr \tc1 Jebus  3 - 7 G; 4, 6 - 19 N
-\tr \tc1 Jebusites 2 - 7 G
-\tr \tc1 Jegar-sahadutha \tc2 see \tc3 Galeed
-\tr \tc1 Jegar-sahadutha  2 - F
-\tr \tc1 Jehud 4 - 18 M
-\tr \tc1 Jemnaan  \tc2 see \tc3 Jabneh
-\tr \tc1 Jemnaan (?)  6 - 18 N
-\tr \tc1 Jerah 1 - 9 F
-\tr \tc1 Jericho \tc2 see \tc3  Jerechus
-\tr \tc1 Jericho  3, 5 - G; 4, 6, 13 VJ N
-\tr \tc1 Jericho, fountain or spring of (2 Kin. 2. 21) 6 - 19 N
-\tr \tc1 Jerusalem . 3, 5 - 7 G; 4, 6, 13 - 19 N; 12 - 6 C; 7, 8, 9, 14 - 11 E
-\tr \tc1 Jeshanah 4, 6 - 19 N
-\tr \tc1 Je.shimon ( .c the desert) 4, 6 - 19 N
-\tr \tc1 Jeshua 6 - 18 O
-\tr \tc1 Jethlah \tc2 see \tc3  Ithlab
-\tr \tc1 Jethlah  12 - 4 C
-\tr \tc1 Jewry \tc2 see \tc3 Judaea
-\tr \tc1 Jewry  13 - 19 N
-\tr \tc1 Jezreel (Judah) 4, 6 - 19 O
-\tr \tc1 Jezreel (Issachar) 4, 6 - 19 L
-\tr \tc1 Jezreel, valley of 4, 6 - 19 L
-\tr \tc1 Jobab 1 - 9 F
-\tr \tc1 Jogbehah 4, 6 - 20 M
-\tr \tc1 Jokraeam (1 Chron. 6. 68) Kibbiah (?) . 4 - 19 N
-\tr \tc1 Jokneam (Zebulun) 4 - 19 L
-\tr \tc1 Joktan 1 - 8 F
-\tr \tc1 Joktheel (Petra) 11 E
-\tr \tc1 Joppa 5 - 6 F; 4, 6, 13 - 18 M; 7, 14 - 10 E
-\tr \tc1 Joppe \tc2 see \tc3 Joppa
-\tr \tc1 Joppe  13-18 M
-\tr \tc1 Jordan, river 2, 5 - F; 4, 6, 13 - 20 L; 7, 14 - 11 E
-\tr \tc1 Jordan, plain of .2 - G; 4, 6 - 20 M
-\tr \tc1 Juda \tc2 see \tc3 Judaea
-\tr \tc1 Juda  13 - 19 N
-\tr \tc1 Judaea beyond Jordan \tc2 see \tc3 Perea 
-\tr \tc1 Judaea beyond Jordan 13 - 20 M
-\tr \tc1 Judah, allotment of 4 - 19 N
-\tr \tc1 Judah, kingdom of 6 - 19 N; 7 - 11 E
-\tr \tc1 Judah, wilderness of 6 - 19 O
-\tr \tc1 Judah \tc2 see \tc3 Zion I
-\tr \tc1 Judah, the city of  13-20
-\tr \tc1 Judaea 13 - 19 N
-\tr \tc1 Judaea, the wilderness of 13 - 19 N
-\tr \tc1 Judaea  \tc2 see \tc3 Jerusalem
-\tr \tc1 Judaea (Luke 21. 21)  13 - 19 N
-\tr \tc1 Jutah \tc2 see \tc3  Juttah
-\tr \tc1 Jutah  4 - 19 O
-\tr \tc1 Kades \tc2 see \tc3 Kadesh-barnea
-\tr \tc1 Kades  3 - H
-\tr \tc1 Kadesh  \tc2 see \tc3 Kadesh-barnea
-\tr \tc1 Kadesh (Numbers 20:14-16)  3 - 7 H
-\tr \tc1 Kadesh \tc2 see \tc3 the wilderness of Zin
-\tr \tc1 Kadesh, wilderness of (Ps. 29. 8) (Numbers  33:3) 3 - 7 H
-\tr \tc1 Kain \tc2 see \tc3  Cain
-\tr \tc1 Kain  4 - 19 O
-\tr \tc1 Kanah 4 - 19 K
-\tr \tc1 Kanah, river or brook 4 - 19 M
-\tr \tc1 Kartah 4 - 19 L
-\tr \tc1 Kattath (?) . 4 - 19 L
-\tr \tc1 Kedesh (Issachar) 4, 6 - 19 L
-\tr \tc1 Kedesh  \tc2 see \tc3 Kadesh
-\tr \tc1 Kedesh (Judah)  3 - H
-\tr \tc1 Kedesh (Naphtali) 4, 6 - 20 K
-\tr \tc1 Kedesh (Judg. 4. 11) 6 - 20 L
-\tr \tc1 Keilah 4, 6 - 19 N; 5 - 7 G; 12 - 4 E
-\tr \tc1 Kenath 5 - 8 F
-\tr \tc1 Kerioth  \tc2 see \tc3  Kerioth-hezron
-\tr \tc1 Kerioth (Judah)  4 - 19 O
-\tr \tc1 Kerioth  \tc2 see \tc3 Kiriathaini
-\tr \tc1 Kerioth (Moab)  4, 6 - 20 N
-\tr \tc1 Kibzaim, possioly Kibbiah 4 - 19 N
-\tr \tc1 Kidron, the brook 12 - 6 C
-\tr \tc1 Kings garden (2 Kin. 25. 4) .13 - 20 O
-\tr \tc1 King’s pool  \tc2 see \tc3 En-rogel
-\tr \tc1 King’s pool (Neh. 2. 14)  13 - 20 O
-\tr \tc1 Kir of Moab \tc2 see \tc3 Kir-haraseth 
-\tr \tc1 Kir of Moab \tc2 see \tc3 Kir-hareseth
-\tr \tc1 Kir of Moab \tc2 see \tc3 Kir-haresh 
-\tr \tc1 Kir of Moab \tc2 see \tc3 Kir-heres
-\tr \tc1 Kir of Moab  3 - 7 G
-\tr \tc1 Kiriathaim 2 - 7 G; 4, 6 - 20 N
-\tr \tc1 Ku-iath-arba \tc2 see \tc3 Hebron
-\tr \tc1 Ku-iath-arba  2 - 7 G; 4, 6 - 19 N
-\tr \tc1 Kirlath-arim \tc2 see \tc3 Kiriath-baal
-\tr \tc1 Kirlath-arim \tc2 see \tc3 Kiriathiarius
-\tr \tc1 Kirlath-arim \tc2 see \tc3 Kirjath-jearim
-\tr \tc1 Kirlath-arim  12 - 5 C
-\tr \tc1 Kiriath-jearim \tc2 see \tc3  Kirjath-jearim
-\tr \tc1 Kiriath-jearim  4 - 19 N; 12 - 6
-\tr \tc1 Kiriath-sannah \tc2 see \tc3 Kiriath-sepher
-\tr \tc1 Kiriath-sannah \tc2 see \tc3 Debir
-\tr \tc1 Kiriath-sannah  4,6 18 O
-\tr \tc1 Kirioth \tc2 see \tc3  Kerioth - Kiriathaim
-\tr \tc1 Kirioth  6-20 N
-\tr \tc1 Kirjath-jearim 4, 6 - 19 N; 12 - 5
-\tr \tc1 Kirjathaim  \tc2 see \tc3 Kiriathaim
-\tr \tc1 Kirjathaim (Reuben)  4 20 N
-\tr \tc1 Kirjath-arba \tc2 see \tc3  Kiriath-arba
-\tr \tc1 Kirjath-arba \tc2 see \tc3 Hebron
-\tr \tc1 Kirjath-arba  2,5-7 (!; 4,6 19 N
-\tr \tc1 Kirjath-arim \tc2 see \tc3 Kirjath-baal
-\tr \tc1 Kirjath-arim \tc2 see \tc3 Kirjath jearim
-\tr \tc1 Kirjath-arim  5 19 N; 12 - 5 G
-\tr \tc1 Kirjath-sannah \tc2 see \tc3 Debir
-\tr \tc1 Kirjath-sannah  4 18 O
-\tr \tc1 Kirjath-sephcr \tc2 see \tc3 Debir
-\tr \tc1 Kirjath-sephcr  4, 6 18 O
-\tr \tc1 Ki-shion \tc2 see \tc3  Kishon
-\tr \tc1 Ki-shion  4 19 L
-\tr \tc1 Kishon \tc2 see \tc3  Kison
-\tr \tc1 Kishon, river  6 19 L
-\tr \tc1 Kitron 6 19 L
-\tr \tc1 Kittim (Cyprus) 1 - D
-\tr \tc1 Kustul \tc2 see \tc3 Aphek
-\tr \tc1 Lachish, before the captivity of Judah (2 Kin. 13. 14) Tell el Ilesif 4, 6 18 N
-\tr \tc1 Lachish, after the return from Babylon (Neh. 11. 30) [Tmm Lakis (?) 4, 6 18 N
-\tr \tc1 Lahmam . 4 18 N
-\tr \tc1 Laish (Dan) 4, 6 20 K
-\tr \tc1 Laish or Laishah (Benjamin) Adasa (?) . 12 - 6 B
-\tr \tc1 Laodicea 14 - 9 D
-\tr \tc1 Lasea 14 - 8 E
-\tr \tc1 Lasha(?) 2 - G; 4 20 N
-\tr \tc1 Lasharon \tc2 see \tc3  Lassharon
-\tr \tc1 Lasharon  4 19 li
-\tr \tc1 Lebanon, Mount 5 - E; 6 20 I
-\tr \tc1 Lebanon \tc2 see \tc3 Lebanon toward the Sunrising
-\tr \tc1 Lebanon \tc2 see \tc3 Anti-Libanus
-\tr \tc1 Lebanon, Mount (Judg. 3. 3)(Josh. 13. 5)  6 20 K
-\tr \tc1 Lebanon, valley of 6 20 I
-\tr \tc1 Lebanon  \tc2 see \tc3 Aven (plain)
-\tr \tc1 Lebaoth \tc2 see \tc3 Beth-lebaoth „
-\tr \tc1 Lebaoth  4 18 O
-\tr \tc1 Lebonah 6 19 M
-\tr \tc1 Lehabim 1-6 D
-\tr \tc1 Leshem 4 20 K
-\tr \tc1 Libanus, Mount 6 20 I
-\tr \tc1 Libya \tc2 see \tc3  Put
-\tr \tc1 Libya  1 - 5 D; 11, 14 - 8 E
-\tr \tc1 Libyans \tc2 see \tc3  Put
-\tr \tc1 Libyans  1 - 5 D
-\tr \tc1 Lo-debar (?) 6 20 M
-\tr \tc1 Lubim \tc2 see \tc3 Lubims
-\tr \tc1 Lubim \tc2 see \tc3 Lehabim
-\tr \tc1 Lubim  1 - 6 D
-\tr \tc1 Lud 1 - 6 D
-\tr \tc1 Ludim 1-6 D
-\tr \tc1 Luhith (?) 6 20 O
-\tr \tc1 Luz (Beth-el)  . .2 - G; 4,6 19 N
-\tr \tc1 Liiz (Judg. 1. 26) 6 20 K
-\tr \tc1 Lycaonia 14 10 D
-\tr \tc1 Lycia 14 - 9 D
-\tr \tc1 Lydda 13 18 N
-\tr \tc1 Lydia (1 Mace. 8 8) 9, 10, 14 - 9 D
-\tr \tc1 Lydia \tc2 see \tc3  Lud
-\tr \tc1 Lydia  (Ezekiel 30:5) 1 - 6 D
-\tr \tc1 Lydians \tc2 see \tc3  Ludim
-\tr \tc1 Lydians  (Jeremiah 46:9) 1 - 6 D
-\tr \tc1 Lystra • . 14 10 D
-\tr \tc1 Maacah \tc2 see \tc3 Maachab
-\tr \tc1 Maacah  5 - 8 E
-\tr \tc1 Maachathi \tc2 see \tc3 Maachathitec
-\tr \tc1 Maachathi \tc2 see \tc3  Maacathitpa
-\tr \tc1 Maachathi \tc2 see \tc3 the people of Maaeah
-\tr \tc1 Maachathi  6 - 8 E
-\tr \tc1 Maaleh-acrabbira \tc2 see \tc3 Akrabbira (ascent)
-\tr \tc1 Maaleh-acrabbira, ascent  6 19 P
-\tr \tc1 Maarath 4 19 N; ]2 - 6 E
-\tr \tc1 Macalon \tc2 see \tc3 Michmash
-\tr \tc1 Macalon  12 - B
-\tr \tc1 Macedonia .10,11, 14 - 8 C
-\tr \tc1 Machmas \tc2 see \tc3 Michmash
-\tr \tc1 Machmas  12 - B
-\tr \tc1 Machpelah, at Hebron 2 - Gj 13 - 6 F
-\tr \tc1 Madai 1-8 D
-\tr \tc1 Madian \tc2 see \tc3 Midian
-\tr \tc1 Madian  1 - E
-\tr \tc1 Madmannah 4 18 O
-\tr \tc1 Magadan \tc2 see \tc3  Magdala
-\tr \tc1 Magadan  13 20 L
-\tr \tc1 Magiddo \tc2 see \tc3 Megiddo
-\tr \tc1 Magiddo  6 19 L
-\tr \tc1 Magog 1 - 8 C
-\tr \tc1 Mahanaim (?) 6 - F
-\tr \tc1 Makkedah (?) 4 18 N
-\tr \tc1 Maktesh, possibly the Kidron •valley 13 19 N
-\tr \tc1 Manare 4 19 N
-\tr \tc1 Manasseh \tc2 see \tc3  Manasses
-\tr \tc1 Manasseh, allotment of  4-19 M
-\tr \tc1 Manassites \tc2 see \tc3 Manasseh
-\tr \tc1 Manassites  4 19 M
-\tr \tc1 Maon  4, 6 19 O
-\tr \tc1 Marah (?) - .3 41
-\tr \tc1 Marisa \tc2 see \tc3 Mareshah
-\tr \tc1 Marisa  4 6 18 N
-\tr \tc1 Market of Appius \tc2 see \tc3 Appii Forum
-\tr \tc1 Mash 1 - D
-\tr \tc1 Mashal 6 19 L
-\tr \tc1 Maspha  \tc2 see \tc3 Mizpeh
-\tr \tc1 Maspha (Benjamin)  12 - 6 C
-\tr \tc1 Maspha  \tc2 see \tc3 Mizpeh
-\tr \tc1 Maspha (Gilead)  6 20 M
-\tr \tc1 Mattanah (?) .  4 20 N
-\tr \tc1 Mcdaba \tc2 see \tc3 Medeba
-\tr \tc1 Mcdaba  4, 6 20 N
-\tr \tc1 Media 9, 10 IB E
-\tr \tc1 Median Empire 9 13 D
-\tr \tc1 Megiddon \tc2 see \tc3 Megiddo
-\tr \tc1 Megiddon  4, 6 19 L
-\tr \tc1 Me-jarkon 4 18 M
-\tr \tc1 Mekonah \tc2 see \tc3  Meconah
-\tr \tc1 Mekonah  6 18 N
-\tr \tc1 Melita 14 - 6 D
-\tr \tc1 Memphis 3 - 3 I; 14 10 F
-\tr \tc1 Mephaath (?) 4 20 N
-\tr \tc1 Meribah  \tc2 see \tc3 Meribah-Kadesh
-\tr \tc1 Meribah  \tc2 see \tc3 Meribah of Kadesh
-\tr \tc1 Meribah  \tc2 see \tc3 Meribath-kadesh
-\tr \tc1 Meribah  \tc2 see \tc3 Meriboth-kadesh
-\tr \tc1 Meribah  \tc2 see \tc3 Kadesh-barnea
-\tr \tc1 Meribah (in the wilderness of Zin)  3 T H
-\tr \tc1 Merom, the waters of 4 20 K
-\tr \tc1 Meronoth 12 - 5 E
-\tr \tc1 Meroz 6 19 L
-\tr \tc1 Mesech \tc2 see \tc3  Meshech (Japhetic)
-\tr \tc1 Mesech  1 - 8 C
-\tr \tc1 Mesha 1-8 E
-\tr \tc1 Meshech  \tc2 see \tc3 Mash I - D
-\tr \tc1 Mesopotamia 5 10 B; 7, 11 12 D
-\tr \tc1 Mesopotamia \tc2 see \tc3 Aram-naharaim
-\tr \tc1 Metheg-ammah - Gath 6 18 N
-\tr \tc1 Michmas — Michmash 12 - B
-\tr \tc1 Midian 1-7 E
-\tr \tc1 Midianites 3 - 6 K
-\tr \tc1 Mlgdal-el 4 19 K
-\tr \tc1 Migdal-gad 4 18 N
-\tr \tc1 Migdol (Egypt) 3 - 4 H
-\tr \tc1 Migron 12 - B
-\tr \tc1 Milctum \tc2 see \tc3  Miletus
-\tr \tc1 Milctum  14 - 9 D
-\tr \tc1 Millo (?) 13 20 O
-\tr \tc1 Minni 12 D
-\tr \tc1 Minnith (?) 6 20 N
-\tr \tc1 Misgab, possibly Mizpeh of Moab . .6-20 ()
-\tr \tc1 Misheal or Mishal 4 19 L
-\tr \tc1 Misrephoth-maim \tc2 see \tc3 Zarephath
-\tr \tc1 Misrephoth-maim  6 19 K
-\tr \tc1 Mitylene 14 - 9 D
-\tr \tc1 Mizpah  \tc2 see \tc3 Mizpeh
-\tr \tc1 Mizpah (in Gilead)  6 20 M
-\tr \tc1 Mizpah  \tc2 see \tc3 Mizpeh
-\tr \tc1 Mizpah (Benjamin)  12 - 6 G
-\tr \tc1 Mizpah \tc2 see \tc3  Mizpehi, the land of
-\tr \tc1 Mizpah \tc2 see \tc3 the valley of Lebanon
-\tr \tc1 Mizpah  6 20 I
-\tr \tc1 Mizpeh \tc2 see \tc3  Mizpeh of Gilead
-\tr \tc1 Mizpeh  6 20 M
-\tr \tc1 Mizpeh of Moab 6 20 O
-\tr \tc1 Mizpeh (Benjamin) 4, 6 19 N; 12 - 6 C
-\tr \tc1 Mizraim \tc2 see \tc3 Lgjpt I - E
-\tr \tc1 Moab 2, 5 - G; 6 20 O
-\tr \tc1 Modin 4 18 N
-\tr \tc1 Moladah (?) 4, 6 19 O
-\tr \tc1 Moreh, hill of 6 19 I
-\tr \tc1 Moresheth-gath, probal)ly Mareshah . .6-18 N
-\tr \tc1 Moriah, Mount 13 20 O
-\tr \tc1 Mosera \tc2 see \tc3 Moserab
-\tr \tc1 Mosera \tc2 see \tc3 Moseroth
-\tr \tc1 Mosera \tc2 see \tc3 Mount Hor
-\tr \tc1 Mosera  3 - H
-\tr \tc1 Mozah 4 19 N; 12 - .5 V
-\tr \tc1 Myra 14 - 10 D
-\tr \tc1 Mysia 9, 1( 1 4 - 9 D
-\tr \tc1 Naarah \tc2 see \tc3  Naarath
-\tr \tc1 Naarah  4 19 N
-\tr \tc1 Naaran 6 19 N
-\tr \tc1 Nahalal \tc2 see \tc3  Nahallal
-\tr \tc1 Nahalal  4 19 L
-\tr \tc1 Nahalol 6 19 L
-\tr \tc1 Nain 13-19 Ji
-\tr \tc1 Naphtali, allotment of 4 19 K
-\tr \tc1 Naphtuhim 1 - E
-\tr \tc1 Nasor \tc2 see \tc3 Hazor
-\tr \tc1 Nasor  6 19 K
-\tr \tc1 Nazareth 13 19 L
-\tr \tc1 Neah (?) 4 19 L
-\tr \tc1 Neapolis 14 - 8 C
-\tr \tc1 Nebaioth 5 - H
-\tr \tc1 Neballat (?) 6 18 N; 12 - 6 B
-\tr \tc1 Nebo, Mount J, 6 20 N
-\tr \tc1 Neiel 4 19 L
-\tr \tc1 Nekeb (?) 4 - 20 L
-\tr \tc1 Nepthali \tc2 see \tc3 Nephthalira, also
-\tr \tc1 Nepthalim \tc2 see \tc3 Naphtali
-\tr \tc1 Nepthalim  13 19 L
-\tr \tc1 Nephtoah 12 - 6 C
-\tr \tc1 Netophah (?) 4 19 N; 13 - 6 D
-\tr \tc1 Nezib 4 18 N; 12 - 3 E
-\tr \tc1 Nibshan 12 - 6 D
-\tr \tc1 Nicopolis 14 - 8 D
-\tr \tc1 Nile, river I - !:; 3 - 3 K; 8 10 G
-\tr \tc1 Nimrah, ■sc' Beth-nimrah 4 20 N
-\tr \tc1 Nimrim(?) 6 20 O
-\tr \tc1 Nimrod, the land of 1 - 8 D
-\tr \tc1 Nineve \tc2 see \tc3 Nineveh
-\tr \tc1 Nineve  1-8 D;7~]2 D
-\tr \tc1 No \tc2 see \tc3 Amon of No
-\tr \tc1 No \tc2 see \tc3  No-amon
-\tr \tc1 No  1 - E
-\tr \tc1 Nob 12 - 6 C
-\tr \tc1 Noph 3-31
-\tr \tc1 Obal 1 - 8 F
-\tr \tc1 Oboth (?) 3 - H
-\tr \tc1 Ocina -- \tc2 see \tc3 Accho
-\tr \tc1 Ocina --  6 19 L
-\tr \tc1 Odollam \tc2 see \tc3 Adullam
-\tr \tc1 Odollam  18 N; 12 - 3 E
-\tr \tc1 Olivet \tc2 see \tc3  Mount of Olives
-\tr \tc1 Olivet  12-60
-\tr \tc1 On 1-7 D;3-3 H
-\tr \tc1 Ono \tc2 see \tc3  Onus
-\tr \tc1 Ono  6 18 M
-\tr \tc1 Ophel 13 20 O
-\tr \tc1 Ophir (?) 1 - 8 F
-\tr \tc1 Ophrah (Benjamin) 4, 6 19 N; 12 - A
-\tr \tc1 Ophrah (Manasseh) 6 19 M
-\tr \tc1 Oreb \tc2 see \tc3 Mount Sinai
-\tr \tc1 Oreb, Mount  3 - 5 K
-\tr \tc1 Padan \tc2 see \tc3 Paddan
-\tr \tc1 Padan \tc2 see \tc3 Paddan-aram
-\tr \tc1 Padan \tc2 see \tc3 Padan-aram
-\tr \tc1 Padan  1 - 8 D
-\tr \tc1 Palestina \tc2 see \tc3 Palestine
-\tr \tc1 Palestina \tc2 see \tc3 Philistia
-\tr \tc1 Palestina \tc2 see \tc3 Philistines
-\tr \tc1 Palestina  6 18 N
-\tr \tc1 Pamphylia 14 10 D
-\tr \tc1 Paphos 14 10 E
-\tr \tc1 Parah 4 19 N
-\tr \tc1 Paran, wilderness of 1 - E; 5 - 6 H
-\tr \tc1 Parthia 1 - 9 D; 9, 10 14 D
-\tr \tc1 Pas-dammim 4 18 N
-\tr \tc1 Patara 14 - 9 D
-\tr \tc1 Pathros 1-7 E
-\tr \tc1 Pathruslm 1 - E
-\tr \tc1 Patmos 14 - 9 D
-\tr \tc1 Peniel \tc2 see \tc3 Penuel (?)
-\tr \tc1 Peniel  2 - F; 4, 6 20 M
-\tr \tc1 Peor (?) 4 20 N
-\tr \tc1 Perga 14 10 B
-\tr \tc1 Pergamos \tc2 see \tc3  Pergamum
-\tr \tc1 Pergamos  14 - 9 D
-\tr \tc1 Perlzzites 2 - F
-\tr \tc1 Persepolia 1 - 9 E; 7, 9 14 F
-\tr \tc1 Persia 1 - 9 E; 9, 10 14 F
-\tr \tc1 Pethor 5 10 B
-\tr \tc1 Petra \tc2 see \tc3  Sela
-\tr \tc1 Petra  3. 5 - H
-\tr \tc1 Pharathoni, probably Pirathon e 19 M
-\tr \tc1 Pharpar, river (?)  ti 21 K
-\tr \tc1 Phenice \tc2 see \tc3 Phenicia
-\tr \tc1 Phenice \tc2 see \tc3  Phoenicia
-\tr \tc1 Phenice  11 U E
-\tr \tc1 Phenice \tc2 see \tc3 Phoenix (Crete) H - S D
-\tr \tc1 Pheresites, al io
-\tr \tc1 Plierezites, see Peilzzitas 2 - F
-\tr \tc1 Philadelphia 14-9 D
-\tr \tc1 Philippi 11 - 8 C
-\tr \tc1 Philistia \tc2 see \tc3 land of Philistines tj IS N
-\tr \tc1 Phllistim \tc2 see \tc3 Philisthines
-\tr \tc1 Phllistim  1 - D: 2 - 6 (i; 4, 6 18 N
-\tr \tc1 Phison \tc2 see \tc3 Pison
-\tr \tc1 Phison  1 - 8 C
-\tr \tc1 Phoenicia \tc2 see \tc3 Phoenice
-\tr \tc1 Phoenicia  14 11 E
-\tr \tc1 Phoenix \tc2 see \tc3  Phenice
-\tr \tc1 Phoenix  14 - 8 D
-\tr \tc1 Phrygia 9, 10, 14 10 D
-\tr \tc1 Phud \tc2 see \tc3 Put
-\tr \tc1 Phud  1 - 5 D
-\tr \tc1 Phut \tc2 see \tc3  Put
-\tr \tc1 Phut  1 - 5 D
-\tr \tc1 Pi-beseth 3 - 3 H
-\tr \tc1 Pi-hahiroth 3 - 4 H
-\tr \tc1 Pirathon  6 19 M
-\tr \tc1 Pisgah  4 20 N
-\tr \tc1 Pisidia 14 10 D
-\tr \tc1 Pison \tc2 see \tc3  Pishon
-\tr \tc1 Pison, river  1 - 8 C
-\tr \tc1 Pithom 3-4 H
-\tr \tc1 Plain of Arabah (Deuteronomy 2. 8) 3 - H
-\tr \tc1 Plain of Jordan \see Circle of Jordan
-\tr \tc1 Plain (or circle) of Jordan 2 - G
-\tr \tc1 Pontus 9,10,11,14 11 C
-\tr \tc1 Potter’s field \tc2 see \tc3 Akeldania
-\tr \tc1 Potter’s field  13 20 O
-\tr \tc1 Ptolemais  . 13 19 L; 14 11 E
-\tr \tc1 Pul \tc2 see \tc3 Put
-\tr \tc1 Pul  1 - 5 D
-\tr \tc1 Punon (?) 3-71
-\tr \tc1 Put 1 - 5 D
-\tr \tc1 Puteoli 14 - 6 C
-\tr \tc1 Quicksands \tc2 see \tc3  Syrtia
-\tr \tc1 Quicksands, the  14 - E
-\tr \tc1 Raamah 1-9 E
-\tr \tc1 Raamses \tc2 see \tc3 Rameses
-\tr \tc1 Raamses  3 - 8 H
-\tr \tc1 Rabbab \tc2 see \tc3 Rabbath (Amman)
-\tr \tc1 Rabbab  5 - 6; 4, 6 20 N
-\tr \tc1 Rabbah (Judah) 12 - 5 D
-\tr \tc1 Rabbith 4 19 M
-\tr \tc1 Rachel’s tomb 12 - 6 D
-\tr \tc1 Rahab \tc2 see \tc3 Egypt
-\tr \tc1 Rahab   3 - 3 H
-\tr \tc1 Rakkath 4 20 L
-\tr \tc1 Rakkon (?)  4 18 M
-\tr \tc1 Rama \tc2 see \tc3  Ramah (Benj.)
-\tr \tc1 Rama  4, 6, 13 19 X; 12 - 6 B
-\tr \tc1 Ramah (Naphtah) 4 20 L
-\tr \tc1 Ramah (Asher) 4 19 K
-\tr \tc1 Ramah  \tc2 see \tc3 Ramoth-gilead
-\tr \tc1 Ramah (Gad)  6 20 M
-\tr \tc1 Ramah  \tc2 see \tc3 Ramathaimzophim
-\tr \tc1 Ramah  \tc2 see \tc3  Ramathem
-\tr \tc1 Ramah (Samuel’s city)  12 - 6 B
-\tr \tc1 Ramah \tc2 see \tc3 Arimathea
-\tr \tc1 Ramesse \tc2 see \tc3 Rameses
-\tr \tc1 Ramesse  3 - 3 H
-\tr \tc1 Ramoth  \tc2 see \tc3 Ramoth-gilead4
-\tr \tc1 Ramoth (Gad)  20 M
-\tr \tc1 Ramoth (Issachar) 6 19 L
-\tr \tc1 Ramoth-gilead (?) 4 20 M
-\tr \tc1 Red Sea 2-5 L;6 - 6 I
-\tr \tc1 Rehob \tc2 see \tc3 Beth-rehob
-\tr \tc1 Rehob 4 20 K
-\tr \tc1 Rehob (Asher) 4,6 19 K
-\tr \tc1 Rehoboth-Ir \tc2 see \tc3 Nineveh
-\tr \tc1 Rehoboth-Ir  1 - 8 D
-\tr \tc1 Rehoboth, by the river 1 ~ 8 D
-\tr \tc1 Rehoboth (a well)  2 - 6 G
-\tr \tc1 Rekem 12 - 6 C
-\tr \tc1 Remeth  Jarmuth 4 19 L
-\tr \tc1 Remmon \tc2 see \tc3  Rimmon (Simeon)
-\tr \tc1 Remmon (Simeon) 6 18 O
-\tr \tc1 Remmon \tc2 see \tc3  Rimmon (Zebulun)
-\tr \tc1 Remmon \tc2 see \tc3  Remmon-methoar
-\tr \tc1 Remmon (Zebulun) 4 19 L
-\tr \tc1 Rephaim  \tc2 see \tc3 Zamzummlm
-\tr \tc1 Rephaim (Deut. 2. 20)  3 - 8 G
-\tr \tc1 Rephaim, vale or valley of 12 - 6 C
-\tr \tc1 Rephidim (?) 3 - 5 K
-\tr \tc1 Resen (?) 1 - 8 D; 12 D
-\tr \tc1 Reuben, allotment of 4 20 N
-\tr \tc1 Rezeph 6 10 C; 11 D
-\tr \tc1 Rhegium 14 - D
-\tr \tc1 Rhodes \tc2 see \tc3 Rhodus
-\tr \tc1 Rhodes  14 - 9 D
-\tr \tc1 Riblah in the land of Hamath . 2, 5 - 8 D; 11 E
-\tr \tc1 Rimmon (Simeon) 4, 6 18 O
-\tr \tc1 Rimmon \tc2 see \tc3 Rimmono
-\tr \tc1 Rimmon (Zebulun) 4, 6 19 L
-\tr \tc1 Rimmon, the rock (Beiyamin) . 6 19 N; 12 - A
-\tr \tc1 Riphath .   1-60
-\tr \tc1 Rithmab (?) 2 - H
-\tr \tc1 River of Egypt \tc2 see \tc3 Nile
-\tr \tc1 Brook of Egypt \tc2 see \tc3 Nile
-\tr \tc1 Stream of Egypt \tc2 see \tc3 Nile
-\tr \tc1 Flood of Egypt \tc2 see \tc3 Nile (Amos 9. 5)
-\tr \tc1 Rome ii, 14 - 6 C
-\tr \tc1 Sabeans of Arabia (Job 1. 15; Joel 3. 8) . 8
-\tr \tc1 Sabeans of Ethiopia (Is. 45. 14) .8
-\tr \tc1 Sabta \tc2 see \tc3  Sabtah
-\tr \tc1 Sabta  1
-\tr \tc1 Sabtecha \tc2 see \tc3 Sablechah
-\tr \tc1 Sabtecha \tc2 see \tc3  Sabieca
-\tr \tc1 Sabtecha  1
-\tr \tc1 Salamis 14
-\tr \tc1 Salem \tc2 see \tc3 Jerusalem
-\tr \tc1 Salem  12
-\tr \tc1 Sahra 13
-\tr \tc1 Salmone, cape 14
-\tr \tc1 Salt Sea 2, 3 - G; 4
-\tr \tc1 Salt, valley of d
-\tr \tc1 Samaria 6, 13 19 M; 7, 14
-\tr \tc1 Samaria, district of 13
-\tr \tc1 Samoa 14
-\tr \tc1 Samothracia \tc2 see \tc3  Samothrate
-\tr \tc1 Samothracia  14
-\tr \tc1 Sansannah \tc2 see \tc3 Hazar-susim
-\tr \tc1 Sansannah  6
-\tr \tc1 Saphir \tc2 see \tc3  Shaphir
-\tr \tc1 Saphir  6
-\tr \tc1 Sardis 14
-\tr \tc1 Sarepta \tc2 see \tc3  Zarephath
-\tr \tc1 Sarepta  6
-\tr \tc1 Sarid 4
-\tr \tc1 Saron \tc2 see \tc3  Sharon
-\tr \tc1 Saron  13
-\tr \tc1 Scythia 9,11
-\tr \tc1 Scythopolis 13
-\tr \tc1 Sea of the Arabah \tc2 see \tc3 the Salt Sea
-\tr \tc1 Sea of the Arabah  4
-\tr \tc1 Sea of Chinnereth 4
-\tr \tc1 Sea of Galilee \tc2 see \tc3  Sea of Tiberias
-\tr \tc1 Sea of Galilee  13
-\tr \tc1 Sea \tc2 see \tc3 the Eastern Sea
-\tr \tc1 Sea \tc2 see \tc3 the Sodomitish Sea
-\tr \tc1 Sea \tc2 see \tc3 . Sea of the Plain
-\tr \tc1 Sea, the East  6 19 O
-\tr \tc1 Sea \tc2 see \tc3  the Western Sea
-\tr \tc1 Sea \tc2 see \tc3 the uttermost sea
-\tr \tc1 Sea \tc2 see \tc3 the hinder sea
-\tr \tc1 Sea, the Great  10 E; 3 - G; 14
-\tr \tc1 Sea  \tc2 see \tc3 R Nile
-\tr \tc1 Sea (Nab. 3. 8)  1
-\tr \tc1 Sea of the Philistines 3
-\tr \tc1 Seba 1-7 F;8
-\tr \tc1 Secacah 12
-\tr \tc1 Sechu \tc2 see \tc3  Secu
-\tr \tc1 Sechu  12
-\tr \tc1 Seir \tc2 see \tc3 Edom
-\tr \tc1 Seir, Mount  3
-\tr \tc1 Sela \tc2 see \tc3 Selah
-\tr \tc1 Sela \tc2 see \tc3  Petra
-\tr \tc1 Sela  3, 5 - H; 7
-\tr \tc1 Sela-hammahlekoth (1 Sam. 23. 28) .  6
-\tr \tc1 Seleucia 10, 14
-\tr \tc1 Seneh (1 Sam. 14. 4) 12
-\tr \tc1 Seuir \tc2 see \tc3 Mount Hermon
-\tr \tc1 Seuir  6
-\tr \tc1 Sephar, Mount 1
-\tr \tc1 Sepharvaim 7
-\tr \tc1 Sephela 13
-\tr \tc1 Seveneh \tc2 see \tc3  Syene
-\tr \tc1 Seveneh  9
-\tr \tc1 Shaalabbin 4 18 N; 12
-\tr \tc1 Shaalbim 6
-\tr \tc1 Shaaraim (Judah) 4 19 N; 12
-\tr \tc1 Shaaraim (Simeon) 6
-\tr \tc1 Shahazimah \tc2 see \tc3  Shahazumah
-\tr \tc1 Shahazimah  4
-\tr \tc1 Shalem (?) 4
-\tr \tc1 Shamir (Ephraim) 6
-\tr \tc1 Shamir (Judah) 4
-\tr \tc1 Sharaim \tc2 see \tc3  Shaaraim '
-\tr \tc1 Sharon, the plain (N. of Joppa)
-\tr \tc1 Sharuhen
-\tr \tc1 Sheba (Gen. 10. 28) 1 - 8 F;
-\tr \tc1 Sheba (Gen. 25. 3)
-\tr \tc1 Sheba \tc2 see \tc3  Beer-sheba
-\tr \tc1 Shebah \tc2 see \tc3  Shibah
-\tr \tc1 Shebah \tc2 see \tc3 Beer-sheba
-\tr \tc1 Shechem 2, 5 - F; 4
-\tr \tc1 Shelah \tc2 see \tc3 Pool of Siloam
-\tr \tc1 Sheleph
-\tr \tc1 Shen
-\tr \tc1 Shenir \tc2 see \tc3  Senir
-\tr \tc1 Shenir \tc2 see \tc3 Mount Hermon
-\tr \tc1 Shihor \tc2 see \tc3  Sihor (Is
-\tr \tc1 Shihor  23. 3; Jer. 2. 18)
-\tr \tc1 Shihor \tc2 see \tc3 Nile
-\tr \tc1 Shihor  \tc2 see \tc3 the brook of Egypt i
-\tr \tc1 Shihor-hbnath (river)
-\tr \tc1 Shilhim \tc2 see \tc3 Sharuhen
-\tr \tc1 Shiloah \tc2 see \tc3 Pool of Siloam . li
-\tr \tc1 Shiloh 2 - F; 4,t
-\tr \tc1 Shimi-on
-\tr \tc1 Shinar, the land of 1 - 8 D
-\tr \tc1 Shittim \tc2 see \tc3 Abel-Shittim
-\tr \tc1 Shocho \tc2 see \tc3 Shochoh
-\tr \tc1 Shocho \tc2 see \tc3 Shoco
-\tr \tc1 Shocho \tc2 see \tc3 Soco
-\tr \tc1 Shunem
-\tr \tc1 Shur, the wilderness of (Exodus. 15:22)
-\tr \tc1 Shushan
-\tr \tc1 Sichem \tc2 see \tc3  Shechem
-\tr \tc1 Sichem  2, 5
-\tr \tc1 Sidon \tc2 see \tc3  Zidon  g ia i:
-\tr \tc1 Sidon  14
-\tr \tc1 Sidonians, of Zidonians 6 19 K
-\tr \tc1 Sihor \tc2 see \tc3  Sbihor (Josh
-\tr \tc1 Sihor  13. 3)
-\tr \tc1 Sihor \tc2 see \tc3 the brook of Egypt
-\tr \tc1 Sihor  6 - 6 H
-\tr \tc1 Sihor \tc2 see \tc3  Shihor (Is
-\tr \tc1 Sihor  23. 3; Jer, 2, 18)
-\tr \tc1 Sihor \tc2 see \tc3 the Nile
-\tr \tc1 Sihor  3 - 2 K
-\tr \tc1 Siloah \tc2 see \tc3  Siloam, pool of
-\tr \tc1 Siloah  13 20 O
-\tr \tc1 Simeon, allotment of 4 IS O
-\tr \tc1 Sin (in Egypt) 3 - 4 G
-\tr \tc1 Sin, wilderness of 3 - 6 K
-\tr \tc1 Sina \tc2 see \tc3  Sinai, Mount
-\tr \tc1 Sina  3 - 5 K
-\tr \tc1 Sinites 2-7 D
-\tr \tc1 Sion \tc2 see \tc3 Zion
-\tr \tc1 Sion  13 20 O
-\tr \tc1 Sion \tc2 see \tc3  Zion, Mount
-\tr \tc1 Sion \tc2 see \tc3 Mount Moriah
-\tr \tc1 Sion  13 20 O
-\tr \tc1 Sion \tc2 see \tc3 Mount Hermon
-\tr \tc1 Sion, Mount (Deut. 4. 48)  6 20 K
-\tr \tc1 Sion \tc2 see \tc3 Canaan
-\tr \tc1 Sion, the land of (2 Esdr. 14. 31)  4
-\tr \tc1 Sirah, the well of 6 19 N; 12 - 5 F
-\tr \tc1 Sirion \tc2 see \tc3 Mount Hermon
-\tr \tc1 Sirion  6 20 K
-\tr \tc1 Smyrna 14 - 9 D
-\tr \tc1 Socho \tc2 see \tc3 Sochoh
-\tr \tc1 Socho \tc2 see \tc3  Socoh
-\tr \tc1 Socho  4 18 N
-\tr \tc1 Socoh \tc2 see \tc3  Soco
-\tr \tc1 Socoh (in the lowland of Judah)  4 18 N
-\tr \tc1 Socoh (hill country of Judah)  . .4-19
-\tr \tc1 Sodomitish Sea \tc2 see \tc3 the Salt Sea
-\tr \tc1 Sodomitish Sea  6 19 O
-\tr \tc1 Solomon’s pools 12 - 5 D
-\tr \tc1 Sorek, valley of 6 18 N
-\tr \tc1 Spain 11 - 3 D
-\tr \tc1 Sparta 14 - 8 D
-\tr \tc1 Stream or brook of Egypt 5 - 5 H
-\tr \tc1 Succoth (Egypt) 3 - 4 H
-\tr \tc1 Succoth \tc2 see \tc3 Sakut
-\tr \tc1 Succoth (Gad) (1 Kings 8:46) 4, 6 20 M
-\tr \tc1 Susa 13 E
-\tr \tc1 Sycbar 13 19 M
-\tr \tc1 Sychem \tc2 see \tc3  Shechem
-\tr \tc1 Sychem  13 19 M
-\tr \tc1 Syene \tc2 see \tc3  Seveneh
-\tr \tc1 Syene  1 - E
-\tr \tc1 Syracuse 11, 14 - D
-\tr \tc1 Syria \tc2 see \tc3  Aram
-\tr \tc1 Syria  6 - 9 D; 6 21 K; 7, 8, 9, 10, 11, 14 11 E
-\tr \tc1 Syria \tc2 see \tc3 Aram
-\tr \tc1 Syria, kingdom of 10 11 E
-\tr \tc1 Syrtis \tc2 see \tc3 the quicksands
-\tr \tc1 Syrtis  14 - E
-\tr \tc1 Taanach 4, 6-i9 L;5-7 F
-\tr \tc1 Taanach \tc2 see \tc4 Aner
-\tr \tc1 Taanath-shiloh 4 19 M
-\tr \tc1 Tabor, Mount 4,6, 13-19 L
-\tr \tc1 Tabor \tc2 see \tc3 Chisloth-tabor
-\tr \tc1 Tabor  4 19 L
-\tr \tc1 Tabor \tc2 see \tc3 Aznoth-tabor
-\tr \tc1 Tadmor (2 Chr. 8. 4) 6 10 D; 11 E
-\tr \tc1 Tadmor  \tc2 see \tc3 Tamar
-\tr \tc1 Tadmor (l Kin. 9. 18)  6 19 O
-\tr \tc1 Tahapanes \tc2 see \tc3 Tahpanhes
-\tr \tc1 Tahapanes  3 - 4 H
-\tr \tc1 Tamar (?) 6 19 O
-\tr \tc1 Tanach \tc2 see \tc3  Taanach
-\tr \tc1 Tanach  4 19 L
-\tr \tc1 Tanis 3-3 G
-\tr \tc1 Taphnes \tc2 see \tc3 Tahpanhes
-\tr \tc1 Taphnes  3 - 4 H
-\tr \tc1 Taphon \tc2 see \tc3 Beth-tappuah
-\tr \tc1 Taphon  4 19 N; 12 - 4 F
-\tr \tc1 Tappuah  \tc2 see \tc3 possibly Tiphsah
-\tr \tc1 Tappuah (Manasseh)  4 19 M
-\tr \tc1 Tarshish (?) 1 - D; 8 10 D
-\tr \tc1 Tarsus 14 10 D
-\tr \tc1 Taverns, The Three 14 - 6 C
-\tr \tc1 Tehaphnehes \tc2 see \tc3 Tahpanhes
-\tr \tc1 Tehaphnehes  3 - 4 H
-\tr \tc1 Tekoah \tc2 see \tc3 Tekoa
-\tr \tc1 Tekoah  5 - G; 6 19 N; 12 - 6 E
-\tr \tc1 Tema \tc2 see \tc3 Teman
-\tr \tc1 Tema  8 11 E
-\tr \tc1 Temple at Jerusalem 13 20 O
-\tr \tc1 Thamnatha \tc2 see \tc3 Timnath
-\tr \tc1 Thamnatha  6 18 N
-\tr \tc1 Tharshish \tc2 see \tc3  Tarshish
-\tr \tc1 Tharshish  1 - D; 8 10 D
-\tr \tc1 Thebez 6 19 M
-\tr \tc1 Thecoe \tc2 see \tc3 Tekoa
-\tr \tc1 Thecoe  12 - 6 E
-\tr \tc1 Theman \tc2 see \tc3 Teman
-\tr \tc1 Theman  8 11 E
-\tr \tc1 Theras \tc2 see \tc3 Ava
-\tr \tc1 Theras  12 E
-\tr \tc1 Thcssalonica 14 - 8 C
-\tr \tc1 Thimnathah \tc2 see \tc3  Timnah
-\tr \tc1 Thimnathah \tc2 see \tc3 Timnath
-\tr \tc1 Thimnathah  4 18 N
-\tr \tc1 Thisbe (?) 6 19 K
-\tr \tc1 Thracia 11, 14 - 9 C
-\tr \tc1 Three Taverns 14 - 6 C
-\tr \tc1 Thyatira 14 - 9 D
-\tr \tc1 Tiberias 13 20 L
-\tr \tc1 Tiberias \tc2 see \tc3 Sea of Galilee
-\tr \tc1 Tiberias, Sea of  13 20 L
-\tr \tc1 Tigris, river 1 - 8 D; 7, 8, 9 12 D
-\tr \tc1 Timnah 2-6 G
-\tr \tc1 Tinmath \tc2 see \tc3  Timnah
-\tr \tc1 Tinmath  2 - 6 G; 4 18 N
-\tr \tc1 Timnath-hercs 6 19 M
-\tr \tc1 Timnath-serah 4 19 ii
-\tr \tc1 Tiphsah (1 Kin. 4. 24) 6 10 C; 11 D
-\tr \tc1 Tiphsah (2 Kin. 15. 16) 6 19 M
-\tr \tc1 Tiras 1-6 C
-\tr \tc1 Tirzah 4, 6 19 Al
-\tr \tc1 Tob (?) 6 20 L
-\tr \tc1 Togarmah  \tc2 see \tc3 Armenia)
-\tr \tc1 Togarmah (  1 - 8 D
-\tr \tc1 Tophel (?) 3 - H
-\tr \tc1 Trachonitis 14 n i,j
-\tr \tc1 Tripolis V, 14 11 K
-\tr \tc1 Troas 14 - 9 D
-\tr \tc1 Trogyllium 14 - 9 D
-\tr \tc1 Tubal 1 - C
-\tr \tc1 Tyi-us \tc2 see \tc3 Tyre
-\tr \tc1 Tyi-us  4, 6, 13 19 K; a - E; 7, 10, 11, 14 11 K
-\tr \tc1 Ulai, river 13 E
-\tr \tc1 Ummah 4 19 K
-\tr \tc1 Uphaz, possibly Ophir I - 8 F
-\tr \tc1 Ur of the Chaldees 1- 8 D; 13 E
-\tr \tc1 Uz 1 - D
-\tr \tc1 Uzal 1-8 P
-\tr \tc1 Uzzen-sherah \tc2 see \tc3  Uzzen-.sheerah
-\tr \tc1 Uzzen-sherah  12 - 4 B
-\tr \tc1 Water of Jericho \tc2 see \tc3 Docu8
-\tr \tc1 Water of Jericho  4 19 N
-\tr \tc1 Waters of Merom 4 20 K
-\tr \tc1 Wilderness of Paran 5-61
-\tr \tc1 Wilderness of Judah 6 19 O
-\tr \tc1 Wilderness of Judaea 13 19 N
-\tr \tc1 Wilderness of Shur 3 - 5 H
-\tr \tc1 Wilderness of Sin 3 - 5 K
-\tr \tc1 Wilderness of Zin 3 - H
-\tr \tc1 Yeor \tc2 see \tc3 Nile
-\tr \tc1 Yeor  1 - E
-\tr \tc1 Zabulon \tc2 see \tc3 Zebuluu
-\tr \tc1 Zabulon  13 19 L
-\tr \tc1 Zalmon, Mt 6 19 M
-\tr \tc1 Zalmonah (?) 8 - J
-\tr \tc1 Zamzummims \tc2 see \tc3  Zamzummim
-\tr \tc1 Zamzummims  3 - 8 G
-\tr \tc1 Zanoah (lowland of Judah) 4 18 N; 12 - 3 D
-\tr \tc1 Zanoah (Josh. 15. 5G) 4 18 O
-\tr \tc1 Zaphon (?) 4 20 L
-\tr \tc1 Zareah \tc2 see \tc3  Zorah
-\tr \tc1 Zareah  6 18 N; 12 - 8 G
-\tr \tc1 Zared \tc2 see \tc3  Zered, the valley of
-\tr \tc1 Zared  3 - Q
-\tr \tc1 Zarephath 6 19 K
-\tr \tc1 Zaretan \tc2 see \tc3  Zarethan
-\tr \tc1 Zaretan  4 19 M
-\tr \tc1 Zareth-shahar \tc2 see \tc3 Zereth-shahar
-\tr \tc1 Zareth-shahar  4 20 li
-\tr \tc1 Zartanah \tc2 see \tc3  Zarethan
-\tr \tc1 Zartanah \tc2 see \tc3 Zarthan
-\tr \tc1 Zartanah  6 19 M
-\tr \tc1 Zarthan \tc2 see \tc3  Zarethan
-\tr \tc1 Zarthan  6 19 M
-\tr \tc1 Zebulun, allotment of 4 19 1
-\tr \tc1 Zedad, the entering in of (Ezek. 47. 15), possibly the same pass as the entering in of Hamath (Ezek. 48. 1) 5-81
-\tr \tc1 Zelzah (?) 12 - 6 1
-\tr \tc1 Zemaraim 4 19 N
-\tr \tc1 Zemarites 2 - 8 D
-\tr \tc1 Zer 4 20 L
-\tr \tc1 Zephath (?) 6 19 P
-\tr \tc1 Zered, brook 3 - G
-\tr \tc1 Zereda or Zeredah (1 Kin. 11. 26) 12 - 6 A
-\tr \tc1 Zeredah \tc2 see \tc3  Zeredathah
-\tr \tc1 Zeredah \tc2 see \tc3 Zarthan
-\tr \tc1 Zeredah  6 - 19 M
-\tr \tc1 Zererath \tc2 see \tc3  Zererah
-\tr \tc1 Zererath  6 20 M
-\tr \tc1 Zereth-shahar \tc2 see \tc3  Zareth-shahar
-\tr \tc1 Zereth-shahar  4 20 N
-\tr \tc1 Zidon 2, 5 - E; 6 19 I; 11 E
-\tr \tc1 Zidonians \tc2 see \tc3 Sidonians
-\tr \tc1 Zidonians  6 19 K
-\tr \tc1 Ziklag, on the border of Philistia (Neh. 11. 28) 4, 6 18 O
-\tr \tc1 Zin \tc2 see \tc3  Wilderness of Zin
-\tr \tc1 Zin, desert  3 - H
-\tr \tc1 Zion, city of David, distinguished from Mount Moriah (1 Kin. 8. ]) 13 20 O
-\tr \tc1 Zion \tc2 see \tc3 the Mount Zion (Is. 18. 7)
-\tr \tc1 Zion \tc2 see \tc3 Mount Moriah
-\tr \tc1 Zion  \tc2 see \tc3 Jerusalem
-\tr \tc1 Zion, Mount (Isaiah 2:3) (Isaiah 62:1) (Jer. 31. 12)  13 20 O
-\tr \tc1 Zion (Psalm 78:68) (Judah) 4 19 N
-\tr \tc1 Zion \tc2 see \tc3 Mount Hermon
-\tr \tc1 Zion \tc2 see \tc3  Mount Sion
-\tr \tc1 Zion, the mountains of (Psalm 133:3)(Deut. 4. 48)  6 20 K
-\tr \tc1 Zion \tc2 see \tc3 Ariel
-\tr \tc1 Ziph (hill country of Judah) 4, 6 19 O
-\tr \tc1 Ziz \tc2 see \tc3  ascent of Ziz
-\tr \tc1 Ziz, the cliff  6 19 O
-\tr \tc1 Zoan 3-8 G
-\tr \tc1 Zoar (?) 2 - G; 4 20 N
-\tr \tc1 Zoba \tc2 see \tc3  Zobah
-\tr \tc1 Zoba  6 - 8 D
-\tr \tc1 Zoheleth, stone of 13 20 O
-\tr \tc1 Zorah \tc2 see \tc3  Zoreah
-\tr \tc1 Zorah  4, 6 18 N  12 - 3 O
-\tr \tc1 Zuzims \tc2 see \tc3  Zuzim 
-\tr \tc1 Zuzims  8 C
+\ms5 Index of Biblical Names
+\pc with figures and letters indicating the situation of the places on the maps
+\m Note. — Figures preceding a hyphen denote the numbers of the Maps; ([3-7-G] [4-19-O] [6-19-O]) appear on map no. 3 in the space 1 G, and on maps nos. 4 and 6 in the space 19 O
+\p The names of places at present unidentified, also classical and modern names, are omitted from the Index
+\tr \th1 Name \th2 \it Type\it* \th3 (Reference) \th4 [Map-Box-Coords] \th5 Coords
+\tr \tc1 Abana \tc2 \it river\it* \tc3 \tc4 [6-21-I]
+\tr \tc1 Abanah \tc2 \it see\it* \tc3 (Abana)
+\tr \tc1 Abarim \tc2 \it mountains\it* \tc3 \tc4 [4-20-N]
+\tr \tc1 Abdon \tc2 \it see\it* \tc3 (Hebron)
+\tr \tc1 Abdon \tc2 \tc3 \tc4 [4-19-K] [6-19-K]
+\tr \tc1 Abel \tc2 \it see\it* \tc3 (Abel-beth-maachah)
+\tr \tc1 Abel of Beth maacah \tc2 \it see\it* \tc3 (Abel-beth-maachah)
+\tr \tc1 Abel-Shittim \tc2 \it see\it* \tc3 (Shittim)
+\tr \tc1 Abel-beth-maacah \tc2 \it see\it* \tc3 (Abel-beth-maachah)
+\tr \tc1 Abel-beth-maachah \tc2 \tc3 \tc4 [4-20-K] [6-20-K]
+\tr \tc1 Abel-maim \tc2 \it see\it* \tc3 (Abel-beth-maachah)
+\tr \tc1 Abel-meholah \tc2 \tc3 \tc4 [4-20-M] [6-20-M]
+\tr \tc1 Abel-shittim \tc2 \tc3 \tc4 [3-7-G] [4-20-N]
+\tr \tc1 Abez \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Abilene \tc2 \tc3 \tc4 [14-11-E]
+\tr \tc1 Abimael \tc2 \tc3 \tc4 [1-9-F]
+\tr \tc1 Accad \tc2 \tc3 \tc4 [1-8-D] [7-12-E]
+\tr \tc1 Accaron \tc2 \tc3 \tc4 [13-18-N]
+\tr \tc1 Accho \tc2 \tc3 \tc4 [4-19-I] [6-19-I]
+\tr \tc1 Acco \tc2 \it see\it* \tc3 (Accho)
+\tr \tc1 Aceldama \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Achaia \tc2 \tc3 \tc4 [11-8-D] [14-8-D]
+\tr \tc1 Achmetha \tc2 \tc3 \tc4 [7-13-E] [9-13-E]
+\tr \tc1 Achor \tc2 \it valley\it* \tc3 \tc4 [4-19-N] [6-19-N]
+\tr \tc1 Achshaph \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Achzib \tc2 \it see\it* \tc3 (Chezib)
+\tr \tc1 Achzib \tc2 \tc3 (Asher) \tc4 [4-19-K] [6-19-K]
+\tr \tc1 Achzib \tc2 \tc3 (Judah) \tc4 [4-18-N] [12-3-D]
+\tr \tc1 Adadah \tc2 \tc3 \tc4 [4-19-O]
+\tr \tc1 Adamah \tc2 \tc3 \tc4 [4-20-L]
+\tr \tc1 Adami-nekeb \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Adasa \tc2 \it see\it* \tc3 (Hadashah)
+\tr \tc1 Adasa \tc2 \tc3 \tc4 [12-6-B]
+\tr \tc1 Adida \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Adithaim \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Adora \tc2 \tc3 \tc4 [4-19-N] [6-19-N] [12-4-F]
+\tr \tc1 Adoraim \tc2 \it see\it* \tc3 (Adora)
+\tr \tc1 Adramyttium \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Adria \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Adullam \tc2 \it see\it* \tc3 (Odollam)
+\tr \tc1 Adullam \tc2 \tc3 \tc4 [2-6-G] [4-18-N] [6-18-N] [12-3-E]
+\tr \tc1 Adummim \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Aenon \tc2 \tc3 \tc4 [13-19-M]
+\tr \tc1 Ahava \tc2 \tc3 \tc4 [7-12-E]
+\tr \tc1 Ahdon \tc2 \it see\it* \tc3 (Ebron)
+\tr \tc1 Ahlab \tc2 \tc3 (?) \tc4 [6-19-K]
+\tr \tc1 Ai \tc2 \it see\it* \tc3 (Hal)
+\tr \tc1 Ai \tc2 \tc3 (Benjamin) \tc4 [2-7-G] [4-19-N] [12-4-B]
+\tr \tc1 Aija \tc2 \it see\it* \tc3 (Ai)
+\tr \tc1 Aijalon \tc2 \it valley\it* \tc3 \tc4 [12-4-B]
+\tr \tc1 Aijalon \tc2 \tc3 (Dan) \tc4 [4-19-N] [6-19-N] [12-4-B]
+\tr \tc1 Aijalon \tc2 \tc3 (Zebulun) \tc4 [6-19-L]
+\tr \tc1 Ain \tc2 \tc3 (Numbers 34:11) \tc4 [6-7-E]
+\tr \tc1 Ajalon \tc2 \it see\it* \tc3 (Aijalon)
+\tr \tc1 Akeldama \tc2 \it see\it* \tc3 (Aceldama)
+\tr \tc1 Akeldama \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Akeldania \tc2 \it see\it* \tc3 (Potter’s field)
+\tr \tc1 Akrabbim \tc2 \it ascent\it* \tc3 \tc4 [6-19-P]
+\tr \tc1 Akrabbim \tc2 \it see\it* \tc3 (Maaleh-acrabbim)
+\tr \tc1 Alammelech \tc2 \tc3 (?) \tc4 [4-19-L]
+\tr \tc1 Alath \tc2 \it see\it* \tc3 (Ai)
+\tr \tc1 Alema \tc2 \tc3 \tc4 [4-20-L] [6-20-L]
+\tr \tc1 Alemeth \tc2 \tc3 \tc4 [12-7-C]
+\tr \tc1 Alexandria \tc2 \tc3 \tc4 [10-9-E] [14-9-E]
+\tr \tc1 Allemeth \tc2 \it see\it* \tc3 (Alemeth)
+\tr \tc1 Allon-bachuth \tc2 \it see\it* \tc3 (Ataroth)
+\tr \tc1 Allon-bachuth \tc2 \tc3 \tc4 [12-6-B]
+\tr \tc1 Allon-bacuth \tc2 \it see\it* \tc3 (Allon-bachuth)
+\tr \tc1 Almodad \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Almon \tc2 \tc3 \tc4 [4-19-N] [12-7-C]
+\tr \tc1 Almon-diblathaim \tc2 \it see\it* \tc3 (Beth-diblathaim)
+\tr \tc1 Almon-diblathaim \tc2 \it see\it* \tc3 (Diblathaim)
+\tr \tc1 Almon-diblathaim \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Altar repaired by Elijah \tc2 altar \tc3 (1 Kings 18:30) \tc4 [4-19-L]
+\tr \tc1 Alush \tc2 \tc3 \tc4 [3-5-K]
+\tr \tc1 Amad \tc2 \tc3 \tc4 [4-19-K]
+\tr \tc1 Amalekites \tc2 \tc3 \tc4 [2-7-G] [3-5-K]
+\tr \tc1 Amathis \tc2 \it see\it* \tc3 (Hamath)
+\tr \tc1 Amathis \tc2 \tc3 \tc4 [5-8-C]
+\tr \tc1 Ammon \tc2 \tc3 \tc4 [2-8-G] [5-8-G] [6-21-N]
+\tr \tc1 Amon of No \tc2 \it see\it* \tc3 (No)
+\tr \tc1 Amon of No \tc2 \tc3 \tc4 [1-7-E]
+\tr \tc1 Amorites \tc2 \tc3 \tc4 [2-7-G] [6-20-N]
+\tr \tc1 Amphipolls \tc2 \tc3 \tc4 [14-8-C]
+\tr \tc1 Anab \tc2 \tc3 \tc4 [4-18-O]
+\tr \tc1 Anaharath \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Anamim \tc2 \tc3 \tc4 [1-6-D]
+\tr \tc1 Ananiah \tc2 \tc3 \tc4 [12-6-C]
+\tr \tc1 Anathoth \tc2 \tc3 \tc4 [4-19-N] [6-19-N] [12-7-C]
+\tr \tc1 Anem \tc2 \it see\it* \tc3 (En-gannim)
+\tr \tc1 Anem \tc2 \tc3 \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Aner \tc2 \it see\it* \tc3 (Taanach)
+\tr \tc1 Aner \tc2 \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Anim \tc2 \tc3 \tc4 [4-19-O]
+\tr \tc1 Anti-Libanus \tc2 \it see\it* \tc3 (Lebanon)
+\tr \tc1 Anti-Libanus \tc2 \tc3 \tc4 [6-20-I]
+\tr \tc1 Antioch \tc2 \tc3 (Pisidia) \tc4 [14-10-D]
+\tr \tc1 Antioch \tc2 \tc3 (Syria) \tc4 [7-11-D] [10-11-D] [14-11-D]
+\tr \tc1 Antiochia \tc2 \it see\it* \tc3 (Antioch)
+\tr \tc1 Antipatris \tc2 \tc3 \tc4 [13-18-M] [14-10-E]
+\tr \tc1 Aphek \tc2 \tc3 (1 Samuel 4:1) \tc4 [12-5-G]
+\tr \tc1 Aphek \tc2 \tc3 (1 Samuel 29:1) \tc4 [4-19-L]
+\tr \tc1 Aphek \tc2 \tc3 (E. of Sea of Cliinnereth) \tc4 [4-20-L] [6-20-L]
+\tr \tc1 Apollonia \tc2 \tc3 \tc4 [14-8-C]
+\tr \tc1 Appii Forum \tc2 \tc3 \tc4 [14-6-C]
+\tr \tc1 Ar \tc2 \tc3 (Moab) \tc4 [3-7-G]
+\tr \tc1 Arab \tc2 \it see\it* \tc3 (Arbites)
+\tr \tc1 Arab \tc2 \tc3 \tc4 [4-19-O] [6-19-O]
+\tr \tc1 Arabah \tc2 \it sea\it* \tc3 \tc4 [4-19-O]
+\tr \tc1 Arabah \tc2 \it see\it* \tc3 (Champaign)
+\tr \tc1 Arabah \tc2 valley \tc3 (N. and S. of the Salt Sea) \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Arabia \tc2 \tc3 \tc4 [9-11-F] [10-11-F] [11-11-F] [14-10-F]
+\tr \tc1 Arad \tc2 \tc3 \tc4 [3-7-G] [4-19-O] [6-19-O]
+\tr \tc1 Aradus \tc2 \tc3 \tc4 [7-11-E] [14-11-E]
+\tr \tc1 Aram \tc2 \it see\it* \tc3 (Syria)
+\tr \tc1 Aram \tc2 \tc3 \tc4 [1-7-D] [5-8-E] [6-21-K] [7-11-E]
+\tr \tc1 Aram-naharaim \tc2 \it see\it* \tc3 (Mesopotamia)
+\tr \tc1 Aram-naharaim \tc2 \tc3 \tc4 [5-10-B] [7-12-D]
+\tr \tc1 Ararat \tc2 \it mountain\it* \tc3 \tc4 [1-8-D] [7-12-D]
+\tr \tc1 Ararat \tc2 \it region\it* \tc3 \tc4 [7-12-D]
+\tr \tc1 Ararat \tc2 \it see\it* \tc3 (Armenia)
+\tr \tc1 Ararath \tc2 \it see\it* \tc3 (Ararat)
+\tr \tc1 Arba \tc2 \it see\it* \tc3 (Hebron)
+\tr \tc1 Arba \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Arbah \tc2 \it see\it* \tc3 (Arba)
+\tr \tc1 Arbela \tc2 \it see\it* \tc3 (Beth-arbel)
+\tr \tc1 Arbela \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Arbites \tc2 region \tc3 (Arab) \tc4 [6-19-O]
+\tr \tc1 Archevites \tc2 \it see\it* \tc3 (Erech)
+\tr \tc1 Archevites \tc2 region \tc3 (Erech) \tc4 [7-13-E]
+\tr \tc1 Argob \tc2 \tc3 \tc4 [5-8-E] [6-21-L]
+\tr \tc1 Ariel \tc2 \it mountain\it* \tc3 \tc4 [13-20-O]
+\tr \tc1 Arimathea \tc2 \it see\it* \tc3 (Ramah)
+\tr \tc1 Arimathea \tc2 \tc3 (?) \tc4 [12-6-B]
+\tr \tc1 Arimathea \tc2 \tc3 \tc4 [13-19-N]
+\tr \tc1 Arkites \tc2 \tc3 \tc4 [2-8-D]
+\tr \tc1 Armageddon \tc2 \it see\it* \tc3 (Har-Magedon)
+\tr \tc1 Armageddon \tc2 \tc3 \tc4 [13-19-L]
+\tr \tc1 Armenia \tc2 \it see\it* \tc3 (Ararat)
+\tr \tc1 Armenia \tc2 \it see\it* \tc3 (Togarmah)
+\tr \tc1 Armenia \tc2 \tc3 \tc4 [7-12-D] [8-12-D] [9-12-D] [10-12-D] [11-12-D]
+\tr \tc1 Arnon \tc2 \it river\it* \tc3 \tc4 [4-20-O] [6-20-O]
+\tr \tc1 Arnon \tc2 \it valley\it* \tc3 \tc4 [4-20-O] [6-20-O]
+\tr \tc1 Aroer \tc2 \tc3 (1 Samuel 30:28) \tc4 [6-18-O]
+\tr \tc1 Aroer \tc2 \tc3 (Gad) \tc4 [6-20-N]
+\tr \tc1 Aroer \tc2 \tc3 (Reuben) \tc4 [3-7-G] [6-20-O]
+\tr \tc1 Arpachshad \tc2 \tc3 (?) \tc4 [1-8-D]
+\tr \tc1 Arpad \tc2 \tc3 \tc4 [5-9-B]
+\tr \tc1 Arphaxad \tc2 \it see\it* \tc3 (Arpachshad)
+\tr \tc1 Arumah \tc2 \tc3 \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Arvad \tc2 \tc3 \tc4 [5-7-D] [7-11-E]
+\tr \tc1 Ascalon \tc2 \tc3 \tc4 [13-18-N]
+\tr \tc1 Ascent of Ziz \tc2 \it see\it* \tc3 (Ziz)
+\tr \tc1 Aser \tc2 \it see\it* \tc3 (Asher)
+\tr \tc1 Aser \tc2 \it see\it* \tc3 (Hazor)
+\tr \tc1 Aser \tc2 \tc3 (Naphtali) \tc4 [4-19-K] [6-19-K]
+\tr \tc1 Ashan \tc2 \it see\it* \tc3 (Chor-ashan)
+\tr \tc1 Ashan \tc2 \tc3 \tc4 [6-18-O]
+\tr \tc1 Ashchenaz \tc2 \tc3 \tc4 [1-7-C]
+\tr \tc1 Ashdod \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Ashdodites \tc2 \it see\it* \tc3 (Ashdod)
+\tr \tc1 Ashdoth-pisgah \tc2 \it slopes\it* \tc3 \tc4 [4-20-N]
+\tr \tc1 Ashdothites \tc2 \it see\it* \tc3 (Ashdod)
+\tr \tc1 Asher \tc2 \it allotment\it* \tc3 \tc4 [4-19-K]
+\tr \tc1 Asher \tc2 \it see\it* \tc3 (Aser)
+\tr \tc1 Ashkelon \tc2 \tc3 \tc4 [5-6-G]
+\tr \tc1 Ashkenaz \tc2 \it see\it* \tc3 (Ashchenaz)
+\tr \tc1 Ashkenaz \tc2 \tc3 \tc4 [1-7-C]
+\tr \tc1 Ashnah \tc2 \tc3 \tc4 [12-4-D]
+\tr \tc1 Ashtaroth \tc2 \it see\it* \tc3 (Astaroth)
+\tr \tc1 Ashtaroth \tc2 \tc3 \tc4 [6-21-L]
+\tr \tc1 Ashteroth Karnalin \tc2 \it see\it* \tc3 (Carnaim)
+\tr \tc1 Ashteroth-karnaim \tc2 \tc3 \tc4 [2-8-F]
+\tr \tc1 Ashtoroth \tc2 \it see\it* \tc3 (Beesh-terah)
+\tr \tc1 Asia \tc2 \it region\it* \tc3 \tc4 [11-9-D] [14-9-D]
+\tr \tc1 Askelon \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Asshur \tc2 \tc3 \tc4 [1-8-D] [8-12-D]
+\tr \tc1 Assos \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Assur \tc2 \tc3 \tc4 [7-12-D]
+\tr \tc1 Assyria \tc2 \it see\it* \tc3 (Asshur)
+\tr \tc1 Assyria \tc2 \it see\it* \tc3 (Assur)
+\tr \tc1 Assyria \tc2 \tc3 \tc4 [1-8-D] [7-12-D] [8-12-D]
+\tr \tc1 Assyrian Empire \tc2 \tc3 \tc4 [8-12-D]
+\tr \tc1 Astaroth \tc2 \tc3 \tc4 [6-21-L]
+\tr \tc1 Ataroth \tc2 \tc3 (?) \tc4 [12-6-B]
+\tr \tc1 Ataroth \tc2 \tc3 (Reuben) \tc4 [4-20-N]
+\tr \tc1 Ataroth-adar \tc2 \tc3 \tc4 [4-19-N] [12-4-B]
+\tr \tc1 Ataroth-addar \tc2 \it see\it* \tc3 (Ataroth-adar)
+\tr \tc1 Athens \tc2 \tc3 \tc4 [14-8-D]
+\tr \tc1 Attalia \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Ava \tc2 \it see\it* \tc3 (Theras)
+\tr \tc1 Ava \tc2 \tc3 (Joshua 13:3)(2 Kings 17:31) \tc4 [7-12-E]
+\tr \tc1 Aven \tc2 \it \tc3 (plain) \tc2 see\it* \tc3 (Lebanon)
+\tr \tc1 Aven \tc2 \it plain\it* \tc3 \tc4 [6-20-I]
+\tr \tc1 Aven \tc2 \it see\it* \tc3 (Bethel)
+\tr \tc1 Aven \tc2 \it valley\it* \tc3 \tc4 [12-6-A]
+\tr \tc1 Aven \tc2 \tc3 (Egypt) \tc4 [3-8-H]
+\tr \tc1 Avim \tc2 \it see\it* \tc3 (Ava)
+\tr \tc1 Avims \tc2 \it see\it* \tc3 (Ava)
+\tr \tc1 Avites \tc2 \it see\it* \tc3 (Ava)
+\tr \tc1 Avva \tc2 \it see\it* \tc3 (Ava)
+\tr \tc1 Avvites \tc2 \it see\it* \tc3 (Ava)
+\tr \tc1 Azekah \tc2 \tc3 \tc4 [4-19-N] [12-4-D]
+\tr \tc1 Azmaveth \tc2 \it see\it* \tc3 (Beth-azmaveth)
+\tr \tc1 Azmaveth \tc2 \it see\it* \tc3 (Beth-samos)
+\tr \tc1 Azmaveth \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Aznoth-tabor \tc2 \it see\it* \tc3 (Tabor)
+\tr \tc1 Aznoth-tabor \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Azotus \tc2 \tc3 \tc4 [13-18-N]
+\tr \tc1 Azzah \tc2 \it see\it* \tc3 (Gaza)
+\tr \tc1 Azzah \tc2 \tc3 \tc4 [6-17-N]
+\tr \tc1 Baal-ahalishah \tc2 \it see\it* \tc3 (Baal-shalisha)
+\tr \tc1 Baal-gad \tc2 \tc3 (?) \tc4 [4-20-K]
+\tr \tc1 Baal-hazor \tc2 \tc3 \tc4 [4-19-N] [6-19-N]
+\tr \tc1 Baal-hermon \tc2 \tc3 \tc4 [6-20-K]
+\tr \tc1 Baal-meon \tc2 \it see\it* \tc3 (Beon)
+\tr \tc1 Baal-meon \tc2 \it see\it* \tc3 (Beth-baal-meon)
+\tr \tc1 Baal-meon \tc2 \it see\it* \tc3 (Beth-meon)
+\tr \tc1 Baal-meon \tc2 \tc3 \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Baal-shalisha \tc2 \tc3 \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Baal-tamar \tc2 \tc3 \tc4 [4-19-N] [12-6-B]
+\tr \tc1 Baal-zephon \tc2 \tc3 (?) \tc4 [3-4-H]
+\tr \tc1 Baalah \tc2 \tc3 (Simeon) \tc4 [5-6-G]
+\tr \tc1 Baalah \tc2 \tc3 \tc4 [12-5-C]
+\tr \tc1 Baalath \tc2 \tc3 \tc4 [6-19-N]
+\tr \tc1 Baale of Judah \tc2 \it see\it* \tc3 (Baalah)
+\tr \tc1 Babel \tc2 \tc3 (Babylon) \tc4 [1-8-D]
+\tr \tc1 Babylon \tc2 \tc3 \tc4 [7-12-E] [8-12-E] [10-12-E]
+\tr \tc1 Babylonian Empire \tc2 \tc3 \tc4 [8-12-E]
+\tr \tc1 Bahurim \tc2 \tc3 \tc4 [12-7-C]
+\tr \tc1 Balah \tc2 \tc3 (Simeon) \tc4 [5-6-G]
+\tr \tc1 Bamoth \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Bamoth-baal \tc2 \it see\it* \tc3 (Bamoth)
+\tr \tc1 Bashan \tc2 \tc3 \tc4 [6-20-L]
+\tr \tc1 Bashan-havoth-jair \tc2 towns \tc3 (Jair) \tc4 [6-21-L]
+\tr \tc1 Bathzacharias \tc2 \tc3 \tc4 [12-5-D]
+\tr \tc1 Be-eshterah \tc2 \it see\it* \tc3 (Beesh-terah)
+\tr \tc1 Beer-lahai-roi \tc2 \tc3 \tc4 [3-6-H]
+\tr \tc1 Beer-sheba \tc2 \it see\it* \tc3 (Sheba)
+\tr \tc1 Beer-sheba \tc2 \it see\it* \tc3 (Shebah)
+\tr \tc1 Beer-sheba \tc2 \tc3 \tc4 [2-6-G] [3-6-G] [4-18-O] [5-6-G] [6-18-O]
+\tr \tc1 Beeroth \tc2 \it see\it* \tc3 (Berea)
+\tr \tc1 Beeroth \tc2 \it see\it* \tc3 (Beroth)
+\tr \tc1 Beeroth \tc2 \tc3 (Benjamin) \tc4 [4-19-N] [6-19-N] [12-6-B]
+\tr \tc1 Beesh-terah \tc2 \tc3 \tc4 [6-21-L]
+\tr \tc1 Bela \tc2 \tc3 \tc4 [2-7-G] [4-20-N]
+\tr \tc1 Bene-berak \tc2 \tc3 \tc4 [4-18-M]
+\tr \tc1 Benjamin \tc2 \it allotment\it* \tc3 \tc4 [4-19-N]
+\tr \tc1 Beon \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Beracah \tc2 \it see\it* \tc3 (Berachah)
+\tr \tc1 Berachah \tc2 \tc3 \tc4 [12-5-E]
+\tr \tc1 Berea \tc2 \tc3 (Aleppo) \tc4 [5-9-B] [11-11-D]
+\tr \tc1 Berea \tc2 \tc3 (Macedonia) \tc4 [14-8-C]
+\tr \tc1 Berea \tc2 \tc3 \tc4 [12-6-B]
+\tr \tc1 Bered \tc2 \tc3 \tc4 [2-6-G]
+\tr \tc1 Beroea \tc2 \it see\it* \tc3 (Berea)
+\tr \tc1 Beroth \tc2 \it see\it* \tc3 (Berea)
+\tr \tc1 Beroth \tc2 \tc3 \tc4 [12-6-B]
+\tr \tc1 Berothah \tc2 \tc3 (?) \tc4 [5-8-D]
+\tr \tc1 Berothai \tc2 \it see\it* \tc3 (Berothah)
+\tr \tc1 Besor \tc2 \it brook\it* \tc3 \tc4 [4-18-O] [6-18-O]
+\tr \tc1 Beten \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Beth-anath \tc2 \tc3 \tc4 [4-19-K] [6-19-K]
+\tr \tc1 Beth-anoth \tc2 \tc3 \tc4 [4-19-N] [12-5-F]
+\tr \tc1 Beth-arabah \tc2 \tc3 \tc4 [12-5-F]
+\tr \tc1 Beth-aram \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Beth-arbel \tc2 \it see\it* \tc3 (Arbela)
+\tr \tc1 Beth-arbel \tc2 \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Beth-aven \tc2 \tc3 \tc4 [12-6-A]
+\tr \tc1 Beth-azmaveth \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Beth-baal-meon \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Beth-barah \tc2 \tc3 (?) \tc4 [6-20-M]
+\tr \tc1 Beth-birei \tc2 \tc3 \tc4 [6-18-O]
+\tr \tc1 Beth-biri \tc2 \it see\it* \tc3 (Beth-birei)
+\tr \tc1 Beth-boron \tc2 \it upper\it* \tc3 \tc4 [4-19-N] [6-19-N] [12-5-B]
+\tr \tc1 Beth-car \tc2 \tc3 \tc4 [4-5-C] [6-19-N] [12-5-C]
+\tr \tc1 Beth-dagon \tc2 \it at Azotus\it* \tc3 \tc4 [13-18-N]
+\tr \tc1 Beth-dagon \tc2 \tc3 (Asher) \tc4 [4-19-L]
+\tr \tc1 Beth-diblathaim \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Beth-el \tc2 \it see\it* \tc3 (Beth-aven)
+\tr \tc1 Beth-el \tc2 \it see\it* \tc3 (Betoliua)
+\tr \tc1 Beth-el \tc2 \tc3 (Ephraim) \tc4 [2-7-G] [4-19-N] [6-19-N] [13-19-N] [12-6-A]
+\tr \tc1 Beth-emek \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Beth-gader \tc2 \tc3 (Judah) \tc4 [12-6-E]
+\tr \tc1 Beth-gamul \tc2 \tc3 \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Beth-gilgal \tc2 \tc3 \tc4 [6-19-N]
+\tr \tc1 Beth-haccerem \tc2 \tc3 \tc4 [12-6-E]
+\tr \tc1 Beth-haccherem \tc2 \it see\it* \tc3 (Beth-haccerem)
+\tr \tc1 Beth-haram \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Beth-haran \tc2 \it see\it* \tc3 (Beth-aram)
+\tr \tc1 Beth-haran \tc2 \it see\it* \tc3 (Beth-haram)
+\tr \tc1 Beth-hogla \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Beth-hoglah \tc2 \it see\it* \tc3 (Beth-hogla)
+\tr \tc1 Beth-horon \tc2 \it nether\it* \tc3 \tc4 [4-19-N] [12-4-B]
+\tr \tc1 Beth-horon \tc2 \it see\it* \tc3 (Bethoron)
+\tr \tc1 Beth-jeshimoth \tc2 \it see\it* \tc3 (Beth-jesimoth)
+\tr \tc1 Beth-jeshimoth \tc2 \tc3 \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Beth-jesimoth \tc2 \tc3 \tc4 [3-7-G]
+\tr \tc1 Beth-lebaoth \tc2 \it see\it* \tc3 (Lebaoth)
+\tr \tc1 Beth-lebaoth \tc2 \tc3 \tc4 [4-18-O]
+\tr \tc1 Beth-lehem Ephrathah \tc2 \tc3 \tc4 [12-6-D]
+\tr \tc1 Beth-lehem \tc2 \it see\it* \tc3 (Beth-lehem Ephrathah)
+\tr \tc1 Beth-lehem \tc2 \it see\it* \tc3 (Beth-lomon)
+\tr \tc1 Beth-lehem \tc2 \it see\it* \tc3 (Caleb-ephratah)
+\tr \tc1 Beth-lehem \tc2 \it see\it* \tc3 (Ephratah)
+\tr \tc1 Beth-lehem \tc2 \it see\it* \tc3 (Ephrath)
+\tr \tc1 Beth-lehem \tc2 \tc3 (JudaH) \tc4 [2-7-G] [4-19-N] [6-19-N] [12-6-D] [13-19-N]
+\tr \tc1 Beth-lehem \tc2 \tc3 (Zebulun) \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Beth-lomon \tc2 \tc3 \tc4 [12-6-D]
+\tr \tc1 Beth-maacah \tc2 \tc3 \tc4 [5-8-E]
+\tr \tc1 Beth-maachah \tc2 \it see\it* \tc3 (Beth-maacah)
+\tr \tc1 Beth-marcal3oth \tc2 \tc3 \tc4 [6-18-O]
+\tr \tc1 Beth-meon \tc2 \tc3 \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Beth-nimrah \tc2 \it see\it* \tc3 (Nimrah)
+\tr \tc1 Beth-nimrah \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Beth-peor \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Beth-rehob \tc2 \it see\it* \tc3 (Rehob)
+\tr \tc1 Beth-rehob \tc2 \tc3 (Judg. 18:28) \tc4 [6-20-K]
+\tr \tc1 Beth-samos \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Beth-shan \tc2 \it see\it* \tc3 (Bethsan)
+\tr \tc1 Beth-shan \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Beth-shean \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Beth-shemesh \tc2 \it see\it* \tc3 (Ir-shemesh)
+\tr \tc1 Beth-shemesh \tc2 \tc3 (Egypt) \tc4 [3-3-H]
+\tr \tc1 Beth-shemesh \tc2 \tc3 (Issachar) \tc4 [4-20-M]
+\tr \tc1 Beth-shemesh \tc2 \tc3 (Judah) \tc4 [4-18-N] [6-18-N] [12-3-D]
+\tr \tc1 Beth-shemesh \tc2 \tc3 (Naphtali) \tc4 [4-19-L]
+\tr \tc1 Beth-shittah \tc2 \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Beth-tappuah \tc2 \it see\it* \tc3 (Taphon)
+\tr \tc1 Beth-tappuah \tc2 \tc3 \tc4 [4-19-N] [12-4-F]
+\tr \tc1 Beth-zur \tc2 \it see\it* \tc3 (Bethsura)
+\tr \tc1 Beth-zur \tc2 \tc3 \tc4 [4-19-N] [12-5-E]
+\tr \tc1 Bethabara \tc2 \tc3 \tc4 [13-20-L]
+\tr \tc1 Bethany \tc2 \it see\it* \tc3 (Bethabara)
+\tr \tc1 Bethany \tc2 \tc3 \tc4 [12-6-C] [13-19-N]
+\tr \tc1 Bethel \tc2 \it see\it* \tc3 (Aven)
+\tr \tc1 Bethel \tc2 \it see\it* \tc3 (El-beth-el)
+\tr \tc1 Bethel \tc2 \tc3 (Simeon) \tc4 [12-4-E]
+\tr \tc1 Bether \tc2 \tc3 \tc4 [4-19-N] [12-5-D]
+\tr \tc1 Bethoron \tc2 \tc3 \tc4 [12-5-B]
+\tr \tc1 Bethphage \tc2 \tc3 (?) \tc4 [12-6-C] [13-19-N]
+\tr \tc1 Bethsaida \tc2 \tc3 \tc4 [13-20-L]
+\tr \tc1 Bethsan \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Bethsura \tc2 \tc3 \tc4 [4-19-N] [12-5-E]
+\tr \tc1 Bethuel \tc2 \tc3 \tc4 [12-4-E]
+\tr \tc1 Bethul \tc2 \it see\it* \tc3 (Bethel)
+\tr \tc1 Bethul \tc2 \it see\it* \tc3 (Bethuel)
+\tr \tc1 Bethul \tc2 \it see\it* \tc3 (Chesil)
+\tr \tc1 Bethulia \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Betoliua \tc2 \tc3 \tc4 [12-6-A]
+\tr \tc1 Betomestham \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Betonim \tc2 \tc3 \tc4 [4-20-M]
+\tr \tc1 Bezek \tc2 \tc3 (1 Sam. 11:8) \tc4 [6-19-M]
+\tr \tc1 Bezek \tc2 \tc3 (Judg. 1:4-5) \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Bezer \tc2 \it see\it* \tc3 (Bozrah)
+\tr \tc1 Bezer \tc2 \tc3 \tc4 [4-20-O] [6-20-O]
+\tr \tc1 Bileam \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Bilhah \tc2 \it see\it* \tc3 (Baalah)
+\tr \tc1 Bilhah \tc2 \it see\it* \tc3 (Balah)
+\tr \tc1 Bilhah \tc2 \tc3 \tc4 [6-6-G]
+\tr \tc1 Bithynia \tc2 \tc3 \tc4 [9-10-C] [10-10-C] [11-10-C] [14-10-C]
+\tr \tc1 Boscath \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Bosora \tc2 \tc3 \tc4 [7-11-E]
+\tr \tc1 Bozez \tc2 \tc3 (1 Sam. 14:4) \tc4 [12-7-B]
+\tr \tc1 Bozkath \tc2 \it see\it* \tc3 (Boscath)
+\tr \tc1 Bozkath \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Bozrah \tc2 \tc3 (Edom) \tc4 [7-11-E]
+\tr \tc1 Bozrah \tc2 \tc3 (Moab) \tc4 [6-20-O]
+\tr \tc1 Brook of Egypt \tc2 \it see\it* \tc3 (Nile)
+\tr \tc1 Brook of Egypt \tc2 \it see\it* \tc3 (Shihor)
+\tr \tc1 Brook of Egypt \tc2 \it see\it* \tc3 (Sihor)
+\tr \tc1 Cabbon \tc2 \tc3 (?) \tc4 [4-18-N]
+\tr \tc1 Cabul \tc2 \tc3 (Asher) \tc4 [4-19-L] [5-7-F] [6-19-L]
+\tr \tc1 Cades \tc2 \tc3 \tc4 [6-20-K]
+\tr \tc1 Cades-barne \tc2 \tc3 \tc4 [3-7-H]
+\tr \tc1 Caesarea Philippi \tc2 \tc3 \tc4 [13-20-K]
+\tr \tc1 Caesarea \tc2 \tc3 \tc4 [13-18-L]
+\tr \tc1 Cain \tc2 \it see\it* \tc3 (Kain)
+\tr \tc1 Cain \tc2 \tc3 \tc4 [4-19-O]
+\tr \tc1 Calaii \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Caleb-ephratah \tc2 \tc3 \tc4 [6-19-N]
+\tr \tc1 Caleb-ephrathah \tc2 \it see\it* \tc3 (Caleb-ephratah)
+\tr \tc1 Calneh \tc2 \it see\it* \tc3 (Calno)
+\tr \tc1 Calneh \tc2 \it see\it* \tc3 (Canneh)
+\tr \tc1 Calneh \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Calno \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Calvary \tc2 \it see\it* \tc3 (Golgotha)
+\tr \tc1 Calvary \tc2 \tc3 \tc4 [12-6-C] [13-20-O]
+\tr \tc1 Cana \tc2 \tc3 \tc4 [13-19-L]
+\tr \tc1 Canaan \tc2 \it land\it* \tc3 \tc4 [3-6-G]
+\tr \tc1 Canaan \tc2 \it see\it* \tc3 (Chanaan)
+\tr \tc1 Canaan \tc2 \it see\it* \tc3 (Sion)
+\tr \tc1 Canaanites \tc2 \tc3 \tc4 [2-6-G]
+\tr \tc1 Canneh \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Capernaum \tc2 \tc3 (?) \tc4 [13-20-L]
+\tr \tc1 Caphira \tc2 \tc3 \tc4 [12-5-C]
+\tr \tc1 Caphtor \tc2 \tc3 (Jer. 47:4) \tc4 [1-6-D]
+\tr \tc1 Caphtorim \tc2 \tc3 (?) \tc4 [1-6-D] [1-7-D]
+\tr \tc1 Cappadocia \tc2 \tc3 \tc4 [9-11-D] [10-11-D] [11-11-D] [14-11-D]
+\tr \tc1 Carchemish \tc2 \it see\it* \tc3 (Charchamis)
+\tr \tc1 Carchemish \tc2 \tc3 \tc4 [5-10-B] [7-11-D] [8-11-D]
+\tr \tc1 Caria \tc2 \tc3 \tc4 [9-9-D] [10-9-D] [14-9-D]
+\tr \tc1 Carmel \tc2 \it mountain\it* \tc3 \tc4 [4-18-L] [6-18-L]
+\tr \tc1 Carmel \tc2 \tc3 (Judah) \tc4 [4-19-O] [6-19-O]
+\tr \tc1 Carnaim \tc2 \tc3 \tc4 [2-8-F]
+\tr \tc1 Carnion \tc2 \it see\it* \tc3 (Carnaim)
+\tr \tc1 Casluhlm \tc2 \tc3 \tc4 [1-7-D]
+\tr \tc1 Cauda \tc2 \it see\it* \tc3 (Clauda)
+\tr \tc1 Cauda \tc2 \tc3 \tc4 [14-8-E]
+\tr \tc1 Cedron \tc2 \it brook\it* \tc3 \tc4 [12-6-C]
+\tr \tc1 Cedron \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Celosyria \tc2 \tc3 \tc4 [10-11-E]
+\tr \tc1 Cenchrea \tc2 \tc3 \tc4 [14-8-D]
+\tr \tc1 Cenchreae \tc2 \it see\it* \tc3 (Cenchrea)
+\tr \tc1 Cesarea Philippi \tc2 \tc3 \tc4 [13-20-K]
+\tr \tc1 Cesarea \tc2 \tc3 \tc4 [13-18-L] [14-10-E]
+\tr \tc1 Chaldea \tc2 \tc3 \tc4 [7-13-E]
+\tr \tc1 Champaign \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Chanaan \tc2 \tc3 \tc4 [3-6-G]
+\tr \tc1 Charashim \tc2 \it valley\it* \tc3 \tc4 [12-4-B]
+\tr \tc1 Charchamis \tc2 \tc3 \tc4 [5-10-B]
+\tr \tc1 Charchemish \tc2 \it see\it* \tc3 (Charchamis)
+\tr \tc1 Charran \tc2 \tc3 \tc4 [14-11-D]
+\tr \tc1 Chephirah \tc2 \it see\it* \tc3 (Caphira)
+\tr \tc1 Chephirah \tc2 \tc3 \tc4 [12-5-C]
+\tr \tc1 Cherethims \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Cherethites \tc2 \it see\it* \tc3 (Cherethims)
+\tr \tc1 Chesalon \tc2 \it see\it* \tc3 (Jearim)
+\tr \tc1 Chesalon \tc2 \tc3 \tc4 [4-19-N] [12-4-C]
+\tr \tc1 Chesil \tc2 \tc3 \tc4 [12-4-E]
+\tr \tc1 Chesulloth \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Chettiim \tc2 \tc3 (Apoc.) \tc4 [14-8-D]
+\tr \tc1 Chezib \tc2 \tc3 \tc4 [4-18-N] [12-3-D]
+\tr \tc1 Chinnereth \tc2 \tc3 \tc4 [4-20-L] [6-20-L]
+\tr \tc1 Chinneroth \tc2 \it see\it* \tc3 (Chinnereth)
+\tr \tc1 Chinneroth \tc2 \it see\it* \tc3 (Cinneroth)
+\tr \tc1 Chios \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Chisloth-tabor \tc2 \it see\it* \tc3 (Chesulloth)
+\tr \tc1 Chisloth-tabor \tc2 \it see\it* \tc3 (Tabor)
+\tr \tc1 Chisloth-tabor \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Chittim \tc2 \tc3 \tc4 [5-5-C]
+\tr \tc1 Choba \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Chor-Ashan \tc2 \it see\it* \tc3 (Ashan)
+\tr \tc1 Chor-ashan \tc2 \it see\it* \tc3 (Cor-ashan)
+\tr \tc1 Chor-ashan \tc2 \tc3 \tc4 [6-18-O]
+\tr \tc1 Chorazin \tc2 \tc3 \tc4 [13-20-L]
+\tr \tc1 Chozeba \tc2 \it see\it* \tc3 (Cozeba)
+\tr \tc1 Chozeba \tc2 \tc3 \tc4 [4-19-N] [12-3-D]
+\tr \tc1 Chun \tc2 \tc3 \tc4 [5-8-D]
+\tr \tc1 Chusi \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Cilicia \tc2 \tc3 \tc4 [9-10-D] [10-10-D] [11-10-D] [14-10-D]
+\tr \tc1 Cinneroth \tc2 plain \tc3 \tc3 (W of the sea of Chinnereth) (1 Kings 15:20) \tc4 [4-20-L] [6-20-L]
+\tr \tc1 Cirama \tc2 \tc3 \tc4 [12-6-E]
+\tr \tc1 Circle of Jordan \tc2 \it see\it* \tc3 (Plain of Jordan)
+\tr \tc1 City of David \tc2 \it see\it* \tc3 (Zion)
+\tr \tc1 City of David \tc2 \tc3 (1 Kings 9:24) (2 Chronicles 8:11) \tc4 [13-20-L]
+\tr \tc1 City of Palm trees \tc2 \tc3 \tc4 [6-19-N]
+\tr \tc1 Clauda \tc2 \it see\it* \tc3 (Cauda)
+\tr \tc1 Clauda \tc2 \tc3 \tc4 [14-8-E]
+\tr \tc1 Cnidus \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Coele-Syria \tc2 \it see\it* \tc3 (Celosyria)
+\tr \tc1 Colosse \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Colossse \tc2 \it see\it* \tc3 (Colosse)
+\tr \tc1 Coos \tc2 \it see\it* \tc3 (Cos)
+\tr \tc1 Coos \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Cor-ashan \tc2 \it see\it* \tc3 (Chor-ashan)
+\tr \tc1 Cor-ashan \tc2 \tc3 \tc4 [6-18-O]
+\tr \tc1 Corinth \tc2 \tc3 \tc4 [14-8-D]
+\tr \tc1 Cos \tc2 \it see\it* \tc3 (Coos)
+\tr \tc1 Cos \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Cozeba \tc2 \it see\it* \tc3 (Chozeba)
+\tr \tc1 Cozeba \tc2 \tc3 \tc4 [4-19-N] [12-5-E]
+\tr \tc1 Crete \tc2 \tc3 \tc4 [14-8-D]
+\tr \tc1 Cun \tc2 \it see\it* \tc3 (Chun)
+\tr \tc1 Cush \tc2 \it see\it* \tc3 (Ethiopia)
+\tr \tc1 Cush \tc2 \tc3 \tc4 [1-7-F] [1-8-C]
+\tr \tc1 Cyamon \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Cyprus \tc2 \it see\it* \tc3 (Chittim)
+\tr \tc1 Cyprus \tc2 \tc3 \tc4 [8-10-D] [11-10-D] [14-10-D]
+\tr \tc1 Cyrene \tc2 \tc3 \tc4 [14-8-E]
+\tr \tc1 Dabareh \tc2 \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Dabbasheth \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Dabbesheth \tc2 \it see\it* \tc3 (Dabbasheth)
+\tr \tc1 Daberath \tc2 \it see\it* \tc3 (Dabareh)
+\tr \tc1 Daberath \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Dalmatia \tc2 \tc3 \tc4 [14-7-C]
+\tr \tc1 Damascus \tc2 \tc3 \tc4 [2-8-E] [5-8-E] [6-21-E] [14-11-E]
+\tr \tc1 Dan \tc2 \it allotment\it* \tc3 \tc4 [4-18-O] [4-20-K]
+\tr \tc1 Dan \tc2 \it city\it* \tc3 \tc4 [2-7-E] [4-20-K] [5-7-E] [6-20-K] [13-20-K]
+\tr \tc1 Dan \tc2 \it see\it* \tc3 (Dan-jaan)
+\tr \tc1 Dan-jaan \tc2 \tc3 \tc4 [6-20-K]
+\tr \tc1 Dannah \tc2 \tc3 \tc4 [12-3-F]
+\tr \tc1 Daphne \tc2 \tc3 \tc4 [14-11-D]
+\tr \tc1 David \tc2 \it city\it* \tc3 \tc4 [13-20-O]
+\tr \tc1 Debir \tc2 \it see\it* \tc3 (Kiriath-sannah)
+\tr \tc1 Debir \tc2 \it see\it* \tc3 (Kirjath-sannah)
+\tr \tc1 Debir \tc2 \it see\it* \tc3 (Kirjath-sephcr)
+\tr \tc1 Debir \tc2 \tc3 (Josh. 15:7) \tc4 [4-19-N]
+\tr \tc1 Debir \tc2 \tc3 (Judah) \tc4 [4-18-O] [6-18-O]
+\tr \tc1 Decapolis \tc2 \tc3 \tc4 [13-20-M]
+\tr \tc1 Dedan \tc2 \tc3 (Cushite) \tc4 [1-9-E]
+\tr \tc1 Dedan \tc2 \tc3 (Keturhite) \tc4 [1-7-D] [8-11-E]
+\tr \tc1 Delus \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Derbe \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Di-zahab \tc2 \it see\it* \tc3 (Dizahab)
+\tr \tc1 Diblah \tc2 \it see\it* \tc3 (Diblath)
+\tr \tc1 Diblath \tc2 \tc3 \tc4 [4-19-K] [6-19-K]
+\tr \tc1 Diblathaim \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Dibon E. of Jordan \tc2 \it see\it* \tc3 (Dibon-gad)
+\tr \tc1 Dibon \tc2 \it \tc3 (?) \tc2 see\it* \tc3 (Dimon)
+\tr \tc1 Dibon \tc2 \tc3 (E. of Jordan) \tc4 [4-20-O]
+\tr \tc1 Dibon \tc2 \tc3 (Judah) \tc4 [6-19-O]
+\tr \tc1 Dibon of Judah \tc2 \it see\it* \tc3 (Dimonah)
+\tr \tc1 Dibon-gad \tc2 \tc3 \tc4 [4-20-O]
+\tr \tc1 Diklah \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Dimnah \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Dimon \tc2 \tc3 \tc4 [4-20-O]
+\tr \tc1 Dimonah \tc2 \tc3 \tc4 [6-19-O]
+\tr \tc1 Dizahab \tc2 \tc3 \tc4 [3-6-K]
+\tr \tc1 Docus \tc2 \it see\it* \tc3 (Water of Jericho)
+\tr \tc1 Docus \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Dodanim \tc2 \tc3 \tc4 [1-6-D]
+\tr \tc1 Dophkah \tc2 \tc3 \tc4 [3-5-K]
+\tr \tc1 Dor \tc2 \tc3 \tc4 [4-18-L] [6-18-L]
+\tr \tc1 Dora \tc2 \tc3 \tc4 [4-18-L] [13-18-L]
+\tr \tc1 Dothaira \tc2 \tc3 \tc4 [13-19-M]
+\tr \tc1 Dothan \tc2 \tc3 \tc4 [2-7-F] [4-19-M] [6-19-M]
+\tr \tc1 Dumah \tc2 \tc3 (Judah) \tc4 [4-18-O]
+\tr \tc1 Dura \tc2 \it plain\it* \tc3 \tc4 [7-13-E]
+\tr \tc1 East Sea \tc2 \tc3 \tc4 [6-19-O]
+\tr \tc1 Eastern Sea \tc2 \it see\it* \tc3 (East Sea)
+\tr \tc1 Eastern Sea \tc2 \it see\it* \tc3 (Salt Sea)
+\tr \tc1 Ebal \tc2 \it mountain\it* \tc3 \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Eben-ezer \tc2 \tc3 \tc4 [12-6-C]
+\tr \tc1 Ebez \tc2 \it see\it* \tc3 (Abez)
+\tr \tc1 Ebron \tc2 \it see\it* \tc3 (Hebron)
+\tr \tc1 Ebron \tc2 \tc3 (Asher) \tc4 [4-19-K]
+\tr \tc1 Ecbatana \tc2 \it see\it* \tc3 (Achmetha)
+\tr \tc1 Ecbatana \tc2 \tc3 (northern) \tc4 [7-13-D]
+\tr \tc1 Ecbatana \tc2 \tc3 (southern) \tc4 [7-13-E] [9-13-E]
+\tr \tc1 Edar \tc2 \tc3 \tc4 [4-19-N] [12-5-E]
+\tr \tc1 Eder \tc2 \it see\it* \tc3 (Edar)
+\tr \tc1 Edom \tc2 \it see\it* \tc3 (Idumea)
+\tr \tc1 Edom \tc2 \it see\it* \tc3 (Seir)
+\tr \tc1 Edom \tc2 \tc3 \tc4 [3-7-H] [5-7-H] [7-11-E]
+\tr \tc1 Edrei \tc2 \tc3 (Bashan) \tc4 [6-21-L]
+\tr \tc1 Eglaim \tc2 \it see\it* \tc3 (En-eglaim)
+\tr \tc1 Eglaim \tc2 \tc3 (?) \tc4 [6-20-O]
+\tr \tc1 Eglon \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Egypt \tc2 \it see\it* \tc3 (Ham)
+\tr \tc1 Egypt \tc2 \it see\it* \tc3 (Mizraim)
+\tr \tc1 Egypt \tc2 \it see\it* \tc3 (Rahab)
+\tr \tc1 Egypt \tc2 \tc3 \tc4 [1-7-E] [3-3-I] [8-10-E] [9-10-E] [10-10-E] [14-10-E]
+\tr \tc1 Ekrebel \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Ekron \tc2 \tc3 \tc4 [3-6-G] [5-6-G] [4-18-N] [6-18-N]
+\tr \tc1 El Ain \tc2 \it see\it* \tc3 (Beer-lahai-roi)
+\tr \tc1 El-beth-el \tc2 \tc3 \tc4 [2-7-G] [12-6-A]
+\tr \tc1 Elah \tc2 \it valley\it* \tc3 \tc4 [4-18-N] [6-18-N] [12-3-D]
+\tr \tc1 Elam \tc2 \tc3 \tc4 [1-8-D] [7-13-E] [8-13-E]
+\tr \tc1 Elath \tc2 \tc3 \tc4 [3-7-I]
+\tr \tc1 Elealeh \tc2 \tc3 \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Eleasa \tc2 \tc3 \tc4 [12-5-B]
+\tr \tc1 Eleph \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Elijah’s Altar \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Elim \tc2 \tc3 (?) \tc4 [3-4-I]
+\tr \tc1 Elisha \tc2 \it spring healed by\it* \tc3 \tc4 [6-19-N]
+\tr \tc1 Elishah \tc2 \tc3 \tc4 [1-6-D]
+\tr \tc1 Ellasar \tc2 \tc3 \tc4 [7-13-E]
+\tr \tc1 Elon-beth-hanati \tc2 \tc3 \tc4 [12-5-B]
+\tr \tc1 Eloth \tc2 \tc3 \tc4 [5-7-I]
+\tr \tc1 Elteke \tc2 \tc3 \tc4 [4-19-N] [12-4-B]
+\tr \tc1 Eltekeh \tc2 \it see\it* \tc3 (Elteke)
+\tr \tc1 Elymais \tc2 \tc3 \tc4 [7-13-E]
+\tr \tc1 Emim \tc2 \it see\it* \tc3 (Emims)
+\tr \tc1 Emims \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Emmaus \tc2 \tc3 (El Kubeibeh) \tc4 [12-5-B] [13-19-N]
+\tr \tc1 Emmaus \tc2 \tc3 (Khamaseh) \tc4 [12-5-D]
+\tr \tc1 En-dor \tc2 \tc3 \tc4 [4-19-L] [6-19-L] [5-7-F]
+\tr \tc1 En-eglaim \tc2 \tc3 \tc4 [6-20-O]
+\tr \tc1 En-gaddi \tc2 \tc3 \tc4 [4-19-O] [6-19-O]
+\tr \tc1 En-gannim \tc2 \it see\it* \tc3 (Garden-house)
+\tr \tc1 En-gannim \tc2 \tc3 (Issachar) \tc4 [4-19-M] [6-19-M]
+\tr \tc1 En-gedi \tc2 \it see\it* \tc3 (En-gaddi)
+\tr \tc1 En-gedi \tc2 \it see\it* \tc3 (Hazazon-tamar)
+\tr \tc1 En-gedi \tc2 \tc3 \tc4 [4-19-O] [6-19-O]
+\tr \tc1 En-haddah \tc2 \tc3 (?) \tc4 [4-19-M]
+\tr \tc1 En-hazor \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 En-mishpat \tc2 \tc3 \tc4 [3-7-H]
+\tr \tc1 En-rimmon \tc2 \tc3 \tc4 [4-18-O] [6-18-O]
+\tr \tc1 En-rogel \tc2 \it see\it* \tc3 (King’s pool)
+\tr \tc1 En-rogel \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 En-shemesh \tc2 \tc3 \tc4 [4-19-N] [12-7-C]
+\tr \tc1 Ephes-dammim \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Ephesus \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Ephraim \tc2 \it allotment\it* \tc3 \tc4 [4-19-M]
+\tr \tc1 Ephraim \tc2 \it city\it* \tc3 \tc4 [12-7-A] [13-19-N]
+\tr \tc1 Ephraim \tc2 \it mountain\it* \tc3 \tc4 [12-6-A] [4-19-M] [6-19-M]
+\tr \tc1 Ephrain \tc2 \tc3 \tc4 [6-19-N] [12-7-A]
+\tr \tc1 Ephratah \tc2 \tc3 \tc4 [6-19-N]
+\tr \tc1 Ephrath \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Ephrathah \tc2 \it see\it* \tc3 (Ephratah)
+\tr \tc1 Ephron \tc2 \it see\it* \tc3 (Ephrain)
+\tr \tc1 Ephron \tc2 \tc3 \tc4 [6-19-N] [12-7-A]
+\tr \tc1 Erech \tc2 \it see\it* \tc3 (Archevites)
+\tr \tc1 Erech \tc2 \tc3 \tc4 [1-8-D] [7-13-E]
+\tr \tc1 Esau \tc2 \it mountain\it* \tc3 \tc4 [3-7-H]
+\tr \tc1 Eschol \tc2 \it valley\it* \tc3 \tc4 [3-7-G] [4-19-N]
+\tr \tc1 Esdraelom \tc2 \tc3 \tc4 [12-19-L]
+\tr \tc1 Esdraelon \tc2 \it see\it* \tc3 (Esdraelom)
+\tr \tc1 Esdraelon \tc2 \it see\it* \tc3 (Esdrelom)
+\tr \tc1 Esdrelom \tc2 \tc3 \tc4 [13-19-L]
+\tr \tc1 Esebon \tc2 \tc3 \tc4 [13-20-N]
+\tr \tc1 Eshan \tc2 \it see\it* \tc3 (Eshean)
+\tr \tc1 Eshean \tc2 \tc3 \tc4 [4-19-O]
+\tr \tc1 Eshtaol \tc2 \tc3 \tc4 [4-19-N] [6-19-N] [12-4-C]
+\tr \tc1 Eshtemoa \tc2 \it see\it* \tc3 (Eshtemoh)
+\tr \tc1 Eshtemoh \tc2 \tc3 \tc4 [4-19-O]
+\tr \tc1 Eshteraoa \tc2 \tc3 \tc4 [4-18-O] [6-18-O]
+\tr \tc1 Etam \tc2 \it rock\it* \tc3 \tc4 [4-19-N] [6-19-N] [12-4-D]
+\tr \tc1 Etam \tc2 \tc3 (Judah) \tc4 [4-19-N] [6-19-N] [12-6-D]
+\tr \tc1 Etam \tc2 \tc3 (Simeon) \tc4 [4-18-O] [6-18-O]
+\tr \tc1 Eth-kazin \tc2 \it see\it* \tc3 (Ittah-kazin)
+\tr \tc1 Eth-kazin \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Etham \tc2 \tc3 (?) \tc4 [3-4-H]
+\tr \tc1 Etham \tc2 wilderness \tc3 (Numbers 53:8) \tc4 [3-4-H]
+\tr \tc1 Ether \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Ethiopia \tc2 \it see\it* \tc3 (Cush)
+\tr \tc1 Ethiopia \tc2 \tc3 (Gen. 2:13) (Gen. 2.9) \tc4 [1-7-F] [1-8-C]
+\tr \tc1 Ethiopia \tc2 \tc3 \tc4 [1-7-F]
+\tr \tc1 Euphrates \tc2 \it river\it* \tc3 \tc4 [1-7-D] [5-10-C] [8-12-E] [9-12-E]
+\tr \tc1 Ezion geber \tc2 \it see\it* \tc3 (Ezion-gaber)
+\tr \tc1 Ezion-gaber \tc2 \tc3 \tc4 [3-6-I] [5-6-I]
+\tr \tc1 Fair Havens \tc2 \tc3 \tc4 [14-8-E]
+\tr \tc1 Flood of Egypt \tc2 \it see\it* \tc3 (Nile)
+\tr \tc1 Gaash \tc2 \it hilI\it* \tc3 \tc4 [4-19-M]
+\tr \tc1 Gaba \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Gabdes \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Gad \tc2 \it allotment\it* \tc3 \tc4 [4-20-M]
+\tr \tc1 Gadara \tc2 \tc3 \tc4 [13-20-L]
+\tr \tc1 Galaad \tc2 \tc3 \tc4 [6-20-M]
+\tr \tc1 Galatia \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Galeed \tc2 \it see\it* \tc3 (Jegar-sahadutha)
+\tr \tc1 Galeed \tc2 \tc3 (?) \tc4 [2-7-F]
+\tr \tc1 Galgala \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Galilee \tc2 \it sea\it* \tc3 \tc4 [13-20-L]
+\tr \tc1 Galilee \tc2 \tc3 \tc4 [5-7-F] [13-19-L] [7-11-E] [14-11-E]
+\tr \tc1 Gallim \tc2 \tc3 (?) \tc4 [12-6-B]
+\tr \tc1 Garden-house \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Garizim \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Gath \tc2 \it see\it* \tc3 (Gittite)
+\tr \tc1 Gath \tc2 \tc3 \tc4 [4-18-N] [6-18-N] [5-6-G]
+\tr \tc1 Gath-hepher \tc2 \it see\it* \tc3 (Gittah-hepher)
+\tr \tc1 Gath-hepher \tc2 \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Gath-rimmon \tc2 \tc3 (Manasseh) \tc4 [4-19-M]
+\tr \tc1 Gaza \tc2 \it see\it* \tc3 (Azzah)
+\tr \tc1 Gaza \tc2 \tc3 (Philistia) \tc4 [2-6-G] [8-6-G] [5-6-G] [6-17-N] [14-10-E]
+\tr \tc1 Gazara \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Gazer \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Gazera \tc2 \it see\it* \tc3 (Gazer)
+\tr \tc1 Ge-harashim \tc2 \tc3 \tc4 [12-4-B]
+\tr \tc1 Ge-harashira \tc2 \it see\it* \tc3 (Charashim)
+\tr \tc1 Geba \tc2 \it see\it* \tc3 (Gaba)
+\tr \tc1 Geba \tc2 \it see\it* \tc3 (Gabdes)
+\tr \tc1 Geba \tc2 \tc3 (Benjamin) \tc4 [4-19-N] [6-19-N] [12-7-B]
+\tr \tc1 Gebal \tc2 \it see\it* \tc3 (Giblites)
+\tr \tc1 Gebal \tc2 \tc3 (Psalm 83:7) \tc4 [6-7-H] [7-11-E]
+\tr \tc1 Gebal \tc2 \tc3 \tc4 [2-7-D] [5-7-D] [7-11-E]
+\tr \tc1 Gebalites \tc2 \it see\it* \tc3 (Giblites)
+\tr \tc1 Gebo \tc2 \tc3 (Judith 3:10) \tc4 [13-19-M]
+\tr \tc1 Geder \tc2 \tc3 \tc4 [4-19-N] [12-5-E]
+\tr \tc1 Gederah \tc2 \tc3 (Benjamin) \tc4 [12-6-B]
+\tr \tc1 Gederoth \tc2 \it see\it* \tc3 (Cedron)
+\tr \tc1 Gederoth \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Gedor \tc2 \it \tc3  \tc2 see\it* \tc3 (Geder)
+\tr \tc1 Gedor \tc2 \it see\it* \tc3 (Beth-gader)
+\tr \tc1 Gedor \tc2 \it see\it* \tc3 (Edar)
+\tr \tc1 Geliloth \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Gennesar \tc2 \it water\it* \tc3 \tc4 [13-20-L]
+\tr \tc1 Geon \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Gerar \tc2 \tc3 (?) \tc4 [2-6-G]
+\tr \tc1 Gerizim \tc2 \it mountain\it* \tc3 \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Gerizim \tc2 \it see\it* \tc3 (Garizim)
+\tr \tc1 Gesem \tc2 \tc3 \tc4 [3-3-H]
+\tr \tc1 Geshur \tc2 \tc3 \tc4 [5-8-E] [6-21-K]
+\tr \tc1 Geshurites \tc2 \tc3 \tc4 [2-8-E]
+\tr \tc1 Gether \tc2 \tc3 \tc4 [1-7-D] [2-8-E]
+\tr \tc1 Gethsemane \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Gezer \tc2 \it see\it* \tc3 (Gazara)
+\tr \tc1 Gezer \tc2 \it see\it* \tc3 (Gazer)
+\tr \tc1 Gezer \tc2 \it see\it* \tc3 (Gob)
+\tr \tc1 Gezer \tc2 \tc3 (?) \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Gibbar \tc2 \tc3 \tc4 [6-19-N] [12-6-B]
+\tr \tc1 Gibbethon \tc2 \tc3 (?) \tc4 [4-18-M]
+\tr \tc1 Gibeah \tc2 \tc3 (2 Sam. 6:3 to 4) \tc4 [6-19-N] [12-5-C]
+\tr \tc1 Gibeah \tc2 \tc3 (Benjamin) \tc4 [6-19-N] [12-6-C]
+\tr \tc1 Gibeath \tc2 \tc3 (Josh. 18 to 28) \tc4 [12-5-C]
+\tr \tc1 Gibeon \tc2 \it see\it* \tc3 (Gibbar)
+\tr \tc1 Giblites \tc2 \tc3 \tc4 [5-7-D]
+\tr \tc1 Gihon \tc2 \it see\it* \tc3 (Geon)
+\tr \tc1 Gihon \tc2 river \tc3 (?) \tc4 [1-8-D]
+\tr \tc1 Gilbeon \tc2 \tc3 (Benjamin) \tc4 [2-7-G] [5-7-G] [4-19-N] [6-19-N] [12-6-B]
+\tr \tc1 Gilboa \tc2 \it mountain\it* \tc3 \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Gilead \tc2 \it land\it* \tc3 \tc4 [2-7-F] [4-20-M] [6-20-M] [7-11-E]
+\tr \tc1 Gilead \tc2 \it see\it* \tc3 (Galaad)
+\tr \tc1 Gilead \tc2 mountain \tc3 (Judg. 7:3) \tc4 [6-19-M]
+\tr \tc1 Gilgal \tc2 \it see\it* \tc3 (Beth-gilgal)
+\tr \tc1 Gilgal \tc2 \it see\it* \tc3 (Galgala)
+\tr \tc1 Gilgal \tc2 \it see\it* \tc3 (Geliloth)
+\tr \tc1 Gilgal \tc2 \tc3 (Benjamin) \tc4 [4-19-N] [6-19-N]
+\tr \tc1 Gilgal \tc2 \tc3 (Ephraim) \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Gilgal \tc2 \tc3 (near River Kanah) \tc4 [4-18-M] [6-18-M]
+\tr \tc1 Giloh \tc2 \tc3 \tc4 [4-19-N]:[5-7-G] [6-19-N]:[5-7-G] [12-4-E]
+\tr \tc1 Gimzo \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Girgashites \tc2 \tc3 \tc4 [2-7-F]
+\tr \tc1 Gittah-hepher \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Gittite \tc2 \it see\it* \tc3 (Gath)
+\tr \tc1 Gittite \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Gob \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Golan \tc2 \tc3 \tc4 [4-20-L] [6-20-L]
+\tr \tc1 Golgotha \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Gomer \tc2 \tc3 \tc4 [1-7-C]
+\tr \tc1 Gortyna \tc2 \tc3 \tc4 [14-8-D]
+\tr \tc1 Goshen \tc2 \it see\it* \tc3 (Gesem)
+\tr \tc1 Goshen \tc2 \tc3 (Egypt) \tc4 [3-3-H]
+\tr \tc1 Goshen \tc2 \tc3 (Judah) \tc4 [4-18-O]
+\tr \tc1 Gozan \tc2 \tc3 \tc4 [7-12-D]
+\tr \tc1 Great Sea \tc2 \tc3 \tc4 [3-3-G] [4-18-M] [6-18-M] [14-7-E]
+\tr \tc1 Great Sea \tc2 \tc3 \tc4 [7-10-E] [3-3-G] [14-7-E]
+\tr \tc1 Grecia \tc2 \tc3 \tc4 [9-8-D] [10-8-D] [14-8-D]
+\tr \tc1 Greece \tc2 \it see\it* \tc3 (Grecia)
+\tr \tc1 Gudgodah \tc2 \it see\it* \tc3 (Hor-hagidgad)
+\tr \tc1 Gudgodah \tc2 \tc3 (?) \tc4 [3-7-H]
+\tr \tc1 Habor \tc2 \tc3 (?) \tc4 [7-12-D]
+\tr \tc1 Hachilali \tc2 \it hill\it* \tc3 \tc4 [4-19-O] [6-19-O]
+\tr \tc1 Hadad-rimmon \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Hadashah \tc2 \tc3 \tc4 [12-6-B]
+\tr \tc1 Hadid \tc2 \it see\it* \tc3 (Adida)
+\tr \tc1 Hadid \tc2 \it see\it* \tc3 (Adithaim)
+\tr \tc1 Hadid \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Hadoram \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Hal \tc2 \tc3 \tc4 [2-7-G] [12-7-B]
+\tr \tc1 Halah \tc2 \tc3 (?) \tc4 [7-12-D]
+\tr \tc1 Halak \tc2 mount \tc3 (?) \tc4 [5-7-H]
+\tr \tc1 Halhul \tc2 \tc3 \tc4 [4-19-N] [12-6-F]
+\tr \tc1 Hall \tc2 \tc3 \tc4 [4-19-K]
+\tr \tc1 Ham \tc2 \it city\it* \tc3 \tc4 [2-7-G]
+\tr \tc1 Ham \tc2 \it land\it* \tc3 (Ps. 105:23) \tc4 [3-3-H]
+\tr \tc1 Hamath \tc2 \it see\it* \tc3 (Zedad)
+\tr \tc1 Hamath \tc2 \it land\it* \tc3 \tc4 [5-8-D]
+\tr \tc1 Hamath \tc2 \it see\it* \tc3 (Hemath)
+\tr \tc1 Hamath \tc2 \it pass\it* \tc3 \tc4 [5-8-C] [7-11-D]
+\tr \tc1 Hamath \tc2 \it pass\it* \tc3 (Ezek. 48:1) \tc4 [5-8-D]
+\tr \tc1 Hamath the Great \tc2 \it see\it* \tc3 (Hamath)
+\tr \tc1 Hamathites \tc2 \tc3 \tc4 [2-8-D]
+\tr \tc1 Hammath \tc2 \it see\it* \tc3 (Hammoth-dor)
+\tr \tc1 Hammath \tc2 \tc3 \tc4 [4-20-L]
+\tr \tc1 Hammon \tc2 \tc3 (Aslier) \tc4 [4-19-K]
+\tr \tc1 Hammon \tc2 \tc3 (Naphtali) \tc4 [6-20-E]
+\tr \tc1 Hammoth-dor \tc2 \tc3 \tc4 [4-20-L]
+\tr \tc1 Hanes \tc2 \tc3 \tc4 [3-4-H]
+\tr \tc1 Hannathon \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Haphraim or Hapharaim \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Har-Magedon \tc2 \it see\it* \tc3 (Armageddon)
+\tr \tc1 Har-Magedon \tc2 \tc3 \tc4 [13-19-L]
+\tr \tc1 Hara \tc2 \tc3 \tc4 [7-11-D]
+\tr \tc1 Haran \tc2 \it see\it* \tc3 (Charran)
+\tr \tc1 Haran \tc2 \tc3 \tc4 [1-7-D] [7-11-D] [14-11-D]
+\tr \tc1 Hareth \tc2 \it see\it* \tc3 (Hereth)
+\tr \tc1 Hareth \tc2 \tc3 \tc4 [4-19-N] [6-19-N] [12-4-E]
+\tr \tc1 Hari’oth-jair \tc2 \it see\it* \tc3 (Bashan-havoth-jair)
+\tr \tc1 Harod \tc2 \it well or spring\it* \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Harosheth \tc2 \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Hauran \tc2 \tc3 \tc4 [6-21-L]
+\tr \tc1 Havilah E. of Shur \tc2 \tc3 \tc4 [5-6-H]
+\tr \tc1 Havilah \tc2 \tc3 (Arabia) \tc4 [1-8-F]
+\tr \tc1 Havilah \tc2 \tc3 (Armenia) \tc4 [1-8-C]
+\tr \tc1 Havilah \tc2 \tc3 (Gush) \tc4 [1-8-F]
+\tr \tc1 Havoth-jair \tc2 \tc3 \tc4 [5-8-F] [6-21-L]
+\tr \tc1 Havvoth-jair \tc2 \it see\it* \tc3 (Jair)
+\tr \tc1 Hawoth-jair \tc2 \it see\it* \tc3 (Havoth-jair)
+\tr \tc1 Hazar-shual \tc2 \tc3 (?) \tc4 [6-18-N]
+\tr \tc1 Hazar-susah \tc2 \tc3 (Hazarsusim) \tc4 [6-17-O]
+\tr \tc1 Hazar-susim \tc2 \it see\it* \tc3 (Sansannah)
+\tr \tc1 Hazarmaveth \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Hazazon-tamar \tc2 \it see\it* \tc3 (Hazezon-tamar)
+\tr \tc1 Hazazon-tamar \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Hazeroth \tc2 \tc3 \tc4 [3-6-K]
+\tr \tc1 Hazezon-tamar \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Hazor \tc2 \it see\it* \tc3 (Aser)
+\tr \tc1 Hazor \tc2 \it see\it* \tc3 (Nasor)
+\tr \tc1 Hazor \tc2 \tc3 (Benjamin) \tc4 [12-6-C]
+\tr \tc1 Hazor \tc2 \tc3 (Naphtali) \tc4 [4-19-K] [6-19-K]
+\tr \tc1 Hazor \tc2 \tc3 (Neh. 11:33) \tc4 [12-6-O]
+\tr \tc1 Hebron \tc2 \it see\it* \tc3 (Arba)
+\tr \tc1 Hebron \tc2 \it see\it* \tc3 (Ebron)
+\tr \tc1 Hebron \tc2 \it see\it* \tc3 (Kirjath-arba)
+\tr \tc1 Hebron \tc2 \it see\it* \tc3 (Ku-iath-arba)
+\tr \tc1 Hebron \tc2 \tc3 (Judah) \tc4 [2-7-G] [3-7-G] [5-7-G] [4-19-N] [6-19-N] [13-19-N] [12-5-F]
+\tr \tc1 Hebron \tc2 \tc3 \tc4 [4-19-K] [6-19-K]
+\tr \tc1 Helbon \tc2 \tc3 \tc4 [5-8-E]
+\tr \tc1 Heleph \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Helkath \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Hemath \tc2 \tc3 \tc4 [5-8-D]
+\tr \tc1 Hena \tc2 \tc3 \tc4 [7-12-E]
+\tr \tc1 Hepher \tc2 \tc3 \tc4 [12-4-E]
+\tr \tc1 Heres \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Hereth \tc2 \it see\it* \tc3 (Hareth)
+\tr \tc1 Hereth \tc2 \tc3 \tc4 [12-4-E]
+\tr \tc1 Hermon \tc2 \it mountain\it* \tc3 \tc4 [5-7-E] [6-20-K]
+\tr \tc1 Hermonites \tc2 \it see\it* \tc3 (Hermons)
+\tr \tc1 Hermons \tc2 \it mountain range\it* \tc3 \tc4 [6-20-K]
+\tr \tc1 Heshbon \tc2 \it see\it* \tc3 (Esebon)
+\tr \tc1 Heshbon \tc2 \tc3 \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Heth \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Hiddekel \tc2 \it river\it* \tc3 \tc4 [1-8-D]
+\tr \tc1 Hierapolis \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Hiikok \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Hilen \tc2 \it see\it* \tc3 (Holon)
+\tr \tc1 Hilen \tc2 \tc3 (?) \tc4 [6-18-N]
+\tr \tc1 Hinder Sea \tc2 \it see\it* \tc3 (Great Sea)
+\tr \tc1 Hinnom \tc2 \it valley\it* \tc3 \tc4 [13-20-O]
+\tr \tc1 Hittites \tc2 \it see\it* \tc3 (Heth)
+\tr \tc1 Hittites \tc2 \tc3 \tc4 [2-7-G] [2-8-D]
+\tr \tc1 Hivites \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Hobah \tc2 \tc3 \tc4 [6-21-I]
+\tr \tc1 Holon \tc2 \tc3 (Judah) \tc4 [6-18-N]
+\tr \tc1 Holy City \tc2 \tc3 (Nehemiah 11:1) \tc4 [13-20-O]
+\tr \tc1 Holy Land \tc2 \tc3 (Zechariah. 2:12) \tc4 [6-18-N]
+\tr \tc1 Hor \tc2 mountain \tc3 (Numbers 34:7) \tc4 [5-7-D]
+\tr \tc1 Hor \tc2 mountain \tc3 (near Petra) \tc4 [8-7-H] [6-7-H]
+\tr \tc1 Hor-haggidgad \tc2 \it see\it* \tc3 (Hor-hagidgad)
+\tr \tc1 Hor-hagidgad \tc2 \tc3 \tc4 [3-7-H]
+\tr \tc1 Horeb \tc2 \tc3 \tc4 [3-5-K]
+\tr \tc1 Horem \tc2 \tc3 \tc4 [4-19-K]
+\tr \tc1 Hori \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Horims \tc2 \it see\it* \tc3 (Hori)
+\tr \tc1 Horite \tc2 \it see\it* \tc3 (Hori)
+\tr \tc1 Horites \tc2 \it see\it* \tc3 (Hori)
+\tr \tc1 Hormah \tc2 \tc3 (Simeon) \tc4 [4-18-O]
+\tr \tc1 Hosah \tc2 \tc3 \tc4 [4-19-K]
+\tr \tc1 Hukkok \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Hul \tc2 \tc3 \tc4 [1-7-D] [2-7-E]
+\tr \tc1 Huzzab \tc2 \tc3 \tc4 [7-12-D]
+\tr \tc1 Ibleam \tc2 \it see\it* \tc3 (Bileam)
+\tr \tc1 Ibleam \tc2 \it see\it* \tc3 (Gath-rimmon)
+\tr \tc1 Ibleam \tc2 \tc3 (?) \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Iconium \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Idalah \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Idumea \tc2 \tc3 \tc4 [7-11-E]
+\tr \tc1 Idumtea \tc2 \tc3 \tc4 [14-11-E]
+\tr \tc1 Iim \tc2 \it see\it* \tc3 (Ije-abarim)
+\tr \tc1 Iim \tc2 \it see\it* \tc3 (lyim)
+\tr \tc1 Ije-abarim \tc2 \tc3 (?) \tc4 [3-7-H]
+\tr \tc1 Ijon \tc2 \tc3 \tc4 [6-20-K]
+\tr \tc1 Illyrieum \tc2 \tc3 \tc4 [11-7-C] [14-7-C]
+\tr \tc1 India \tc2 \tc3 \tc4 [9-17-F] [10-17-F]
+\tr \tc1 Ir-shemesh \tc2 \tc3 \tc4 [4-18-N] [12-3-D]
+\tr \tc1 Iron \tc2 \tc3 \tc4 [4-19-K]
+\tr \tc1 Irpeel \tc2 \tc3 \tc4 [12-6-B]
+\tr \tc1 Ish-tob \tc2 \it see\it* \tc3 (Tob)
+\tr \tc1 Ish-tob \tc2 \tc3 \tc4 [6-20-L]
+\tr \tc1 Israel \tc2 \it kingdom\it* \tc3 \tc4 [6-19-M]
+\tr \tc1 Israel \tc2 \it mountains\it* \tc3 \tc4 [6-19-M]
+\tr \tc1 Issachar \tc2 \it allotment\it* \tc3 \tc4 [4-19-M]
+\tr \tc1 Italy \tc2 \tc3 \tc4 [14-6-C]
+\tr \tc1 Ithlab \tc2 \it see\it* \tc3 (Jethlah)
+\tr \tc1 Ithlah \tc2 \tc3 \tc4 [12-4-C]
+\tr \tc1 Ittah-kazin \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Ivah \tc2 \tc3 \tc4 [7-12-E]
+\tr \tc1 Ivvah \tc2 \it see\it* \tc3 (Ivah)
+\tr \tc1 Iye-abarim \tc2 \it see\it* \tc3 (Ije-abarim)
+\tr \tc1 Iye-abarim \tc2 \it see\it* \tc3 (lyim)
+\tr \tc1 Iyim \tc2 \it see\it* \tc3 (Ije-abarim)
+\tr \tc1 Iyim \tc2 \tc3 \tc4 [3-7-H]
+\tr \tc1 Jaazer \tc2 \tc3 \tc4 [4-20-N] [6-20-N] [5-7-G]
+\tr \tc1 Jabbok \tc2 \it river\it* \tc3 \tc4 [2-7-F]: [4-20-M] [6-20-M] [5-7-F]: [4-20-M] [6-20-M]
+\tr \tc1 Jabesh \tc2 \tc3 \tc4 [4-20-M] [6-20-M] [5-7-F]
+\tr \tc1 Jabesh-Gilead \tc2 \it see\it* \tc3 (Jabesh)
+\tr \tc1 Jabneel \tc2 \tc3 (Judah) \tc4 [4-18-N]
+\tr \tc1 Jabneel \tc2 \tc3 (Naphtali) \tc4 [4-20-L]
+\tr \tc1 Jabneh \tc2 \it see\it* \tc3 (Jemnaan)
+\tr \tc1 Jabneh \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Jacob’s Well \tc2 \tc3 \tc4 [13-19-M]
+\tr \tc1 Jahaz \tc2 \it see\it* \tc3 (Jahaza)
+\tr \tc1 Jahaz \tc2 \tc3 (?) \tc4 [4-20-O] [6-20-O]
+\tr \tc1 Jahaza \tc2 \tc3 \tc4 [4-20-O] [6-20-O]
+\tr \tc1 Jahazah \tc2 \it see\it* \tc3 (Jahaza)
+\tr \tc1 Jahzah \tc2 \it see\it* \tc3 (Jahaza)
+\tr \tc1 Jair \tc2 \it towns\it* \tc3 \tc4 [6-21-L]
+\tr \tc1 Janim \tc2 \it see\it* \tc3 (Janum)
+\tr \tc1 Janoah \tc2 \it see\it* \tc3 (Janohah)
+\tr \tc1 Janoah \tc2 \tc3 (Ephraim) (2 Kin. 15:29) \tc4 [6-19-K]
+\tr \tc1 Janohah \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Janum \tc2 \tc3 \tc4 [4-19-N] [12-5-F]
+\tr \tc1 Japhia \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Japho \tc2 \tc3 \tc4 [4-18-M]
+\tr \tc1 Jarania \tc2 \tc3 \tc4 [13-18-N]
+\tr \tc1 Jarmuth \tc2 \tc3 (Issachar) \tc4 [4-19-L]
+\tr \tc1 Jarmuth \tc2 \tc3 (Judah) \tc4 [4-18-N] [12-3-D]
+\tr \tc1 Jattir \tc2 \tc3 \tc4 [4-19-O] [6-19-O]
+\tr \tc1 Javan \tc2 \tc3 \tc4 [1-6-D]
+\tr \tc1 Jazar \tc2 \tc3 \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Jazer \tc2 \it see\it* \tc3 (Jaazer)
+\tr \tc1 Jazer \tc2 \it see\it* \tc3 (Jazar)
+\tr \tc1 Jearim \tc2 \it mountain\it* \tc3 \tc4 [12-4-C]
+\tr \tc1 Jebus \tc2 \tc3 \tc4 [3-7-G] [4-19-N] [6-19-N]
+\tr \tc1 Jebusi \tc2 \it see\it* \tc3 (Jebus)
+\tr \tc1 Jebusite \tc2 \it see\it* \tc3 (Jebus)
+\tr \tc1 Jebusites \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Jegar-sahadutha \tc2 \tc3 \tc4 [2-7-F]
+\tr \tc1 Jehud \tc2 \tc3 \tc4 [4-18-M]
+\tr \tc1 Jemnaan \tc2 \tc3 (?) \tc4 [6-18-N]
+\tr \tc1 Jerah \tc2 \tc3 \tc4 [1-9-F]
+\tr \tc1 Jerechus \tc2 \it see\it* \tc3 (Jericho)
+\tr \tc1 Jericho \tc2 \it see\it* \tc3 (City of Palm trees)
+\tr \tc1 Jericho \tc2 \tc3 \tc4 [3-7-G] [5-7-G] [4-19-N] [6-19-N] [13-19-N]
+\tr \tc1 Jericho \tc2 fountain or spring \tc3 (2 Kin. 2:21) \tc4 [6-19-N]
+\tr \tc1 Jerusalem \tc2 \it see\it* \tc3 (Holy City)
+\tr \tc1 Jerusalem \tc2 \it see\it* \tc3 (Jebus)
+\tr \tc1 Jerusalem \tc2 \it see\it* \tc3 (Judaea)
+\tr \tc1 Jerusalem \tc2 \it see\it* \tc3 (Salem)
+\tr \tc1 Jerusalem \tc2 \it see\it* \tc3 (Zion)
+\tr \tc1 Jerusalem \tc2 \tc3 \tc4 [3-7-G] [4-19-N] [5-7-G] [6-19-N] [7-11-E] [8-11-E] [9-11-E] [12-6-C] [13-19-N] [14-11-E]
+\tr \tc1 Jeshanah \tc2 \tc3 \tc4 [4-19-N] [6-19-N]
+\tr \tc1 Jeshimon \tc2 \it desert\it* \tc3 \tc4 [4-19-N] [6-19-N]
+\tr \tc1 Jeshua \tc2 \tc3 \tc4 [6-18-O]
+\tr \tc1 Jethlah \tc2 \it see\it* \tc3 (Ithlah)
+\tr \tc1 Jethlah \tc2 \tc3 \tc4 [12-4-C]
+\tr \tc1 Jewry \tc2 \tc3 \tc4 [13-19-N]
+\tr \tc1 Jezreel \tc2 \it valley\it* \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Jezreel \tc2 \tc3 (Issachar) \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Jezreel \tc2 \tc3 (Judah) \tc4 [4-19-O] [6-19-O]
+\tr \tc1 Jobab \tc2 \tc3 \tc4 [1-9-F]
+\tr \tc1 Jogbehah \tc2 \tc3 \tc4 [4-20-M] [6-20-M]
+\tr \tc1 Jokneam \tc2 \it see\it* \tc3 (Cyamon)
+\tr \tc1 Jokneam \tc2 \tc3 (Zebulun) \tc4 [4-19-L]
+\tr \tc1 Jokraeam \tc2 \tc3 (1 Chron. 6:68) Kibbiah (?) \tc4 [4-19-N]
+\tr \tc1 Joktan \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Joktheel \tc2 \tc3 (Petra) \tc4 [7-11-E]
+\tr \tc1 Joppa \tc2 \it see\it* \tc3 (Japho)
+\tr \tc1 Joppa \tc2 \it see\it* \tc3 (Joppe)
+\tr \tc1 Joppa \tc2 \tc3 \tc4 [5-6-F] [4-18-M] [6-18-M] [13-18-M] [7-10-E] [14-10-E]
+\tr \tc1 Joppe \tc2 \tc3 \tc4 [13-18-M]
+\tr \tc1 Jordan \tc2 \it river\it* \tc3 \tc4 [2-7-F] [4-20-L] [5-7-F] [6-20-L] [7-11-E] [13-20-L] [14-11-E]
+\tr \tc1 Jordan \tc2 \it valley\it* \tc3 \tc4 [2-7-G] [4-20-M] [6-20-M]
+\tr \tc1 Juda \tc2 \tc3 \tc4 [13-19-N]
+\tr \tc1 Judaea \tc2 \it see\it* \tc3 (Jewry)
+\tr \tc1 Judaea \tc2 \it see\it* \tc3 (Juda)
+\tr \tc1 Judaea \tc2 \it see\it* \tc3 (Wilderness of Judaea)
+\tr \tc1 Judaea \tc2 \it wilderness\it* \tc3 \tc4 [13-19-N]
+\tr \tc1 Judaea \tc2 \tc3 (Luke 21:21) \tc4 [13-19-N]
+\tr \tc1 Judaea \tc2 \tc3 \tc4 [13-19-N]
+\tr \tc1 Judaea beyond Jordan \tc2 \tc3 \tc4 [13-20-M]
+\tr \tc1 Judah \tc2 \it allotment\it* \tc3 \tc4 [4-19-N]
+\tr \tc1 Judah \tc2 \it city\it* \tc3 \tc4 [13-20-O]
+\tr \tc1 Judah \tc2 \it kingdom\it* \tc3 \tc4 [6-19-N] [7-11-E]
+\tr \tc1 Judah \tc2 \it see\it* \tc3 (Wilderness of Judah)
+\tr \tc1 Judah \tc2 \it wilderness\it* \tc3 \tc4 [6-19-O]
+\tr \tc1 Jutah \tc2 \tc3 \tc4 [4-19-O]
+\tr \tc1 Juttah \tc2 \it see\it* \tc3 (Jutah)
+\tr \tc1 Kades \tc2 \tc3 \tc4 [3-7-H]
+\tr \tc1 Kadesh \tc2 \it see\it* \tc3 (Kedesh)
+\tr \tc1 Kadesh \tc2 \tc3 (Numbers 20:14 to 16) \tc4 [3-7-H]
+\tr \tc1 Kadesh \tc2 wilderness \tc3 (Ps. 29:8) (Numbers 33:3) \tc4 [3-7-H]
+\tr \tc1 Kadesh-barnea \tc2 \it see\it* \tc3 (Cades-barne)
+\tr \tc1 Kadesh-barnea \tc2 \it see\it* \tc3 (En-mishpat)
+\tr \tc1 Kadesh-barnea \tc2 \it see\it* \tc3 (Kades)
+\tr \tc1 Kadesh-barnea \tc2 \it see\it* \tc3 (Kadesh)
+\tr \tc1 Kadesh-barnea \tc2 \it see\it* \tc3 (Meribah)
+\tr \tc1 Kain \tc2 \it see\it* \tc3 (Cain)
+\tr \tc1 Kain \tc2 \tc3 \tc4 [4-19-O]
+\tr \tc1 Kanah \tc2 \it river or brook\it* \tc3 \tc4 [4-19-M]
+\tr \tc1 Kanah \tc2 \tc3 \tc4 [4-19-K]
+\tr \tc1 Kartah \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Kattath \tc2 \tc3 (?) \tc4 [4-19-L]
+\tr \tc1 Kedesh \tc2 \it see\it* \tc3 (Cades)
+\tr \tc1 Kedesh \tc2 \tc3 (Issachar) \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Kedesh \tc2 \tc3 (Judah) \tc4 [3-7-H]
+\tr \tc1 Kedesh \tc2 \tc3 (Judg. 4:11) \tc4 [6-20-L]
+\tr \tc1 Kedesh \tc2 \tc3 (Naphtali) \tc4 [4-20-K] [6-20-K]
+\tr \tc1 Keilah \tc2 \tc3 \tc4 [4-19-N] [6-19-N] [5-7-G] [12-4-E]
+\tr \tc1 Kenath \tc2 \tc3 \tc4 [5-8-F]
+\tr \tc1 Kerioth \tc2 \tc3 (Judah) \tc4 [4-19-O]
+\tr \tc1 Kerioth \tc2 \tc3 (Moab) \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Kerioth-Kiriathaim \tc2 \it see\it* \tc3 (Kirioth)
+\tr \tc1 Kerioth-hezron \tc2 \it see\it* \tc3 (Kerioth)
+\tr \tc1 Ki-shion \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Kibbiah \tc2 \tc3 (Kibzaim)
+\tr \tc1 Kibzaim \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Kidron \tc2 \it brook\it* \tc3 \tc4 [12-6-C]
+\tr \tc1 Kidron \tc2 \it see\it* \tc3 (Cedron)
+\tr \tc1 Kidron valley \tc2 \it see\it* \tc3 (Maktesh)
+\tr \tc1 Kings garden \tc2 \tc3 (2 Kin. 25:4)\tc4 [13-20-O]
+\tr \tc1 King’s pool \tc2 \tc3 (Neh. 2:14) \tc4 [13-20-O]
+\tr \tc1 Kir of Moab \tc2 \tc3 \tc4 [3-7-G]
+\tr \tc1 Kir-haraseth \tc2 \it see\it* \tc3 (Kir of Moab)
+\tr \tc1 Kir-hareseth \tc2 \it see\it* \tc3 (Kir of Moab)
+\tr \tc1 Kir-haresh \tc2 \it see\it* \tc3 (Kir of Moab)
+\tr \tc1 Kir-heres \tc2 \it see\it* \tc3 (Kir of Moab)
+\tr \tc1 Kiriath-arba \tc2 \it see\it* \tc3 (Kirjath-arba)
+\tr \tc1 Kiriath-baal \tc2 \it see\it* \tc3 (Kirlath-arim)
+\tr \tc1 Kiriath-jearim \tc2 \tc3 \tc4 [4-19-N] [12-5-C]
+\tr \tc1 Kiriath-sannah \tc2 \tc3 \tc4 [4-18-O] [6-18-O]
+\tr \tc1 Kiriath-sepher \tc2 \it see\it* \tc3 (Kiriath-sannah)
+\tr \tc1 Kiriathaim \tc2 \it see\it* \tc3 (Kirjathaim)
+\tr \tc1 Kiriathaim \tc2 \tc3 \tc4 [2-7-G] [4-20-N] [6-20-N]
+\tr \tc1 Kiriathaini \tc2 \it see\it* \tc3 (Kerioth)
+\tr \tc1 Kiriathiarius \tc2 \it see\it* \tc3 (Kirlath-arim)
+\tr \tc1 Kirioth \tc2 \tc3 \tc4 [6-20-N]
+\tr \tc1 Kirjath jearim \tc2 \it see\it* \tc3 (Kirjath-arim)
+\tr \tc1 Kirjath-arba 2,\tc2 \tc3 \tc4 [5-7-G] [4-19-N] [6-19-N]
+\tr \tc1 Kirjath-arim \tc2 \tc3 \tc4 [5-19-N] [12-5-G]
+\tr \tc1 Kirjath-baal \tc2 \it see\it* \tc3 (Kirjath-arim)
+\tr \tc1 Kirjath-jeaiim \tc2 \it see\it* \tc3 (Baalah)
+\tr \tc1 Kirjath-jearim \tc2 \it see\it* \tc3 (Kiriath-jearim)
+\tr \tc1 Kirjath-jearim \tc2 \it see\it* \tc3 (Kirlath-arim)
+\tr \tc1 Kirjath-jearim \tc2 \tc3 \tc4 [4-19-N] [6-19-N] [12-5-C]
+\tr \tc1 Kirjath-sannah \tc2 \tc3 \tc4 [4-18-O]
+\tr \tc1 Kirjath-sephcr \tc2 \tc3 \tc4 [4-18-O] [6-18-O]
+\tr \tc1 Kirjathaim \tc2 \tc3 (Reuben) \tc4 [4-20-N]
+\tr \tc1 Kirlath-arim \tc2 \tc3 \tc4 [12-5-C]
+\tr \tc1 Kishon \tc2 \it river\it* \tc3 \tc4 [6-19-L]
+\tr \tc1 Kishon \tc2 \it see\it* \tc3 (Ki-shion)
+\tr \tc1 Kison \tc2 \it see\it* \tc3 (Kishon)
+\tr \tc1 Kitron \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Kittim \tc2 \it see\it* \tc3 (Chittim)
+\tr \tc1 Kittim \tc2 \tc3 (Cyprus) \tc4 [1-7-D]
+\tr \tc1 Ku-iath-arba \tc2 \tc3 \tc4 [2-7-G] [4-19-N] [6-19-N]
+\tr \tc1 Kustul \tc2 \it see\it* \tc3 (Aphek)
+\tr \tc1 Lachish \tc2 \tc3 (2 Kin. 13:14) (Neh. 11:30) \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Lahmam \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Laish \tc2 \tc3 (Dan) \tc4 [4-20-K] [6-20-K]
+\tr \tc1 Laish or Laishah \tc2 \tc3 (Benjamin) Adasa (?) \tc4 [12-6-B]
+\tr \tc1 Lake of Gennesaret \tc2 \it see\it* \tc3 (Gennesar)
+\tr \tc1 Land of Philistines \tc2 \it see\it* \tc3 (Philistia)
+\tr \tc1 Laodicea \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Lasea \tc2 \tc3 \tc4 [14-8-E]
+\tr \tc1 Lasha \tc2 \tc3 (?) \tc4 [2-7-G] [4-20-N]
+\tr \tc1 Lasharon \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Lassharon \tc2 \it see\it* \tc3 (Lasharon)
+\tr \tc1 Lebanon \tc2 \it mountain\it* \tc3 \tc4 [5-7-E] [6-20-I]
+\tr \tc1 Lebanon \tc2 \it see\it* \tc3 (Aven)
+\tr \tc1 Lebanon \tc2 \it valley\it* \tc3 \tc4 [6-20-I]
+\tr \tc1 Lebanon \tc2 mountain \tc3 (Judg. 3:3) (Josh. 13:5) \tc4 [6-20-K]
+\tr \tc1 Lebanon toward the Sunrising \tc2 \it see\it* \tc3 (Lebanon)
+\tr \tc1 Lebaoth \tc2 \tc3 \tc4 [4-18-O]
+\tr \tc1 Lebonah \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Lehabim \tc2 \it see\it* \tc3 (Lubim)
+\tr \tc1 Lehabim \tc2 \tc3 \tc4 [1-6-D]
+\tr \tc1 Leshem \tc2 \tc3 \tc4 [4-20-K]
+\tr \tc1 Libanus \tc2 \it mountain\it* \tc3 \tc4 [6-20-I]
+\tr \tc1 Libya \tc2 \tc3 \tc4 [1-5-D] [11-8-E] [14-8-E]
+\tr \tc1 Libyans \tc2 \tc3 \tc4 [1-5-D]
+\tr \tc1 Liiz \tc2 \tc3 (Judg. 1:26) \tc4 [6-20-K]
+\tr \tc1 Lo-debar \tc2 \tc3 (?) \tc4 [6-20-M]
+\tr \tc1 Lubim \tc2 \tc3 \tc4 [1-6-D]
+\tr \tc1 Lubims \tc2 \it see\it* \tc3 (Lubim)
+\tr \tc1 Lud \tc2 \it see\it* \tc3 (Lydia)
+\tr \tc1 Lud \tc2 \tc3 \tc4 [1-6-D]
+\tr \tc1 Ludim \tc2 \it see\it* \tc3 (Lydians)
+\tr \tc1 Ludim \tc2 \tc3 \tc4 [1-6-D]
+\tr \tc1 Luhith \tc2 \tc3 (?) \tc4 [6-20-O]
+\tr \tc1 Luz \tc2 \tc3 (Bethel) \tc4 [2-7-G] [4-19-N] [6-19-N]
+\tr \tc1 Lycaonia \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Lycia \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Lydda \tc2 \tc3 \tc4 [13-18-N]
+\tr \tc1 Lydia \tc2 \tc3 (1 Macc. 8:8) \tc4 [9-9-D] [10-9-D] [14-9-D]
+\tr \tc1 Lydia \tc2 \tc3 (Ezekiel 30:5) \tc4 [1-6-D]
+\tr \tc1 Lydians \tc2 \tc3 (Jeremiah 46:9) \tc4 [1-6-D]
+\tr \tc1 Lystra \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Maacah \tc2 \it see\it* \tc3 (Beth-maacah)
+\tr \tc1 Maacah \tc2 \tc3 \tc4 [5-8-E]
+\tr \tc1 Maacathitpa \tc2 \it see\it* \tc3 (Maachathi)
+\tr \tc1 Maachah \tc2 \it see\it* \tc3 (Maacah)
+\tr \tc1 Maachathi \tc2 \tc3 \tc4 [6-8-E]
+\tr \tc1 Maachathitec \tc2 \it see\it* \tc3 (Maachathi)
+\tr \tc1 Maaeah \tc2 \it see\it* \tc3 (Maachathi)
+\tr \tc1 Maaleh-acrabbim \tc2 \it ascent\it* \tc3 \tc4 [6-19-P]
+\tr \tc1 Maarath \tc2 \tc3 \tc4 [4-19-N] [12-5-E]
+\tr \tc1 Macalon \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Macedonia \tc2 \it see\it* \tc3 (Chettiim)
+\tr \tc1 Macedonia \tc2 \tc3 \tc4 [10-8-C] [11-8-C] [14-8-C]
+\tr \tc1 Machmas \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Machpelah \tc2 \tc3 \tc4 [2-7-G] [12-5-F]
+\tr \tc1 Madai \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Madian \tc2 \tc3 \tc4 [1-7-E]
+\tr \tc1 Madmannah \tc2 \tc3 \tc4 [4-18-O]
+\tr \tc1 Magadan \tc2 \tc3 \tc4 [13-20-L]
+\tr \tc1 Magdala \tc2 \it see\it* \tc3 (Magadan)
+\tr \tc1 Magiddo \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Magog \tc2 \tc3 \tc4 [1-8-C]
+\tr \tc1 Mahanaim \tc2 \tc3 (?) \tc4 [5-7-F]
+\tr \tc1 Makkedah \tc2 \tc3 (?) \tc4 [4-18-N]
+\tr \tc1 Maktesh \tc2 \it valley\it* \tc3 \tc4 [13-19-N]
+\tr \tc1 Manare \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Manasseh \tc2 \it allotment\it* \tc3 \tc4 [4-19-M]
+\tr \tc1 Manasseh \tc2 \it see\it* \tc3 (Manassites)
+\tr \tc1 Manasses \tc2 \it see\it* \tc3 (Manasseh)
+\tr \tc1 Manassites \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Maon \tc2 \tc3 \tc4 [4-19-O] [6-19-O]
+\tr \tc1 Marah \tc2 \tc3 (?) \tc4 [3-4-I]
+\tr \tc1 Mareshah \tc2 \it see\it* \tc3 (Marisa)
+\tr \tc1 Mareshah \tc2 \it see\it* \tc3 (Moresheth-gath)
+\tr \tc1 Marisa \tc2 \tc3 \tc4 [4-18-N] [6-18-N]
+\tr \tc1 Market of Appius \tc2 \it see\it* \tc3 (Appii Forum)
+\tr \tc1 Mash \tc2 \it see \it* \tc3 ((Shemite))
+\tr \tc1 Mash \tc2 \tc3 \tc4 [1-7-D]
+\tr \tc1 Mashal \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Maspha \tc2 \tc3 (Benjamin) \tc4 [12-6-C]
+\tr \tc1 Maspha \tc2 \tc3 (Gilead) \tc4 [6-20-M]
+\tr \tc1 Mattanah \tc2 \tc3 (?) \tc4 [4-20-N]
+\tr \tc1 Mcdaba \tc2 \tc3 \tc4 [4-20-N] [6-20-N]
+\tr \tc1 Me-jarkon \tc2 \tc3 \tc4 [4-18-M]
+\tr \tc1 Meconah \tc2 \it see\it* \tc3 (Mekonah)
+\tr \tc1 Medeba \tc2 \it see\it* \tc3 (Mcdaba)
+\tr \tc1 Media \tc2 \tc3 \tc4 [9-13-E] [10-13-E]
+\tr \tc1 Median Empire \tc2 \tc3 \tc4 [9-13-D]
+\tr \tc1 Megiddo \tc2 \it see\it* \tc3 (Magiddo)
+\tr \tc1 Megiddo \tc2 \it see\it* \tc3 (Megiddon)
+\tr \tc1 Megiddon \tc2 \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Mekonah \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Melita \tc2 \tc3 \tc4 [14-6-D]
+\tr \tc1 Memphis \tc2 \tc3 \tc4 [3-3-I] [14-10-F]
+\tr \tc1 Mephaath \tc2 \tc3 (?) \tc4 [4-20-N]
+\tr \tc1 Meribah \tc2 \tc3 (Wilderness of Zin) \tc4 [3-7-H]
+\tr \tc1 Meribah of Kadesh \tc2 \it see\it* \tc3 (Meribah)
+\tr \tc1 Meribah-Kadesh \tc2 \it see\it* \tc3 (Meribah)
+\tr \tc1 Meribath-kadesh \tc2 \it see\it* \tc3 (Meribah)
+\tr \tc1 Meriboth-kadesh \tc2 \it see\it* \tc3 (Meribah)
+\tr \tc1 Merom \tc2 \it waters\it* \tc3 \tc4 [4-20-K]
+\tr \tc1 Meronoth \tc2 \tc3 \tc4 [12-5-E]
+\tr \tc1 Meroz \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Mesech \tc2 \tc3 (Japhetic) \tc4 [1-8-C]
+\tr \tc1 Mesha \tc2 \tc3 \tc4 [1-8-E]
+\tr \tc1 Meshech \tc2 \it see\it* \tc3 (Mash)
+\tr \tc1 Meshech \tc2 \it see\it* \tc3 (Mesech)
+\tr \tc1 Meshech \tc2 \tc3 (Shemite) \tc4 [1-7-D]
+\tr \tc1 Mesopotamia \tc2 \it see\it* \tc3 (Aram-naharaim)
+\tr \tc1 Mesopotamia \tc2 \tc3 \tc4 [5-10-B] [7-12-D] [11-12-D]
+\tr \tc1 Metheg-ammah-Gath \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Michmas \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Michmash \tc2 \it see\it* \tc3 (Macalon)
+\tr \tc1 Michmash \tc2 \it see\it* \tc3 (Machmas)
+\tr \tc1 Michmash \tc2 \it see\it* \tc3 (Michmas)
+\tr \tc1 Midian \tc2 \it see\it* \tc3 (Madian)
+\tr \tc1 Midian \tc2 \tc3 \tc4 [1-7-E]
+\tr \tc1 Midianites \tc2 \tc3 \tc4 [3-6-K]
+\tr \tc1 Migdal-el \tc2 \tc3 \tc4 [4-19-K]
+\tr \tc1 Migdal-gad \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Migdol \tc2 \tc3 (Egypt) \tc4 [3-4-H]
+\tr \tc1 Migron \tc2 \tc3 \tc4 [12-7-B]
+\tr \tc1 Milctum \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Miletus \tc2 \it see\it* \tc3 (Milctum)
+\tr \tc1 Millo \tc2 \tc3 (?) \tc4 [13-20-O]
+\tr \tc1 Minni \tc2 \tc3 \tc4 [7-12-D]
+\tr \tc1 Minnith \tc2 \tc3 (?) \tc4 [6-20-N]
+\tr \tc1 Misgab \tc2 \tc3 \tc4 [6-20-M]
+\tr \tc1 Misheal or Mishal \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Misrephoth-maim \tc2 \tc3 \tc4 [6-19-K]
+\tr \tc1 Mitylene \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Mizpah \tc2 \tc3 (Benjamin) \tc4 [12-6-G]
+\tr \tc1 Mizpah \tc2 \tc3 (in Gilead) \tc4 [6-20-M]
+\tr \tc1 Mizpah \tc2 \tc3 \tc4 [6-20-I]
+\tr \tc1 Mizpeh \tc2 \it see\it* \tc3 (Maspha)
+\tr \tc1 Mizpeh \tc2 \it see\it* \tc3 (Misgab)
+\tr \tc1 Mizpeh \tc2 \it see\it* \tc3 (Mizpah)
+\tr \tc1 Mizpeh \tc2 \tc3 (Benjamin) \tc4 [4-19-N] [6-19-N] [12-6-C]
+\tr \tc1 Mizpeh \tc2 \tc3 \tc4 [6-20-M]
+\tr \tc1 Mizpeh of Gilead \tc2 \it see\it* \tc3 (Mizpeh)
+\tr \tc1 Mizpeh of Moab \tc2 \tc3 \tc4 [6-20-O]
+\tr \tc1 Mizpehi, the land of \tc2 \it see\it* \tc3 (Mizpah)
+\tr \tc1 Mizraim \tc2 \tc3 \tc4 [1-7-E]
+\tr \tc1 Moab \tc2 \tc3 \tc4 [2-7-G] [5-7-G] [6-20-O]
+\tr \tc1 Modin \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Moladah \tc2 \tc3 (?) \tc4 [4-19-O] [6-19-O]
+\tr \tc1 Moreh \tc2 \it hill\it* \tc3 \tc4 [6-19-I]
+\tr \tc1 Moresheth-gath \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Moriah \tc2 \it mountain\it* \tc3 \tc4 [13-20-O]
+\tr \tc1 Mosera \tc2 \tc3 \tc4 [3-7-H]
+\tr \tc1 Moserab \tc2 \it see\it* \tc3 (Mosera)
+\tr \tc1 Moseroth \tc2 \it see\it* \tc3 (Mosera)
+\tr \tc1 Mount Ararat \tc2 \it see\it* \tc3 (Ararat)
+\tr \tc1 Mount Ariel \tc2 \it see\it* \tc3 (Ariel)
+\tr \tc1 Mount Ariel \tc2 \it see\it* \tc3 (Zion)
+\tr \tc1 Mount Carmel \tc2 \it see\it* \tc3 (Carmel)
+\tr \tc1 Mount Ebal \tc2 \it see\it* \tc3 (Ebal)
+\tr \tc1 Mount Ephraim \tc2 \it see\it* \tc3 (Ephraim)
+\tr \tc1 Mount Ephraim \tc2 \it see\it* \tc3 (Israel)
+\tr \tc1 Mount Esau \tc2 \it see\it* \tc3 (Esau)
+\tr \tc1 Mount Gerizim \tc2 \it see\it* \tc3 (Gerizim)
+\tr \tc1 Mount Gilboa \tc2 \it see\it* \tc3 (Gilboa)
+\tr \tc1 Mount Gilboa \tc2 \it see\it* \tc3 (Gilead)
+\tr \tc1 Mount Gilead \tc2 \it see\it* \tc3 (Gilead)
+\tr \tc1 Mount Hermon \tc2 \it see\it* \tc3 (Hermon)
+\tr \tc1 Mount Hermon \tc2 \it see\it* \tc3 (Senir)
+\tr \tc1 Mount Hermon \tc2 \it see\it* \tc3 (Shenir)
+\tr \tc1 Mount Hermon \tc2 \it see\it* \tc3 (Sion)
+\tr \tc1 Mount Hermon \tc2 \it see\it* \tc3 (Sirion)
+\tr \tc1 Mount Hermon \tc2 \it see\it* \tc3 (Zion)
+\tr \tc1 Mount Hor \tc2 \it see\it* \tc3 (Hor)
+\tr \tc1 Mount Hor \tc2 \it see\it* \tc3 (Mosera)
+\tr \tc1 Mount Jearim \tc2 \it see\it* \tc3 (Jearim)
+\tr \tc1 Mount Lebanon \tc2 \it see\it* \tc3 (Lebanon)
+\tr \tc1 Mount Libanus \tc2 \it see\it* \tc3 (Libanus)
+\tr \tc1 Mount Moriah \tc2 \it see\it* \tc3 (Moriah)
+\tr \tc1 Mount Moriah \tc2 \it see\it* \tc3 (Sion)
+\tr \tc1 Mount Moriah \tc2 \it see\it* \tc3 (Zion)
+\tr \tc1 Mount Nebo \tc2 \it see\it* \tc3 (Nebo)
+\tr \tc1 Mount Oreb \tc2 \it see\it* \tc3 (Oreb)
+\tr \tc1 Mount Seir \tc2 \it see\it* \tc3 (Esau)
+\tr \tc1 Mount Seir \tc2 \it see\it* \tc3 (Seir)
+\tr \tc1 Mount Sephar \tc2 \it see\it* \tc3 (Sephar)
+\tr \tc1 Mount Sinai \tc2 \it see\it* \tc3 (Oreb)
+\tr \tc1 Mount Sion \tc2 \it see\it* \tc3 (Sion)
+\tr \tc1 Mount Sion \tc2 \it see\it* \tc3 (Zion)
+\tr \tc1 Mount Tabor \tc2 \it see\it* \tc3 (Tabor)
+\tr \tc1 Mount Zalmon \tc2 \it see\it* \tc3 (Zalmon)
+\tr \tc1 Mount Zion \tc2 \it see\it* \tc3 (Zion)
+\tr \tc1 Mount of Olives \tc2 \it see\it* \tc3 (Olivet)
+\tr \tc1 Mozah \tc2 \tc3 \tc4 [4-19-N] [12-5-G]
+\tr \tc1 Mt. Baalah \tc2 \it see\it* \tc3 (Baalah)
+\tr \tc1 Mt. Hermon \tc2 \it see\it* \tc3 (Baal-hermon)
+\tr \tc1 Myra \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Mysia \tc2 \tc3 \tc4 [9-9-D] [10-9-D] [14-9-D]
+\tr \tc1 Naarah \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Naaran \tc2 \tc3 \tc4 [6-19-N]
+\tr \tc1 Naarath \tc2 \it see\it* \tc3 (Naarah)
+\tr \tc1 Nahalal \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Nahallal \tc2 \it see\it* \tc3 (Nahalal)
+\tr \tc1 Nahalol \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Nain \tc2 \tc3 \tc4 [13-19-L]
+\tr \tc1 Naphtali \tc2 \it allotment\it* \tc3 \tc4 [4-19-K]
+\tr \tc1 Naphtali \tc2 \it see\it* \tc3 (Nepthalim)
+\tr \tc1 Naphtuhim \tc2 \tc3 \tc4 [1-7-E]
+\tr \tc1 Nasor \tc2 \tc3 \tc4 [6-19-K]
+\tr \tc1 Nazareth \tc2 \tc3 \tc4 [13-19-L]
+\tr \tc1 Neah \tc2 \tc3 (?) \tc4 [4-19-L]
+\tr \tc1 Neapolis \tc2 \tc3 \tc4 [14-8-C]
+\tr \tc1 Nebaioth \tc2 \tc3 \tc4 [5-7-H]
+\tr \tc1 Neballat \tc2 \tc3 (?) \tc4 [6-18-N] [12-6-B]
+\tr \tc1 Nebo \tc2 \it mountain\it* \tc3 \tc4 [6-20-N]
+\tr \tc1 Neiel \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Nekeb \tc2 \tc3 (?) \tc4 [4-20-L]
+\tr \tc1 Nephthalira, also \tc2 \it see\it* \tc3 (Nepthali)
+\tr \tc1 Nephtoah \tc2 \tc3 \tc4 [12-6-C]
+\tr \tc1 Nepthalim \tc2 \tc3 \tc4 [13-19-L]
+\tr \tc1 Netophah \tc2 \tc3 (?) \tc4 [4-19-N] [13-6-D]
+\tr \tc1 Nezib \tc2 \tc3 \tc4 [4-18-N] [12-3-E]
+\tr \tc1 Nibshan \tc2 \tc3 \tc4 [12-6-D]
+\tr \tc1 Nicopolis \tc2 \tc3 \tc4 [14-8-D]
+\tr \tc1 Nile \tc2 \it river\it* \tc3 \tc4 [1-7-E] [3-3-K] [8-10-G]
+\tr \tc1 Nile \tc2 \it see\it* \tc3 (Shihor)
+\tr \tc1 Nile \tc2 \it see\it* \tc3 (Sihor)
+\tr \tc1 Nile \tc2 \it see\it* \tc3 (Yeor)
+\tr \tc1 Nimrah \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Nimrim \tc2 \tc3 (?) \tc4 [6-20-O]
+\tr \tc1 Nimrod \tc2 \it land\it* \tc3 \tc4 [1-8-D]
+\tr \tc1 Nineve \tc2 \tc3 \tc4 [1-8-D] [7-12-D]
+\tr \tc1 Nineveh \tc2 \it see\it* \tc3 (Nineve)
+\tr \tc1 Nineveh \tc2 \it see\it* \tc3 (Rehoboth-Ir)
+\tr \tc1 No \tc2 \tc3 \tc4 [1-8-D] [7-12-D]
+\tr \tc1 No-amon \tc2 \it see\it* \tc3 (No)
+\tr \tc1 Nob \tc2 \tc3 \tc4 [12-6-C]
+\tr \tc1 Noph \tc2 \tc3 \tc4 [3-3-I]
+\tr \tc1 Obal \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Oboth \tc2 \tc3 (?) \tc4 [3-7-H]
+\tr \tc1 Ocina \tc2 \tc3 \tc4 [6-19-L]
+\tr \tc1 Ocina\tc2 \it see\it* \tc3 (Accho)
+\tr \tc1 Odollam \tc2 \tc3 \tc4 [6-18-E] [12-3-E]
+\tr \tc1 Olivet \tc2 \tc3 \tc4 [12-6-C]
+\tr \tc1 On \tc2 \tc3 \tc4 [1-7-D] [3-3-H]
+\tr \tc1 Ono \tc2 \tc3 \tc4 [6-18-M]
+\tr \tc1 Onus \tc2 \it see\it* \tc3 (Ono)
+\tr \tc1 Ophel \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Ophir \tc2 \tc3 (?) \tc4 [1-8-F]
+\tr \tc1 Ophir \tc2 \tc3 (Uphaz)
+\tr \tc1 Ophrah \tc2 \it see\it* \tc3 (Ephrain)
+\tr \tc1 Ophrah \tc2 \it see\it* \tc3 (Ephron)
+\tr \tc1 Ophrah \tc2 \tc3 (Benjamin) \tc4 [4-19-N] [6-19-N] [12-7-A]
+\tr \tc1 Ophrah \tc2 \tc3 (Manasseh) \tc4 [6-19-M]
+\tr \tc1 Oreb \tc2 \it mountain\it* \tc3 \tc4 [3-5-K]
+\tr \tc1 Padan \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Padan-aram \tc2 \it see\it* \tc3 (Padan)
+\tr \tc1 Paddan \tc2 \it see\it* \tc3 (Padan)
+\tr \tc1 Paddan-aram \tc2 \it see\it* \tc3 (Padan)
+\tr \tc1 Palestina \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Palestine \tc2 \it see\it* \tc3 (Holy Land)
+\tr \tc1 Palestine \tc2 \it see\it* \tc3 (Palestina)
+\tr \tc1 Pamphylia \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Paphos \tc2 \tc3 \tc4 [14-10-E]
+\tr \tc1 Parah \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Paran \tc2 \it see\it* \tc3 (Wilderness of Paran)
+\tr \tc1 Paran \tc2 \it wilderness\it* \tc3 \tc4 [1-7-E] [5-6-H]
+\tr \tc1 Parthia \tc2 \tc3 \tc4 [1-9-D] [9-14-D] [10-14-D]
+\tr \tc1 Pas-dammim \tc2 \it see\it* \tc3 (Ephes-dammim)
+\tr \tc1 Pas-dammim \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Patara \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Pathros \tc2 \tc3 \tc4 [1-7-E]
+\tr \tc1 Pathruslm \tc2 \tc3 \tc4 [1-7-E]
+\tr \tc1 Patmos \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Peniel \tc2 \tc3 (?) \tc4 [2-7-F] [4-20-M] [6-20-M]
+\tr \tc1 Penuel \tc2 \it see\it* \tc3 (Peniel)
+\tr \tc1 Peor \tc2 \tc3 (?) \tc4 [4-20-N]
+\tr \tc1 Perea \tc2 \it see\it* \tc3 (Judaea beyond Jordan)
+\tr \tc1 Perga \tc2 \tc3 \tc4 [14-10-B]
+\tr \tc1 Pergamos \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Pergamum \tc2 \it see\it* \tc3 (Pergamos)
+\tr \tc1 Perizzites \tc2 \it see\it* \tc3 (Pheresites)
+\tr \tc1 Perizzites \tc2 \tc3 \tc4 [2-7-F]
+\tr \tc1 Persepolia \tc2 \tc3 \tc4 [1-9-E] [7-14-F] [9-14-F]
+\tr \tc1 Persia \tc2 \tc3 \tc4 [1-9-E] [9-14-F] [10-14-F]
+\tr \tc1 Pethor \tc2 \tc3 \tc4 [5-10-B]
+\tr \tc1 Petra \tc2 \it see\it* \tc3 (Sela)
+\tr \tc1 Petra \tc2 \tc3 \tc4 [3-7-H] [5-7-H]
+\tr \tc1 Pharathoni \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Pharpar \tc2 river \tc3 (?) \tc4 [6-21-K]
+\tr \tc1 Phenice \tc2 \it see\it* \tc3 (Phoenix)
+\tr \tc1 Phenice \tc2 \tc3 (Crete) \tc4 [14-8-D]
+\tr \tc1 Phenice \tc2 \tc3 \tc4 [14-11-E]
+\tr \tc1 Phenicia \tc2 \it see\it* \tc3 (Phenice)
+\tr \tc1 Pheresites \tc2 \tc3 \tc4 [2-7-F]
+\tr \tc1 Pherezites \tc2 \it see\it* \tc3 (Pheresites)
+\tr \tc1 Philadelphia \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Philippi \tc2 \tc3 \tc4 [11-8-C]
+\tr \tc1 Philisthines \tc2 \it see\it* \tc3 (Phllistim)
+\tr \tc1 Philistia \tc2 \it see\it* \tc3 (Palestina)
+\tr \tc1 Philistia \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Philistines \tc2 \it see\it* \tc3 (Palestina)
+\tr \tc1 Phison \tc2 \tc3 \tc4 [1-8-C]
+\tr \tc1 Phllistim \tc2 \tc3 \tc4 [1-7-D]: [2-6-G] [4-18-N] [6-18-N]
+\tr \tc1 Phoenice \tc2 \it see\it* \tc3 (Phoenicia)
+\tr \tc1 Phoenicia \tc2 \it see\it* \tc3 (Phenice)
+\tr \tc1 Phoenicia \tc2 \tc3 \tc4 [14-11-E]
+\tr \tc1 Phoenix \tc2 \it see\it* \tc3 (Phenice)
+\tr \tc1 Phoenix \tc2 \tc3 \tc4 [14-8-D]
+\tr \tc1 Phrygia \tc2 \tc3 \tc4 [9-10-D] [10-10-D] [14-10-D]
+\tr \tc1 Phud \tc2 \tc3 \tc4 [1-5-D]
+\tr \tc1 Phut \tc2 \tc3 \tc4 [1-5-D]
+\tr \tc1 Pi-beseth \tc2 \tc3 \tc4 [3-3-H]
+\tr \tc1 Pi-hahiroth \tc2 \tc3 \tc4 [3-4-H]
+\tr \tc1 Pirathon \tc2 \it see\it* \tc3 (Pharathoni)
+\tr \tc1 Pirathon \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Pisgah \tc2 \it see\it* \tc3 (Ashdoth-pisgah)
+\tr \tc1 Pisgah \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Pishon \tc2 \it see\it* \tc3 (Pison)
+\tr \tc1 Pisidia \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Pison \tc2 \it river\it* \tc3 \tc4 [1-8-C]
+\tr \tc1 Pison \tc2 \it see\it* \tc3 (Phison)
+\tr \tc1 Pithom \tc2 \tc3 \tc4 [3-4-H]
+\tr \tc1 Plain of Arabah \tc2 \tc3 (Deuteronomy 2:8) \tc4 [3-7-H]
+\tr \tc1 Plain of Jordan \tc2 \tc3 \tc4 [2-7-G]
+\tr \tc1 Pontus \tc2 \tc3 \tc4 [9-11-C] [10-11-C] [11-11-C] [14-11-C]
+\tr \tc1 Pool of Siloam \tc2 \it see\it* \tc3 (Shelah)
+\tr \tc1 Pool of Siloam \tc2 \it see\it* \tc3 (Shiloah)
+\tr \tc1 Potter’s field \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Ptolemais \tc2 \tc3 \tc4 [13-19-L] [14-11-E]
+\tr \tc1 Pul \tc2 \tc3 \tc4 [1-5-D]
+\tr \tc1 Punon \tc2 \tc3 (?) \tc4 [3-7-I]
+\tr \tc1 Put \tc2 \it see\it* \tc3 (Libya)
+\tr \tc1 Put \tc2 \it see\it* \tc3 (Libyans)
+\tr \tc1 Put \tc2 \it see\it* \tc3 (Phud)
+\tr \tc1 Put \tc2 \it see\it* \tc3 (Phut)
+\tr \tc1 Put \tc2 \it see\it* \tc3 (Pul)
+\tr \tc1 Put \tc2 \tc3 \tc4 [1-5-D]
+\tr \tc1 Puteoli \tc2 \tc3 \tc4 [14-6-C]
+\tr \tc1 Quicksands \tc2 \it see\it* \tc3 (Syrtis)
+\tr \tc1 Quicksands \tc2 \tc4 [14-7-E]
+\tr \tc1 Raamah \tc2 \tc3 \tc4 [1-9-E]
+\tr \tc1 Raamses \tc2 \tc3 \tc4 [3-8-H]
+\tr \tc1 Rabbab \tc2 \tc3 \tc4 [5-7-G] [4-20-N] [6-20-N]
+\tr \tc1 Rabbah \tc2 \tc3 (Judah) \tc4 [12-5-D]
+\tr \tc1 Rabbath \tc2 \it \tc3 (Amman) \tc2 see\it* \tc3 (Rabbab)
+\tr \tc1 Rabbith \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Rachel’s tomb \tc2 \tc3 \tc4 [12-6-D]
+\tr \tc1 Rahab \tc2 \tc3 \tc4 [3-3-H]
+\tr \tc1 Rakkath \tc2 \tc3 \tc4 [4-20-L]
+\tr \tc1 Rakkon \tc2 \tc3 (?) \tc4 [4-18-M]
+\tr \tc1 Rama \tc2 \tc3 (Benjamin) \tc4 [4-19-N] [6-19-N] [13-19-N] [12-6-B]
+\tr \tc1 Ramah \tc2 \it see\it* \tc3 (Rama)
+\tr \tc1 Ramah \tc2 \it see\it* \tc3 (Arimathea)
+\tr \tc1 Ramah \tc2 \it see\it* \tc3 (Cirama)
+\tr \tc1 Ramah \tc2 \tc3 (Asher) \tc4 [4-19-K]
+\tr \tc1 Ramah \tc2 \tc3 (Gad) \tc4 [6-20-M]
+\tr \tc1 Ramah \tc2 \tc3 (Naphtah) \tc4 [4-20-L]
+\tr \tc1 Ramah \tc2 \tc3 (Samuel’s city) \tc4 [12-6-B]
+\tr \tc1 Ramathaimzophim \tc2 \it see\it* \tc3 (Ramah)
+\tr \tc1 Ramathem \tc2 \it see\it* \tc3 (Ramah)
+\tr \tc1 Rameses \tc2 \it see\it* \tc3 (Raamses)
+\tr \tc1 Rameses \tc2 \it see\it* \tc3 (Ramesse)
+\tr \tc1 Ramesse \tc2 \tc3 \tc4 [3-3-H]
+\tr \tc1 Ramoth \tc2 \tc3 (Gad) \tc4 [4-20-M]
+\tr \tc1 Ramoth \tc2 \tc3 (Issachar) \tc4 [6-19-L]
+\tr \tc1 Ramoth-gilead \tc2 \it see\it* \tc3 (Ramah)
+\tr \tc1 Ramoth-gilead \tc2 \tc3 (?) \tc4 [4-20-M]
+\tr \tc1 Ramoth-gilead4 \tc2 \it see\it* \tc3 (Ramoth)
+\tr \tc1 Red Sea \tc2 \tc3 \tc4 [2-5-L] [6-6-I]
+\tr \tc1 Rehob \tc2 \tc3 (Asher) \tc4 [4-19-K] [6-19-K]
+\tr \tc1 Rehob \tc2 \tc3 \tc4 [4-20-K]
+\tr \tc1 Rehoboth \tc2 \it by the river\it* \tc3 \tc4 [1-8-D]
+\tr \tc1 Rehoboth \tc2 \it well\it* \tc3 \tc4 [2-6-G]
+\tr \tc1 Rehoboth-Ir \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Rekem \tc2 \tc3 \tc4 [12-6-C]
+\tr \tc1 Remeth Jarmuth \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Remmon \tc2 \tc3 (Simeon) \tc4 [6-18-O]
+\tr \tc1 Remmon \tc2 \tc3 (Zebulun) \tc4 [4-19-L]
+\tr \tc1 Remmon-methoar \tc2 \it see\it* \tc3 (Remmon)
+\tr \tc1 Rephaim \tc2 \it valley\it* \tc3 \tc4 [12-6-C]
+\tr \tc1 Rephaim \tc2 \tc3 (Deut. 2:20) \tc4 [3-8-G]
+\tr \tc1 Rephidim \tc2 \tc3 (?) \tc4 [3-5-K]
+\tr \tc1 Resen \tc2 \tc3 (?) \tc4 [1-8-D] [7-12-D]
+\tr \tc1 Reuben \tc2 \it allotment\it* \tc3 \tc4 [4-20-N]
+\tr \tc1 Rezeph \tc2 \tc3 \tc4 [6-10-C] [7-11-D]
+\tr \tc1 Rhegium \tc2 \tc3 \tc4 [14-7-D]
+\tr \tc1 Rhodes \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Rhodus \tc2 \it see\it* \tc3 (Rhodes)
+\tr \tc1 Riblah in the land of Hamath \tc2 \tc3 \tc4 [2-8-D] [5-8-D] [7-11-E]
+\tr \tc1 Rimmon (Simeon) \tc2 \it see\it* \tc3 (Remmon)
+\tr \tc1 Rimmon (Zebulun) \tc2 \it see\it* \tc3 (Remmon)
+\tr \tc1 Rimmon \tc2 \it see\it* \tc3 (En-rimmon)
+\tr \tc1 Rimmon \tc2 \tc3 (Simeon) \tc4 [4-18-O] [6-18-O]
+\tr \tc1 Rimmon \tc2 \tc3 (Zebulun) \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Rimmon \tc2 rock \tc3 (Beiyamin) \tc4 [6-19-N] [12-7-A]
+\tr \tc1 Rimmono \tc2 \it see\it* \tc3 (Rimmon)
+\tr \tc1 Riphath \tc2 \tc3 \tc4 [1-6-C]
+\tr \tc1 Rithmab \tc2 \tc3 (?) \tc4 [2-7-H]
+\tr \tc1 River of Egypt \tc2 \it see\it* \tc3 (Nile)
+\tr \tc1 Rome \tc2 \it city\it* \tc3 \tc4 [14-6-C]
+\tr \tc1 Sabeans of Arabia \tc2 \tc3 (Job 1:15)(Joel 3:8) \tc4 [8-13-H]
+\tr \tc1 Sabeans of Ethiopia \tc2 \tc3 (Is. 45:14) \tc4 [8-11-I]
+\tr \tc1 Sabieca \tc2 \it see\it* \tc3 (Sabtecha)
+\tr \tc1 Sablechah \tc2 \it see\it* \tc3 (Sabtecha)
+\tr \tc1 Sabta \tc2 \tc3 \tc4 [1-7-F]
+\tr \tc1 Sabtah \tc2 \it see\it* \tc3 (Sabta)
+\tr \tc1 Sabtecha \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Sahra \tc2 \tc3 \tc4 [13-19-M]
+\tr \tc1 Sakut \tc2 \it see\it* \tc3 (Succoth)
+\tr \tc1 Salamis \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Salem \tc2 \tc3 \tc4 [12-6-C]
+\tr \tc1 Salmone \tc2 \it cape\it* \tc3 \tc4 [14-9-D]
+\tr \tc1 Salt Sea \tc2 \it see\it* \tc3 (East Sea)
+\tr \tc1 Salt Sea \tc2 \it see\it* \tc3 (Sea of the Arabah)
+\tr \tc1 Salt Sea \tc2 \it see\it* \tc3 (Sodomitish Sea)
+\tr \tc1 Salt Sea \tc2 \tc3 \tc4 [2-7-G] [3-7-G] [4-19-O]
+\tr \tc1 Salt Sea \tc2 \tc3 \tc4 [6-19-O]
+\tr \tc1 Salt \tc2 \it valley\it* \tc3 \tc4 [6-19-O]
+\tr \tc1 Samaria \tc2 \it region\it* \tc3 \tc4 [13-19-M]
+\tr \tc1 Samaria \tc2 \tc3 \tc4 [6-19-M] [13-19-M] [7-11-E] [14-11-E]
+\tr \tc1 Samos \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Samothracia \tc2 \tc3 \tc4 [14-9-C]
+\tr \tc1 Samothrate \tc2 \it see\it* \tc3 (Samothracia)
+\tr \tc1 Sansannah \tc2 \tc3 \tc4 [6-17-O]
+\tr \tc1 Saphir \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Sardis \tc2 \tc3 \tc4 [14-9-C]
+\tr \tc1 Sarepta \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Sarid \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Saron \tc2 \tc3 \tc4 [13-18-M]
+\tr \tc1 Scythia \tc2 \tc3 \tc4 [9-12-B] [11-12-B]
+\tr \tc1 Scythopolis \tc2 \tc3 \tc4 [13-19-M]
+\tr \tc1 Sea \tc2 \tc3 (Nah. 3:8) \tc4 [1-7-E]
+\tr \tc1 Sea of Chinnereth \tc2 \tc3 \tc4 [4-20-L]
+\tr \tc1 Sea of Galilee \tc2 \it see\it* \tc3 (Galilee)
+\tr \tc1 Sea of Galilee \tc2 \it see\it* \tc3 (Tiberias)
+\tr \tc1 Sea of Galilee \tc2 \tc3 \tc4 [13-20-L]
+\tr \tc1 Sea of Tiberias \tc2 \it see\it* \tc3 (Galilee)
+\tr \tc1 Sea of Tiberias \tc2 \it see\it* \tc3 (Tiberias)
+\tr \tc1 Sea of the Arabah \tc2 \tc3 \tc4 [4-19-O]
+\tr \tc1 Sea of the Philistines \tc2 \tc3 \tc4 [3-6-G]
+\tr \tc1 Sea of the Plain \tc2 \it see\it* \tc3 (Salt Sea)
+\tr \tc1 Seba \tc2 \tc3 \tc4 [1-7-F] [8-11-I]
+\tr \tc1 Secacah \tc2 \tc3 \tc4 [12-7-F]
+\tr \tc1 Sechu \tc2 \tc3 \tc4 [12-6-B]
+\tr \tc1 Secu \tc2 \it see\it* \tc3 (Sechu)
+\tr \tc1 Seir \tc2 \it mountain\it* \tc3 \tc4 [3-7-H]
+\tr \tc1 Sela \tc2 \it see\it* \tc3 (Petra)
+\tr \tc1 Sela \tc2 \tc3 \tc4 [3-7-H] [5-7-H] [7-11-E]
+\tr \tc1 Sela-hammahlekoth \tc2 \tc3 (1 Sam. 23:28) \tc4 [6-19-O]
+\tr \tc1 Selah \tc2 \it see\it* \tc3 (Sela)
+\tr \tc1 Seleucia \tc2 \tc3 \tc4 [10-11-D] [14-11-D]
+\tr \tc1 Seneh \tc2 \tc3 (1 Sam. 14:4) \tc4 [12-7-B]
+\tr \tc1 Senir \tc2 \it see\it* \tc3 (Shenir)
+\tr \tc1 Senir \tc2 \tc3 \tc4 [6-20-K]
+\tr \tc1 Sephar \tc2 \it mountain\it* \tc3 \tc4 [1-9-F]
+\tr \tc1 Sepharvaim \tc2 \tc3 \tc4 [7-12-E]
+\tr \tc1 Sephela \tc2 \tc3 \tc4 [13-18-N]
+\tr \tc1 Seveneh \tc2 \it see\it* \tc3 (Syene)
+\tr \tc1 Seveneh \tc2 \tc3 \tc4 [9-10-G]
+\tr \tc1 Shaalabbin \tc2 \tc3 \tc4 [4-18-N] [12-3-B]
+\tr \tc1 Shaalbim \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Shaaraim \tc2 \it see\it* \tc3 (Sharaim)
+\tr \tc1 Shaaraim \tc2 \tc3 (Judah) \tc4 [4-19-N] [12-4-D]
+\tr \tc1 Shaaraim \tc2 \tc3 (Simeon) \tc4 [6-18-O]
+\tr \tc1 Shahazimah \tc2 \tc3 \tc4 [4-20-L]
+\tr \tc1 Shahazumah \tc2 \it see\it* \tc3 (Shahazimah)
+\tr \tc1 Shalem \tc2 \tc3 (?) \tc4 [4-19-N]
+\tr \tc1 Shamir \tc2 \tc3 (Ephraim) \tc4 [6-18-M]
+\tr \tc1 Shamir \tc2 \tc3 (Judah) \tc4 [4-18-O]
+\tr \tc1 Shaphir \tc2 \it see\it* \tc3 (Saphir)
+\tr \tc1 Sharaim \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Sharon \tc2 \it see\it* \tc3 (Saron)
+\tr \tc1 Sharon \tc2 plain \tc3 (N. of Joppa) \tc4 [6-18-M]
+\tr \tc1 Sharuhen \tc2 \it see\it* \tc3 (Shilhim)
+\tr \tc1 Sharuhen \tc2 \tc3 \tc4 [4-18-O]
+\tr \tc1 Sheba \tc2 \tc3 (Gen. 10:28) \tc4 [1-8-F] [8-13-H]
+\tr \tc1 Sheba \tc2 \tc3 (Gen. 25:3) \tc4 [1-8-E]
+\tr \tc1 Sheba \tc2 \tc3 \tc4 [4-18-O]
+\tr \tc1 Shebah \tc2 \tc3 \tc4 [2-6-G]
+\tr \tc1 Shechem \tc2 \it see\it* \tc3 (Sichem)
+\tr \tc1 Shechem \tc2 \it see\it* \tc3 (Sychem)
+\tr \tc1 Shechem \tc2 \tc3 \tc4 [2-7-F] [5-7-F] [4-19-M] [6-19-M]
+\tr \tc1 Shelah \tc2 \it pool\it* \tc3 \tc4 [13-20-O]
+\tr \tc1 Sheleph \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Shen \tc2 \tc3 \tc4 [4-19-N] [12-6-C]
+\tr \tc1 Shenir \tc2 \tc3 \tc4 [6-20-K]
+\tr \tc1 Shibah \tc2 \it see\it* \tc3 (Shebah)
+\tr \tc1 Shihor \tc2 \it see\it* \tc3 (Sihor)
+\tr \tc1 Shihor \tc2 \tc3 (Is. 23:3) (Jer. 2:18) \tc4 [3-2-K]
+\tr \tc1 Shihor-libnath \tc2 \tc3 (river) \tc4 [4-19-L]
+\tr \tc1 Shilhim \tc2 \tc3 \tc4 [4-18-O]
+\tr \tc1 Shiloah \tc2 \it waters\it* \tc3 \tc4 [13-20-O]
+\tr \tc1 Shiloh \tc2 \tc3 \tc4 [2-7-F] [4-19-M] [6-19-M]
+\tr \tc1 Shimron \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Shinar \tc2 \it land\it* \tc3 \tc4 [1-8-D] [7-13-E]
+\tr \tc1 Shittim \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Shocho \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Shochoh \tc2 \it see\it* \tc3 (Shocho)
+\tr \tc1 Shoco \tc2 \it see\it* \tc3 (Shocho)
+\tr \tc1 Shunem \tc2 \tc3 \tc4 [4-19-L] [6-19-L]
+\tr \tc1 Shur \tc2 \it see\it* \tc3 (Wilderness of Shur)
+\tr \tc1 Shur \tc2 wilderness \tc3 (Exodus. 15:22) \tc4 [1-7-D] [7-13-E]
+\tr \tc1 Shushan \tc2 \tc3 \tc4 [7-13-E] [9-13-E]
+\tr \tc1 Sichem \tc2 \tc3 \tc4 [2-7-F] [5-7-F]
+\tr \tc1 Sidon \tc2 \tc3 \tc4 [6-19-I] [14-11-E]
+\tr \tc1 Sidonians \tc2 \it region\it* \tc3 \tc4 [6-19-K]
+\tr \tc1 Sidonians \tc2 \it see\it* \tc3 (Zidonians)
+\tr \tc1 Sihor \tc2 \it see\it* \tc3 (Shihor)
+\tr \tc1 Sihor \tc2 \tc3 (Is. 23:3) (Jer, 2:18) \tc4 [3-2-K]
+\tr \tc1 Sihor \tc2 \tc3 (Josh. 13:3) \tc4 [5-6-H]
+\tr \tc1 Siloah \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Siloam, pool of \tc2 \it see\it* \tc3 (Siloah)
+\tr \tc1 Simeon \tc2 \it allotment\it* \tc3 \tc4 [4-18-O]
+\tr \tc1 Sin \tc2 \it see\it* \tc3 (Wilderness of Sin)
+\tr \tc1 Sin \tc2 \it wilderness\it* \tc3 \tc4 [3-6-K]
+\tr \tc1 Sin \tc2 \tc3 (in Egypt) \tc4 [3-4-G]
+\tr \tc1 Sina \tc2 \tc3 \tc4 [3-5-K]
+\tr \tc1 Sinai, Mount \tc2 \it see\it* \tc3 (Sina)
+\tr \tc1 Sinites \tc2 \tc3 \tc4 [2-7-D]
+\tr \tc1 Sion \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Sion \tc2 land \tc3 (2 Esdr. 14:31) \tc4 [4-19-N]
+\tr \tc1 Sion \tc2 mountain \tc3 (Deut. 4:48) \tc4 [6-20-K]
+\tr \tc1 Sirah \tc2 \it well\it* \tc3 \tc4 [6-19-N] [12-5-F]
+\tr \tc1 Sirion \tc2 \tc3 \tc4 [6-20-K]
+\tr \tc1 Smyrna \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Socho \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Sochoh \tc2 \it see\it* \tc3 (Socho)
+\tr \tc1 Soco \tc2 \it see\it* \tc3 (Shocho)
+\tr \tc1 Soco \tc2 \it see\it* \tc3 (Socoh)
+\tr \tc1 Socoh \tc2 \it see\it* \tc3 (Socho)
+\tr \tc1 Socoh \tc2 hill country \tc3 (Judah) \tc4 [4-19-O]
+\tr \tc1 Socoh \tc2 lowland \tc3 (Judah) \tc4 [4-18-N]
+\tr \tc1 Sodomitish Sea \tc2 \it see\it* \tc3 (Salt Sea)
+\tr \tc1 Sodomitish Sea \tc2 \tc3 \tc4 [6-19-O]
+\tr \tc1 Solomon’s pools \tc2 \tc3 \tc4 [12-5-D]
+\tr \tc1 Sorek \tc2 \it valley\it* \tc3 \tc4 [6-18-N]
+\tr \tc1 Spain \tc2 \tc3 \tc4 [11-3-D]
+\tr \tc1 Sparta \tc2 \tc3 \tc4 [14-8-D]
+\tr \tc1 Stream of Egypt \tc2 \it see\it* \tc3 (Nile)
+\tr \tc1 Stream or brook of Egypt \tc2 \tc3 \tc4 [5-5-H]
+\tr \tc1 Succoth \tc2 \tc3 (Egypt) \tc4 [3-4-H]
+\tr \tc1 Succoth \tc2 \tc3 (Gad) (1 Kings 8:46) \tc4 [4-20-M] [6-20-M]
+\tr \tc1 Susa \tc2 \tc3 \tc4 [7-13-E]
+\tr \tc1 Sycbar \tc2 \tc3 \tc4 [13-19-M]
+\tr \tc1 Sychem \tc2 \tc3 \tc4 [13-19-M]
+\tr \tc1 Syene \tc2 \it see\it* \tc3 (Seveneh)
+\tr \tc1 Syene \tc2 \tc3 \tc4 [1-7-E]
+\tr \tc1 Syracuse \tc2 \tc3 \tc4 [11-7-D] [14-7-D]
+\tr \tc1 Syria \tc2 \it kingdom\it* \tc3 \tc4 [10-11-E]
+\tr \tc1 Syria \tc2 \it see\it* \tc3 (Aram)
+\tr \tc1 Syria \tc2 \tc3 \tc4 [6-9-D] [6-21-K] [7-11-E] [8-11-E] [9-11-E] [10-11-E] [11-11-E] [14-11-E]
+\tr \tc1 Syrtia \tc2 \it see\it* \tc3 (Quicksands)
+\tr \tc1 Syrtis \tc2 \tc3 \tc4 [14-7-E]
+\tr \tc1 Taanach \tc2 \it see\it* \tc3 (Tanach)
+\tr \tc1 Taanach \tc2 \tc3 \tc4 [4-19-L] [6-19-L] [5-7-F]
+\tr \tc1 Taanath-shiloh \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Tabor \tc2 \it mountain\it* \tc3 \tc4 [4-19-L] [6-19-L] [13-19-L]
+\tr \tc1 Tabor \tc2 \it see\it* \tc3 (Aznoth-tabor)
+\tr \tc1 Tabor \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Tadmor \tc2 \tc3 (2 Chr. 8:4) \tc4 [5-10-D] [7-11-E]
+\tr \tc1 Tadmor \tc2 \tc3 (l Kin. 9:18) \tc4 [6-19-O]
+\tr \tc1 Tahapanes \tc2 \tc3 \tc4 [3-4-H]
+\tr \tc1 Tahpanhes \tc2 \it see\it* \tc3 (Tahapanes)
+\tr \tc1 Tahpanhes \tc2 \it see\it* \tc3 (Taphnes)
+\tr \tc1 Tahpanhes \tc2 \it see\it* \tc3 (Tehaphnehes)
+\tr \tc1 Tamar \tc2 \it see\it* \tc3 (Tadmor)
+\tr \tc1 Tamar \tc2 \tc3 (?) \tc4 [6-19-O]
+\tr \tc1 Tanaach \tc2 \it see\it* \tc3 (Aner)
+\tr \tc1 Tanach \tc2 \tc3 \tc4 [4-19-L]
+\tr \tc1 Tanis \tc2 \tc3 \tc4 [3-3-G]
+\tr \tc1 Taphnes \tc2 \tc3 \tc4 [3-4-H]
+\tr \tc1 Taphon \tc2 \tc3 \tc4 [4-19-N] [12-4-F]
+\tr \tc1 Tappuah \tc2 \tc3 (Manasseh) \tc4 [4-19-M]
+\tr \tc1 Tarshish \tc2 \it see\it* \tc3 (Tharshish)
+\tr \tc1 Tarshish \tc2 \tc3 (?) 1 -7 D; \tc4 [8-10-D]
+\tr \tc1 Tarsus \tc2 \tc3 \tc4 [14-10-D]
+\tr \tc1 Tehaphnehes \tc2 \tc3 \tc4 [3-4-H]
+\tr \tc1 Tekoa \tc2 \it see\it* \tc3 (Tekoah)
+\tr \tc1 Tekoa \tc2 \it see\it* \tc3 (Thecoe)
+\tr \tc1 Tekoah \tc2 \tc3 \tc4 [5-7-G] [6-19-N] [12-6-E]
+\tr \tc1 Tell el Hesg \tc2 \it see\it* \tc3 (Lachish)
+\tr \tc1 Tema \tc2 \tc3 \tc4 [8-11-E]
+\tr \tc1 Teman \tc2 \it see\it* \tc3 (Tema)
+\tr \tc1 Teman \tc2 \it see\it* \tc3 (Theman)
+\tr \tc1 Temple at Jerusalem \tc2 \tc3 \tc4 [13-20-O]
+\tr \tc1 Thamnatha \tc2 \tc3 \tc4 [6-18-N]
+\tr \tc1 Tharshish \tc2 \tc3 \tc4 [1-7-D] [8-10-D]
+\tr \tc1 Thcssalonica \tc2 \tc3 \tc4 [14-8-C]
+\tr \tc1 The Skull \tc2 \it see\it* \tc3 (Calvary)
+\tr \tc1 Thebez \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Thecoe \tc2 \tc3 \tc4 [12-6-E]
+\tr \tc1 Theman \tc2 \tc3 \tc4 [8-11-E]
+\tr \tc1 Theras \tc2 \tc3 \tc4 [7-12-E]
+\tr \tc1 Thimnathah \tc2 \tc3 \tc4 [4-18-N]
+\tr \tc1 Thisbe \tc2 \tc3 (?) \tc4 [6-19-K]
+\tr \tc1 Thracia \tc2 \tc3 \tc4 [11-9-C] [14-9-C]
+\tr \tc1 Three Taverns \tc2 \tc3 \tc4 [14-6-C]
+\tr \tc1 Thyatira \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Tiberias \tc2 \it sea\it* \tc3 \tc4 [13-20-L]
+\tr \tc1 Tiberias \tc2 \tc3 \tc4 [13-20-L]
+\tr \tc1 Tigris \tc2 \it river\it* \tc3 \tc4 [1-8-D] [7-12-D] [8-12-D] [9-12-D]
+\tr \tc1 Timnah \tc2 \it see\it* \tc3 (Thimnathah)
+\tr \tc1 Timnah \tc2 \it see\it* \tc3 (Tinmath)
+\tr \tc1 Timnah \tc2 \tc3 \tc4 [2-6-G]
+\tr \tc1 Timnath \tc2 \it see\it* \tc3 (Thamnatha)
+\tr \tc1 Timnath \tc2 \it see\it* \tc3 (Thimnathah)
+\tr \tc1 Timnath-heres \tc2 \it see\it* \tc3 (Heres)
+\tr \tc1 Timnath-heres \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Timnath-serah \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Tinmath \tc2 \tc3 \tc4 [2-6-G] [4-18-N]
+\tr \tc1 Tiphsah \tc2 \it see\it* \tc3 (Tappuah)
+\tr \tc1 Tiphsah \tc2 \tc3 (1 Kin. 4:24) \tc4 [6-10-C] [7-11-D]
+\tr \tc1 Tiphsah \tc2 \tc3 (2 Kin. 15:16) \tc4 [6-19-M]
+\tr \tc1 Tiras \tc2 \tc3 \tc4 [1-6-C]
+\tr \tc1 Tirzah \tc2 \tc3 \tc4 [4-19-M] [6-19-M]
+\tr \tc1 Tob \tc2 \it see\it* \tc3 (Ish-tob)
+\tr \tc1 Tob \tc2 \tc3 (?) \tc4 [6-20-L]
+\tr \tc1 Togarmah \tc2 \tc3 \tc4 [1-8-D]
+\tr \tc1 Tophel \tc2 \tc3 (?) \tc4 [3-7-H]
+\tr \tc1 Trachonitis \tc2 \tc3 \tc4 [14-11-E]
+\tr \tc1 Tripolis \tc2 \tc3 \tc4 [7-11-E] [14-11-E]
+\tr \tc1 Troas \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Trogyllium \tc2 \tc3 \tc4 [14-9-D]
+\tr \tc1 Tubal \tc2 \tc3 \tc4 [1-7-C]
+\tr \tc1 Tyre \tc2 \it see\it* \tc3 (Tyrus)
+\tr \tc1 Tyrus \tc2 \tc3 \tc4 [4-19-K] [6-19-K] [13-19-K] [5-7-E] [7-11-K] [10-11-K] [11-11-K] [14-11-K]
+\tr \tc1 Ulai \tc2 \it river\it* \tc3 \tc4 [7-13-E]
+\tr \tc1 Umm Lakis \tc2 \it see\it* \tc3 (Lachish)
+\tr \tc1 Ummah \tc2 \tc3 \tc4 [4-19-K]
+\tr \tc1 Uphaz \tc2 \tc3 \tc4 [1-8-F]
+\tr \tc1 Ur of the Chaldees \tc2 \tc3 \tc4 [1-8-D] [7-13-E]
+\tr \tc1 Uttermost Sea \tc2 \it see\it* \tc3 (Great Sea)
+\tr \tc1 Uz \tc2 \tc3 \tc4 [1-7-D]
+\tr \tc1 Uzal \tc2 \tc3 \tc4 [1-8-P]
+\tr \tc1 Uzzen-sheerah \tc2 \it see\it* \tc3 (Uzzen-sherah)
+\tr \tc1 Uzzen-sherah \tc2 \tc3 \tc4 [12-4-B]
+\tr \tc1 Valley of Charashim \tc2 \it see\it* \tc3 (Ge-harashim)
+\tr \tc1 Valley of Lebanon \tc2 \it see\it* \tc3 (Mizpah)
+\tr \tc1 Water of Jericho \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Waters of Merom \tc2 \tc3 \tc4 [4-20-K]
+\tr \tc1 Western Sea \tc2 \it see\it* \tc3 (Great Sea)
+\tr \tc1 Wilderness of Judaea \tc2 \it wilderness\it* \tc3 \tc4 [13-19-N]
+\tr \tc1 Wilderness of Judah \tc2 \it wilderness\it* \tc3 \tc4 [6-19-O]
+\tr \tc1 Wilderness of Paran \tc2 \it wilderness\it* \tc3 \tc4 [5-6-I]
+\tr \tc1 Wilderness of Shur \tc2 \it see\it* \tc3 (Etham)
+\tr \tc1 Wilderness of Shur \tc2 \it wilderness\it* \tc3 \tc4 [3-5-H]
+\tr \tc1 Wilderness of Sin \tc2 \it wilderness\it* \tc3 \tc4 [3-5-K]
+\tr \tc1 Wilderness of Zin \tc2 \it see\it* \tc3 (Kadesh)
+\tr \tc1 Wilderness of Zin \tc2 \it see\it* \tc3 (Zin)
+\tr \tc1 Wilderness of Zin \tc2 \it wilderness\it* \tc3 \tc4 [3-7-H]
+\tr \tc1 Yeor \tc2 \it river\it* \tc3 \tc4 [1-7-E]
+\tr \tc1 Zabulon \tc2 \tc3 \tc4 [13-19-L]
+\tr \tc1 Zalmon \tc2 \it mountain\it* \tc3 \tc4 [6-19-M]
+\tr \tc1 Zalmonah \tc2 \tc3 (?) \tc4 [3-7-I]
+\tr \tc1 Zamzummim \tc2 \it see\it* \tc3 (Zamzummims)
+\tr \tc1 Zamzummim \tc2 \it see\it* \tc3 (Rephaim)
+\tr \tc1 Zamzummims \tc2 \tc3 \tc4 [3-8-G]
+\tr \tc1 Zanoah \tc2 \tc3 (Josh. 15:56) \tc4 [4-18-O]
+\tr \tc1 Zanoah \tc2 lowland \tc3 (Judah) \tc4 [4-18-N] [12-3-D]
+\tr \tc1 Zaphon \tc2 \tc3 (?) \tc4 [4-20-L]
+\tr \tc1 Zareah \tc2 \tc3 \tc4 [6-18-N] [12-8-G]
+\tr \tc1 Zared \tc2 \it valley\it* \tc3 \tc4 [3-7-G]
+\tr \tc1 Zarephath \tc2 \it see\it* \tc3 (Misrephoth-maim)
+\tr \tc1 Zarephath \tc2 \it see\it* \tc3 (Sarepta)
+\tr \tc1 Zarephath \tc2 \tc3 \tc4 [6-19-K]
+\tr \tc1 Zaretan \tc2 \tc3 \tc4 [4-19-M]
+\tr \tc1 Zareth-shahar \tc2 \it see\it* \tc3 (Zereth-shahar)
+\tr \tc1 Zareth-shahar \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Zarethan \tc2 \it see\it* \tc3 (Zaretan)
+\tr \tc1 Zarethan \tc2 \it see\it* \tc3 (Zartanah)
+\tr \tc1 Zarethan \tc2 \it see\it* \tc3 (Zarthan)
+\tr \tc1 Zartanah \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Zarthan \tc2 \it see\it* \tc3 (Zartanah)
+\tr \tc1 Zarthan \tc2 \it see\it* \tc3 (Zeredah)
+\tr \tc1 Zarthan \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Zebulun \tc2 \it allotment\it* \tc3 \tc4 [4-19-L]
+\tr \tc1 Zebulun \tc2 \it see\it* \tc3 (Zabulon)
+\tr \tc1 Zedad \tc2 pass \tc3 (Ezek. 47:15) \tc4 [5-8-I]
+\tr \tc1 Zelzah \tc2 \tc3 (?) \tc4 [12-6-D]
+\tr \tc1 Zemaraim \tc2 \tc3 \tc4 [4-19-N]
+\tr \tc1 Zemarites \tc2 \tc3 \tc4 [2-8-D]
+\tr \tc1 Zephath \tc2 \tc3 (?) \tc4 [6-19-P]
+\tr \tc1 Zer \tc2 \tc3 \tc4 [4-20-L]
+\tr \tc1 Zered \tc2 \it brook\it* \tc3 \tc4 [3-7-G]
+\tr \tc1 Zered \tc2 \it see\it* \tc3 (Zared)
+\tr \tc1 Zereda or Zeredah \tc2 \tc3 (1 Kin. 11:26) \tc4 [12-6-A]
+\tr \tc1 Zeredah \tc2 \tc3 \tc4 [6-19-M]
+\tr \tc1 Zeredathah \tc2 \it see\it* \tc3 (Zeredah)
+\tr \tc1 Zererah \tc2 \it see\it* \tc3 (Zererath)
+\tr \tc1 Zererath \tc2 \tc3 \tc4 [6-20-M]
+\tr \tc1 Zereth-shahar \tc2 \it see\it* \tc3 (Zareth-shahar)
+\tr \tc1 Zereth-shahar \tc2 \tc3 \tc4 [4-20-N]
+\tr \tc1 Zidon \tc2 \it see\it* \tc3 (Sidon)
+\tr \tc1 Zidon \tc2 \tc3 \tc4 [2-7-E] [5-7-E] [6-19-I] [7-11-E]
+\tr \tc1 Zidonians \tc2 \it see\it* \tc3 (Sidonians)
+\tr \tc1 Zidonians \tc2 \tc3 \tc4 [6-19-K]
+\tr \tc1 Ziklag \tc2 \tc3 (Neh. 11:28) \tc4 [4-18-O] [6-18-O]
+\tr \tc1 Zin \tc2 \it desert\it* \tc3 \tc4 [3-7-H]
+\tr \tc1 Zin \tc2 \it see\it* \tc3 (Wilderness of Zin)
+\tr \tc1 Zion \tc2 \it see\it* \tc3 (Ariel)
+\tr \tc1 Zion \tc2 \it see\it* \tc3 (City of David)
+\tr \tc1 Zion \tc2 \it see\it* \tc3 (Judah)
+\tr \tc1 Zion \tc2 \it see\it* \tc3 (Sion)
+\tr \tc1 Zion \tc2 city \tc3 (Psalm 78:68) (1 Kin. 8:1) (Judah) \tc4 [4-19-N] [13-20-O]
+\tr \tc1 Zion \tc2 mountain \tc3 (Isaiah 2:3) (Is. 18:7) (Isaiah 62:1) (Jer. 31:12)(Psalm 133:3) (Deut. 4:48) \tc4 [6-20-K]
+\tr \tc1 Zion \tc2 see \tc3 David \tc2 city
+\tr \tc1 Zion, Mount \tc2 \it see\it* \tc3 (Sion)
+\tr \tc1 Ziph \tc2 hill country \tc3 (Judah) \tc4 [4-19-O] [6-19-O]
+\tr \tc1 Ziz \tc2 \it cliff\it* \tc3 \tc4 [6-19-O]
+\tr \tc1 Zoan \tc2 \tc3 \tc4 [3-8-G]
+\tr \tc1 Zoar \tc2 \it see\it* \tc3 (Bela)
+\tr \tc1 Zoar \tc2 \tc3 (?) \tc4 [2-7-G] [4-20-N]
+\tr \tc1 Zoba \tc2 \tc3 \tc4 [6-8-D]
+\tr \tc1 Zobah \tc2 \it see\it* \tc3 (Zoba)
+\tr \tc1 Zoheleth \tc2 \it stone\it* \tc3 \tc4 [13-20-O]
+\tr \tc1 Zorah \tc2 \it see\it* \tc3 (Zareah)
+\tr \tc1 Zorah \tc2 \tc3 \tc4 [4-18-N] [6-18-N] [12-3-O]
+\tr \tc1 Zoreah \tc2 \it see\it* \tc3 (Zorah)
+\tr \tc1 Zuzim \tc2 \it see\it* \tc3 (Zuzims)
+\tr \tc1 Zuzims \tc2 \tc3 \tc4 [3-8-C]
