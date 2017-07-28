@@ -1,7 +1,16 @@
 \id FRT ENG - The 1911 Bible, Oxford University Press
 \ide UTF-8
 \toc4 \bd Introductory Pages\bd*
-\rem Half Title Page
+\rem Presentation Page
+\pc \bd Presented to\bd*
+\b5
+\pc \bdit by\bdit*
+\b5
+\pc \bdit on this date\bdit*
+\b3
+\pc \bdit on this occasion\bdit*
+\b5
+\periph Half Title Page
 \h Title
 \h0
 \h1 Title Page
