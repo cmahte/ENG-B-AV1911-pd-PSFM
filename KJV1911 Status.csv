@@ -1,4 +1,4 @@
-OO,BK,BKID,HN,Ch,vs PCE,Text Ck,Add Wds,Pilcrows,X-Refs,Alternates,Ch Sum,Headers,Bk Intros,Title,Canon,Hist
+OO,BK,BKID,HN,Ch,vs PCE,Text Ck,Paragraphs,Added Wds,X-Refs,Alternates,Ch Sum,Headers,Bk Intros,Title,Canon,Hist
 0,A0,FRT,00,,1,0,,,,,,,1,Front Matter,B100,B200
 ,,INT,,,,,,,,,,,0,Law Intro,B101,B201
 1,1,GEN,01,50,1,50,,,,,,,1,Genesis,B102,B202
@@ -46,12 +46,12 @@ OO,BK,BKID,HN,Ch,vs PCE,Text Ck,Add Wds,Pilcrows,X-Refs,Alternates,Ch Sum,Header
 15,15,EZR,15,10,1,10,,,,,,,1,Ezra,B119,B244
 16,16,NEH,16,13,1,13,,,,,,,1,Nehemiah,B120,B245
 13,13,1CH,13,29,1,29,,,,,,,1,1 Chronicles,B117,B246
-14,14,2CH,14,36,,0,,,,,,,1,2 Chronicles,B118,B247
+14,14,2CH,14,36,0,10,,,,,,,1,2 Chronicles,B118,B247
 ,,,,,,,,,,,,,,Writings Back,B130,B248
 ,,,,,,,,,,,,,,History B Back,B123,B249
 ,A7,INT,40,,,0,,,,,,,0,NT Intro,B150,B250
 43,44,JHN,44,21,1,21,,,,,,,0.1,John,B154,B251
-62,63,1JN,63,5,1,5,,1,,,,,0.1,1 John,B173,B252
+62,63,1JN,63,5,1,5,1,,,,,,0.1,1 John,B173,B252
 40,41,MAT,41,28,1,28,,,,,,,0.1,Matthew,B151,B253
 41,42,MRK,42,16,1,16,,,,,,,0.1,Mark,B152,B254
 42,43,LUK,43,24,1,24,,,,,,,0.1,Luke,B153,B255
@@ -71,12 +71,12 @@ OO,BK,BKID,HN,Ch,vs PCE,Text Ck,Add Wds,Pilcrows,X-Refs,Alternates,Ch Sum,Header
 57,58,PHM,58,1,1,1,,,,,,,0.1,Philemon,B168,B269
 58,59,HEB,59,13,1,13,,,,,,,0.1,Hebrews,B169,B270
 59,60,JAS,60,5,1,5,,,,,,,0.1,James,B170,B271
-60,61,1PE,61,5,1,5,,1,,,,,0.1,1 Peter,B171,B272
-61,62,2PE,62,3,1,3,,1,,,,,0.1,2 Peter,B172,B273
-63,64,2JN,64,1,1,1,,1,,,,,0.1,2 John,B174,B274
-64,65,3JN,65,1,1,1,,1,,,,,0.1,3 John,B175,B275
-65,66,JUD,66,1,1,1,,1,,,,,0.1,Jude,B176,B276
-66,67,REV,67,22,1,22,,1,,,,,0.1,Revelation,B177,B277
+60,61,1PE,61,5,1,5,1,,,,,,0.1,1 Peter,B171,B272
+61,62,2PE,62,3,1,3,1,,,,,,0.1,2 Peter,B172,B273
+63,64,2JN,64,1,1,1,1,,,,,,0.1,2 John,B174,B274
+64,65,3JN,65,1,1,1,1,,,,,,0.1,3 John,B175,B275
+65,66,JUD,66,1,1,1,1,,,,,,0.1,Jude,B176,B276
+66,67,REV,67,22,1,22,1,,,,,,0.1,Revelation,B177,B277
 ,,,,,,,,,,,,,,NT Back Matter,B178,B280
 ,B0,TDX,6D,,,0,,,,,,,,Topical Index,B180,B281
 ,A8,CNC,6B,,,0,,,,,,,,Concordance,B182,B282
