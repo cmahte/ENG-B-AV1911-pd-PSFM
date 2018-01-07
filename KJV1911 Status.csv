@@ -1,31 +1,24 @@
 OO,BK,BKID,HN,Ch,vs PCE,Text Ck,Add Wds,Pilcrows,X-Refs,Alternates,Ch Sum,Headers,Bk Intros,Title,Canon,Hist
+0,A0,FRT,00,,1,0,,,,,,,1,Front Matter,B100,B200
+,,INT,,,,,,,,,,,0,Law Intro,B101,B201
 1,1,GEN,01,50,1,50,,,,,,,1,Genesis,B102,B202
 2,2,EXO,02,40,,0,,,,,,,1,Exodus,B103,B203
 3,3,LEV,03,27,,0,,,,,,,1,Leviticus,B104,B204
 4,4,NUM,04,36,,0,,,,,,,1,Numbers,B105,B205
 5,5,DEU,05,34,,0,,,,,,,1,Deuteronomy,B106,B206
-6,6,JOS,06,24,,0,,,,,,,1,Joshua,B110,B209
-7,7,JDG,07,21,,0,,,,,,,1,Judges,B111,B210
-8,8,RUT,08,4,1,4,,,,,,,1,Ruth,B112,B239
-9,9,1SA,09,31,,0,,,,,,,1,1 Samuel,B113,B211
-10,10,2SA,10,24,,0,,,,,,,1,2 Samuel,B114,B212
-11,11,1KI,11,22,,0,,,,,,,1,1 Kings,B115,B213
-12,12,2KI,12,25,,0,,,,,,,1,2 Kings,B116,B214
-13,13,1CH,13,29,0,5.999375,,,,,,,1,1 Chronicles,B117,B246
-14,14,2CH,14,36,,0,,,,,,,1,2 Chronicles,B118,B247
-15,15,EZR,15,10,1,10,,,,,,,1,Ezra,B119,B244
-16,16,NEH,16,13,1,13,,,,,,,1,Nehemiah,B120,B245
-17,17,EST,17,10,1,10,,,,,,,1,Esther (Hebrew),B121,B242
-18,18,JOB,18,42,1,42,,,,,,,1,Job,B125,B237
-19,19,PSA,19,150,1,150,,,,,,,1,Psalms,B126,B235
-20,20,PRO,20,31,1,31,,,,,,,1,Proverbs,B127,B236
-21,21,ECC,21,12,1,12,,,,,,,1,Ecclesiastes,B128,B241
-22,22,SNG,22,8,1,8,,,,,,,1,Song of Songs,B129,B238
+,,INT,,,,,,,,,,,0,History A Intro,B108,B207
+6,6,JOS,06,24,,0,,,,,,,1,Joshua,B110,B208
+7,7,JDG,07,21,,0,,,,,,,1,Judges,B111,B209
+9,9,1SA,09,31,,0,,,,,,,1,1 Samuel,B113,B210
+10,10,2SA,10,24,,0,,,,,,,1,2 Samuel,B114,B211
+11,11,1KI,11,22,,0,,,,,,,1,1 Kings,B115,B212
+12,12,2KI,12,25,,0,,,,,,,1,2 Kings,B116,B213
+,,,,,,,,,,,,,,Law Back Matter,B107,B214
+,,,,,,,,,,,,,,History A Back,B122,B215
+,,INT,,,,,,,,,,,0,Prophets Intro,B131,B216
 23,23,ISA,23,66,,0,,,,,,,1,Isaiah,B132,B217
 24,24,JER,24,52,,0,,,,,,,1,Jeremiah,B133,B218
-25,25,LAM,25,5,1,5,,,,,,,1,Lamentations,B134,B240
 26,26,EZK,26,48,,0,,,,,,,0.1,Ezekiel,B135,B219
-27,27,DAN,27,12,1,12,,,,,,,0.1,Daniel (Hebrew),B136,B243
 28,28,HOS,28,14,,0,,,,,,,0.1,Hosea,B137,B220
 29,29,JOL,29,3,,0,,,,,,,0.1,Joel,B138,B221
 30,30,AMO,30,9,,0,,,,,,,0.1,Amos,B139,B222
@@ -38,10 +31,30 @@ OO,BK,BKID,HN,Ch,vs PCE,Text Ck,Add Wds,Pilcrows,X-Refs,Alternates,Ch Sum,Header
 37,37,HAG,37,2,,0,,,,,,,0.1,Haggai,B146,B229
 38,38,ZEC,38,14,,0,,,,,,,0.1,Zechariah,B147,B230
 39,39,MAL,39,4,,0,,,,,,,0.1,Malachi,B148,B231
+,,,,,,,,,,,,,,Prophets Back,B149,B232
+,,INT,,,,,,,,,,,0,Writings Intro,B124,B233
+19,19,PSA,19,150,1,150,,,,,,,1,Psalms,B126,B234
+20,20,PRO,20,31,1,31,,,,,,,1,Proverbs,B127,B235
+18,18,JOB,18,42,1,42,,,,,,,1,Job,B125,B236
+22,22,SNG,22,8,1,8,,,,,,,1,Song of Songs,B129,B237
+8,8,RUT,08,4,1,4,,,,,,,1,Ruth,B112,B238
+25,25,LAM,25,5,1,5,,,,,,,1,Lamentations,B134,B239
+21,21,ECC,21,12,1,12,,,,,,,1,Ecclesiastes,B128,B240
+,,INT,,,,,,,,,,,,History B Intro,B109,B241
+17,17,EST,17,10,1,10,,,,,,,1,Esther (Hebrew),B121,B242
+27,27,DAN,27,12,1,12,,,,,,,0.1,Daniel (Hebrew),B136,B243
+15,15,EZR,15,10,1,10,,,,,,,1,Ezra,B119,B244
+16,16,NEH,16,13,1,13,,,,,,,1,Nehemiah,B120,B245
+13,13,1CH,13,29,1,29,,,,,,,1,1 Chronicles,B117,B246
+14,14,2CH,14,36,,0,,,,,,,1,2 Chronicles,B118,B247
+,,,,,,,,,,,,,,Writings Back,B130,B248
+,,,,,,,,,,,,,,History B Back,B123,B249
+,A7,INT,40,,,0,,,,,,,0,NT Intro,B150,B250
+43,44,JHN,44,21,1,21,,,,,,,0.1,John,B154,B251
+62,63,1JN,63,5,1,5,,1,,,,,0.1,1 John,B173,B252
 40,41,MAT,41,28,1,28,,,,,,,0.1,Matthew,B151,B253
 41,42,MRK,42,16,1,16,,,,,,,0.1,Mark,B152,B254
 42,43,LUK,43,24,1,24,,,,,,,0.1,Luke,B153,B255
-43,44,JHN,44,21,1,21,,,,,,,0.1,John,B154,B251
 44,45,ACT,45,28,1,28,,,,,,,0.1,Acts,B155,B256
 45,46,ROM,46,16,1,16,,,,,,,0.1,Romans,B156,B257
 46,47,1CO,47,16,1,16,,,,,,,0.1,1 Corinthians,B157,B258
@@ -60,27 +73,14 @@ OO,BK,BKID,HN,Ch,vs PCE,Text Ck,Add Wds,Pilcrows,X-Refs,Alternates,Ch Sum,Header
 59,60,JAS,60,5,1,5,,,,,,,0.1,James,B170,B271
 60,61,1PE,61,5,1,5,,1,,,,,0.1,1 Peter,B171,B272
 61,62,2PE,62,3,1,3,,1,,,,,0.1,2 Peter,B172,B273
-62,63,1JN,63,5,1,5,,1,,,,,0.1,1 John,B173,B252
 63,64,2JN,64,1,1,1,,1,,,,,0.1,2 John,B174,B274
 64,65,3JN,65,1,1,1,,1,,,,,0.1,3 John,B175,B275
 65,66,JUD,66,1,1,1,,1,,,,,0.1,Jude,B176,B276
 66,67,REV,67,22,1,22,,1,,,,,0.1,Revelation,B177,B277
-0,A0,FRT,00,,1,0,,,,,,,1,Front Matter,B100,B200
-67,A1,BAK,6A,,,0,,,,,,,,Back Matter,B184,B286
-,A2,OTH,6F,,,0,,,,,,,,Other Matter,B183,B284
-,A7,INT,40,,,0,,,,,,,0,NT Intro,B150,B250
+,,,,,,,,,,,,,,NT Back Matter,B178,B280
+,B0,TDX,6D,,,0,,,,,,,,Topical Index,B180,B281
 ,A8,CNC,6B,,,0,,,,,,,,Concordance,B182,B282
 ,A9,GLO,6C,,,0,,,,,,,,Glossary / Wordlist,B179,B283
-,B0,TDX,6D,,,0,,,,,,,,Topical Index,B180,B281
+,A2,OTH,6F,,,0,,,,,,,,Other Matter,B183,B284
 ,B1,NDX,6E,,,0,,,,,,,,Names Index,B181,B285
-,,INT,,,,,,,,,,,0,Law Front Matter,B101,B201
-,,,,,,,,,,,,,,Law Back Matter,B107,B207
-,,INT,,,,,,,,,,,0,History A Front,B108,B208
-,,INT,,,,,,,,,,,,History B Front,B109,B234
-,,,,,,,,,,,,,,History A Back,B122,B215
-,,,,,,,,,,,,,,History B Back,B123,B249
-,,INT,,,,,,,,,,,0,Writings Intro,B124,B233
-,,,,,,,,,,,,,,Writings Back,B130,B248
-,,INT,,,,,,,,,,,0,Prophets Intro,B131,B216
-,,,,,,,,,,,,,,Prophets Back,B149,B232
-,,,,,,,,,,,,,,NT Back Matter,B178,B280
+67,A1,BAK,6A,,,0,,,,,,,,Back Matter,B184,B286
