@@ -1,4 +1,4 @@
-Title,USFM ID,USFM IDN,PSFM IDN,Org Ord,Canonic Order,Historic Order,Chapters,Txt Chk,Txt Review,Paragraphs,Added Wds,X-Refs,Alt-Rdg,Ch Sum,Headers,Bk Intros
+Title,UID,UIN,PIN,OO,CanO,HisO,Ch,Tx-ck,Tx-rv,Pars,Add,Xref,FN,C-Sum,Hdr,Bk-Int
 Front Matter,FRT,A0,0,0,B100,B200,10,1,1,1,,,,,,1
 Law Intro,INT,,,,B101,B201,,,,,,,,,,0
 Genesis,GEN,1,1,1,B102,B202,50,1,1,0.2,,,,,,0.5
