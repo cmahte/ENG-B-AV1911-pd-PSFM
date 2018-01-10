@@ -2,7 +2,7 @@ Title,UID,UIN,PIN,OO,CanO,HisO,Ch,Tx-ck,Tx-rv,Pars,Add,Xref,FN,C-Sum,Hdr,Bk-Int
 Front Matter,FRT,A0,0,0,B100,B200,10,1,1,1,,,,,,1
 Law Intro,INT,,,,B101,B201,,,,,,,,,,0
 Genesis,GEN,1,1,1,B102,B202,50,1,1,0.2,,,,,,0.5
-Exodus,EXO,2,2,2,B103,B203,40,0.25,,0.2,,,,,,0.5
+Exodus,EXO,2,2,2,B103,B203,40,0.45,,0.2,,,,,,0.5
 Leviticus,LEV,3,3,3,B104,B204,27,0,,0.2,,,,,,0.5
 Numbers,NUM,4,4,4,B105,B205,36,0,,0.2,,,,,,0.5
 Deuteronomy,DEU,5,5,5,B106,B206,34,0,,0.2,,,,,,0.5
